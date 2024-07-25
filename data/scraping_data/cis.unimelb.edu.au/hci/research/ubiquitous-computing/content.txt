@@ -1,0 +1,28 @@
+URL: https://cis.unimelb.edu.au/hci/research/ubiquitous-computing
+
+Ubiquitous computing: Human-Computer Interaction, The University of Melbourne
+
+Our research seeks to develop novel technologies that move beyond the desktop computing paradigm.The topics we work on include context awareness, sensing techniques, smartphone technologies, wearables, the Internet of Things, mobility analysis, and smart environments. Our work brings together novel sensing approaches, machine learning and AI, and interactive technologies to develop technologies for everyday settings that can understand human behaviour and respond to it.
+
+Computing systems that sense, model, and adapt to their users’ cognitive states.
+
+Our research aims to improve the accessibility of Near Infrared Spectroscopy (NIRS) devices for non-expert end-users and to explore novel application domains for the technology.
+
+Reading in a digital world: building new reading experiences and measuring reading behaviour in-the-wild.
+
+We are developing software to enable scientists to use smartphones as a reliable scientific instrument. Our project has a wide range of activities, including how to make it easier to collect data from smartphones, as well as how to analyse sensor data on smartphones and other mobile or wearable gadgets.
+
+Smart Hospital Living Lab
+An umbrella program involving multiple technology projects at the University of Melbourne in partnership with hospitals and industry. The main purpose of the lab is to improve how hospitals run.
+
+Can computers deceive people? It is clear that computers be used as tools for people to deceive each other (fake news, phishing, etc), but is it possible for a specially designed AI agent to engage in strategic deception?
+
+This project investigates how (and where, when and why) people use digital technologies to shape their emotional states. We plan to develop an evidence-based framework for understanding “digital emotion regulation” in everyday settings.
+
+Contact usVassilis KostakosEmail: vassilis.kostakos@unimelb.edu.auPeopleTilman Dingler, Lecturer in Human Computer InteractionGreg Wadley, Senior LecturerJorge Goncalves, Senior Lecturer in Human-Computer InteractionWally Smith, Associate ProfessorSimon D’Alfonso, Lecturer in Digital HealthBenjamin Tag,  LecturerZhanna Sarsenbayeva, Doreen Thomas Postdoctoral Fellow
+
+https://cms.unimelb.edu.au/central-site-management/content-templates/news-listing/v4-assets-dynamic-loading/v4-list-parent-id-new?rootnode=3864073&template=block-listing&numAssets=8&readMore=false
+
+Show more
+
+

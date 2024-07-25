@@ -1,0 +1,11 @@
+URL: https://cis.unimelb.edu.au/study/first-year-centre/undergraduate-programs/first-year-in-cis
+
+First Year in CIS
+
+First Year in CIS
+
+First Year in CIS
+
+The school of Computing and Information Systems offers two subjects to first year students. COMP10001: Foundations of Computing, and COMP10002: Foundations of Algorithms. COMP10001 assumes no prior knowledge of computing and is open to students from all backgrounds. Many students have no programming experience before enrolling in the subject and complete the course with the critical thinking and technical skills to solve complex problems using the programming language Python.Following this, COMP10002 familiarises students with low-level details of program execution using the programming language C. In this subject, students gain a greater understanding and appreciation for the algorithms that facilitate modern, digital life. The subject teaches students to write efficient programs, and provides them with the tools required to analyse the complexity of the programs they write. After completing Foundations of Algorithms, students will be equipped with the knowledge required to specialise in specific fields of Computing and Information systems in the following years of their degrees.Foundational computing subjects are easy to incorporate into your course plan, since both subjects are offered in both semesters each year. Generally COMP10001 must be successfully completed before enrolling in COMP10002, but students with existing programming experience who wish to bypass the COMP10001 prerequisite and enrol in COMP10002 should consider taking the Programming Proficiency Test. This is run at the start of each semester, and a score of at least 75% must be achieved to bypass the COMP10001 prerequisite.Programming Proficiency Test
+
+

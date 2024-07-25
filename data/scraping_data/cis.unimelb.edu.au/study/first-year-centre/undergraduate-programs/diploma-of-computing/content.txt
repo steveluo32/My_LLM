@@ -1,0 +1,119 @@
+URL: https://cis.unimelb.edu.au/study/first-year-centre/undergraduate-programs/diploma-of-computing
+
+Diploma of Computing
+
+Diploma of Computing
+
+Diploma of Computing
+
+The Diploma in Computing is available to students enrolled in any undergraduate degree, and with any level of prior experience in Computing and Information Systems. The diploma provides an excellent way to pursue your interests in programming, data science, and IT while continuing to work toward your undergraduate degree.
+
+The Diploma in Computing adds 8 IT-related subjects to your course plan, and is designed to be taken concurrently with an undergraduate degree to complement your existing studies. Up to 4 subjects from the diploma are able to be cross-credited from your undergraduate degree.Our first year subjects assume no prior programming experience, and students from every background are welcome to enrol in the diploma to build essential IT skills.More information about the diploma can be found on the Diploma in Computing course page, and some sample course plans showing how the diploma can be taken alongside an undergraduate degree are presented below.
+
+  Sample Course Plans
+
+  Without Cross-crediting
+
+This course plan shows how a student could complete the Diploma in Computing without using the breadth subjects in their concurrent undergraduate degree to gain cross-credit. In this scenario, the diploma adds 8 subjects to the degree, adding an additional year to their studies.
+Notes:
+
+It is possible to overload in certain semesters to reduce the overall study duration.
+The subjects selected as electives here may be switched for any other subjects offered within the school of CIS.
+This example shows only one possible way of completing the subjects in your diploma over the course of your undergraduate degree. You are encouraged to take different amounts of subjects from the diploma in different semesters of your degree to best accomodate your personal study plan.
+
+First YearSemester 1
+CompulsoryFoundations of ComputingCOMP10001
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+First YearSemester 2
+Elective (Diploma of Computing)Foundations of AlgorithmsCOMP10002
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Second YearSemester 1
+Elective (Diploma of Computing)Elements of Data ProcessingCOMP20008
+Elective (Diploma of Computing)Design of AlgorithmsCOMP20007
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Second YearSemester 2
+Elective (Diploma of Computing)Software Modelling and DesignSWEN20003
+Elective (Diploma of Computing)Database SystemsINFO20003
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Third YearSemester 1
+CompulsorySoftware Modelling and DesignSWEN30006ORCompulsoryWeb Information TechnologiesINFO30005
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Third YearSemester 2
+Elective (Diploma of Computing)Artificial IntelligenceCOMP30024
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Fourth YearSemester 1
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Fourth YearSemester 2
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+  With Cross-credit From Undergraduate Breadths
+
+In this sample course plan, the student has taken four CIS subjects for the breadth component of their undergraduate degree. This allows them to gain cross-credit for these subjects, and means they only require 4 additional subjects to complete their Diploma in Computing.
+Many students follow a path like this if they begin by taking CIS subjects as breadth, then decide to pursue the Diploma in Computing for an official qualification.
+
+First YearSemester 1
+Breadth from Undergraduate DegreeFoundations of ComputingCOMP10001
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+First YearSemester 2
+Breadth from Undergraduate DegreeFoundations of AlgorithmsCOMP10002
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Second YearSemester 1
+Breadth from Undergraduate DegreeElements of Data ProcessingCOMP20008
+Elective (Diploma of Computing)Design of AlgorithmsCOMP20007
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Second YearSemester 2
+Breadth from Undergraduate DegreeSoftware Modelling and DesignSWEN20003
+Elective (Diploma of Computing)Database SystemsINFO20003
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Third YearSemester 1
+CompulsorySoftware Modelling and DesignSWEN30006ORCompulsoryWeb Information TechnologiesINFO30005
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Third YearSemester 2
+Elective (Diploma of Computing)Artificial IntelligenceCOMP30024
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+Fourth YearSemester 1
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+Subject From Undergraduate Degree
+
+

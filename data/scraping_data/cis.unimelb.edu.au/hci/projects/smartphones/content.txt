@@ -1,0 +1,7 @@
+URL: https://cis.unimelb.edu.au/hci/projects/smartphones
+
+Smartphones for science: Human-Computer Interaction, The University of Melbourne
+
+Project overview We are developing software to enable scientists to use smartphones as a reliable scientific instrument. Our project has a wide range of activities, including how to make it easier to collect data from smartphones, as well as how to analyse sensor data on smartphones and other mobile or wearable gadgets.Specifically, we aim to make it easy for non-technical scientists to collect sensor data from smartphones, as well as questionnaire and opinion data. Our tools are developed to support large-scale global experiments. A number of international collaborators are involved in this project, and multiple publications in leading journals and conferences have been published.  We are collaborating with a range of disciplines, including health, education, and psychology, to develop new ways in which smartphones can enable novel experiments and insights.  More information about one of our popular software tools is available at: AWARE: Open-source Context Instrumentation Framework For Everyone.In addition, we are developing novel sensing technique for smartphones and mobile devices. We are interested in investigating how the variety of sensors on these devices can be used to infer users’ behaviour, context, and how they can enable new ways of interacting with technology.Contact detailsProf Vassilis KostakosProfessor of Human Computer InteractionEmail: vassilis.kostakos@unimelb.edu.au
+
+

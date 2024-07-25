@@ -1,0 +1,5 @@
+URL: https://cis.unimelb.edu.au/hci/projects/xr-for-human-robot-interaction
+
+XR for Human-Robot InteractionProject OverviewAugmented reality (AR) technologies are today more frequently being introduced to Human-Robot Interaction (HRI) to mediate the interaction between human and robot. Indeed, better technical support and improved framework integration allow the design and study of novel scenarios augmenting interaction with AR.In this project we aim to investigate and leverage XR to enable better HRI.CollaborationThis research is conducted in collaboration with UNSW Sydney.ContactWafa JohalEmail: wafa.johal@unimelb.edu.auPublicationsO. Phaijit, M. Obaid, C. Sammut and W. Johal, "A Demonstration of the Taxonomy of Functional Augmented Reality for Human-Robot Interaction," 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2022, pp. 981-985, doi: 10.1109/HRI53351.2022.9889390
+
+

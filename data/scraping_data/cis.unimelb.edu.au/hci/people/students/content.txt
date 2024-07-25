@@ -1,0 +1,102 @@
+URL: https://cis.unimelb.edu.au/hci/people/students
+
+Graduate researchers: Human-Computer Interaction, School of Computing and Information Systems, The University of Melbourne
+
+Human-Computer Interaction Graduate ResearchersGiven Family nameProfile Thesis Title
+        Madeleine
+      
+        Antonellos
+      Profile
+        Developing digital careers: a case study on cosplay in Australia
+      EmmaBaillieProfileInvestigating Social Media Structures, Incentives and Interactions using AI Agents
+        Nattapat
+      
+        Boonprakong
+      ProfileUnderstanding, Detecting, and Mitigating Cognitive Biases that Aid the Spread of MisinformationThomasByersProfileLength of Play: Design, Impact and Repercussions of Ongoing Player Engagement with Video Games
+        Daniel
+      
+        Cabrera Lozoya
+      Profile
+        Augmenting clinical mental health practice with machine learning models and digital phenotyping insights
+      
+        Wendy
+      
+        Cavenett
+      Profile
+        Narrative gerontology and (re)discovering the person within: The impact of storytelling and story listening in virtual worlds on older adults living in residential aged care
+      AdamDaviesProfileHealth Identifiers: Integrating Australia's health systemsJosephineDeloreProfileDeveloping human-centred parameters for mathematical optimisation to create an intuitive experienceRuijiangDongProfileHypothesis Transfer for Foundation ModelsRubyEdwardsProfileExperimental play in Dungeons & Dragons: How digital platforms, emerging technologies and AI are changing the way we play D&D, and what this means for the sociocultural future of roleplay and playLeFangProfileSocial Media Use for Emotional Regulation on Smartphones
+        Sophie
+        Freeman
+      Profile
+        Machine learning and music discovery: something lost, something gained
+      
+        Elsy
+      
+        Garcia Reyes
+      Profile
+        Understanding the acceptance and use of home-based care technologies by older adults
+      SuwaniGunasekaraProfileTBCJarodGoversProfileConversational AI simulation for content-moderation and misinformation detection
+        Bing-yi
+      
+        HanProfile
+        Ethical challenges in AI Education
+      GeoffreyHillProfilePrivate MMO servers as video game preservationUlanKelesbekovProfileDesigning Multi-Purpose Haptic Controller for Virtual Reality
+        Sara
+      
+        Khorasani
+      Profile
+        Harnessing immersive simulation data in real-time to analyze user performance in virtual environments and guide training development
+      
+        Rui
+      
+        Liu
+      Profile
+        Digital resource aggregation: using linked data to aggregate academic resources in the digital humanities discipline
+      XantheLowe-BrownProfileCan your phone improve your wellbeing? Ethical, human-centred design and evaluation of a music recommender system that incorporates user mood and personality
+        Henrietta
+      
+        Lyons
+      Profile
+        Developing human-centred explanations for decisions made by artificial intelligence
+      
+        Ying
+      
+        Ma
+      Profile
+        Analysis and modelling of  complex behaviours in social media
+      
+        Gabriele
+      
+        Marini
+      Profile
+        Reliable Operating Room (ROR)
+      
+        Brian
+      
+        McKitrick
+      Profile
+        How do Let’s Play communities define themselves?
+      
+        Toni
+      
+        McLennan
+      Profile
+        Living Life Online: Online Technologies and Personal Identity
+      SaumyaPareekProfileTackling Misinformation in Online Environments and Designing Effective InterventionsPiumiPereraProfileMixed Realities in Encounters with NatureJessRowlingsProfileExperiences of agency and empowerment of neurodivergent women in online gaming spacesSarah VictoriaSchoembsProfileMaking sense of robot data: Data Visualization in Human- Robot InteractionEleanorSealeProfileThesis title: Education, Entertainment, and Engagement in Museums in the Digital AgeCherie Mei YeeSewProfileAnalysing user behaviour towards influencer generated contentMatthewSidjiProfileExploring the Role of Mental Models in Human-AI Relations Seyed RamtinTabatabaei MoghaddamProfileGaze and multi-modal data for Human-Robot InteractionSongyanTengProfileEnabling Proactive Communication Between Smartphones and HumansSamangiWadinambi ArachchiProfileKindling creative insight through multi-sensory creativity supportKyleWarwickProfileVisualising Non-Present Players in Material BoardgamesYushanXingProfileDesigning for Social Connectedness in Later Life
+        Stella
+      
+        YuanProfile
+        Ethical implications of data driven social credit system
+      HuiwenZhangProfileImproving Browsing For Online CollectionsJianZhangProfileExploring the Impact of Haptic Feedback on the VR User Experience
+        Mo
+      
+        Zhang
+      Profile
+        Usable security of medical devices
+      ShiquanZhangProfileAI-Supported Collaborative Decision Making in Smart EnvironmentsYanZhangProfileImplicit Behaviours in Human-Robot Collaboration
+        Wei
+        Zhao
+      Profile
+        Designing for social engagement in aged care
+
+

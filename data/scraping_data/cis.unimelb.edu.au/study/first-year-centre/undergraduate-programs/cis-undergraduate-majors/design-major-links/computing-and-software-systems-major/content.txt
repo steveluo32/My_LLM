@@ -1,0 +1,57 @@
+URL: https://cis.unimelb.edu.au/study/first-year-centre/undergraduate-programs/cis-undergraduate-majors/design-major-links/computing-and-software-systems-major
+
+Computing and Software Systems Major
+
+Undergraduate Majors
+
+Computing and Software Systems
+
+Computing and Software Systems Major
+
+The Computing and Software Systems major is the most popular CIS major in the Bachelor of Science. This major introduces students to programming and computer science from the first semester of their degree, and allows them to specialise in certain areas of computing and IT in the following years. Students in this major learn to create innovative solutions to complex problems, harness the power of data to inform decision-making, and develop software applications in hands-on, practical projects.
+
+Course OverviewIn the first year of the degree, students will be introduced to the fundamentals of programming, computer science, and algorithms in our foundational CIS subjects. These assume no prior IT knowledge and provide students with the skills to begin programming independently, and to create efficient solutions to complex problems. Computing and Software Systems students are also required to complete at least two subjects of university-level mathematics as prerequisites for CIS studies later on in their degree. Most students choose to take these in first year, leaving the option open of further studies in mathematics.In the second year, students have mastered the fundamentals of programming and algorithms, and have the knowledge to begin specialising in specific areas of interest. Examples of subjects available in second year include Object Oriented Software Development, Elements of Data Processing, and Design of Algorithms, among others.In the third year, students are required to take core subjects, including Software Modelling and Design, and Models of Computation. Students will also have the opportunity to undertake an IT project, and complete electives in areas such as Artificial Intelligence.More Information About the Computing and Software Systems MajorThe Computing and Software Systems major provides a natural pathway for students who wish to complete the Master of Software Engineering and become a qualified software engineer. The major also acts as a pathway to master's courses such as Information Technology, and Computer Science.
+
+  Sample Course Plan
+
+    This course plan shows one way that a student could arrange core and elective subjects throughout the three years of their Bachelor of Science to fulfil the requirements of the Computing and Software Systems Major.
+
+    Note that it it possible to take up to 5 breadth subjects, and to choose different electives in the elective slots that have been filled in this example.
+
+First YearSemester 1
+CompulsoryToday's Science, Tomorrow's WorldSCIE10005
+Core PrerequisiteFoundations of ComputingCOMP10001
+Maths RequirementCalculus 2MAST10006OROther First Year Maths Subject
+Breadth
+
+First YearSemester 2
+Core PrerequisiteFoundations of AlgorithmsCOMP10002
+Maths RequirementLinear AlgebraMAST10007OROther First Year Maths Subject
+Science Elective
+Breadth
+
+Second YearSemester 1
+Core PrerequisiteDesign of AlgorithmsCOMP20007
+ElectiveElements of Data ProcessingCOMP20008
+Science Elective
+Breadth
+
+Second YearSemester 2
+Breadth from Undergrad DegreeSoftware Modelling and DesignSWEN20003
+ElectiveDatabase SystemsINFO20003
+Science Elective
+Breadth
+
+Third YearSemester 1
+Compulsory (Major Core)Software Modelling and DesignSWEN30006
+Compulsory (Major Core)Computer SystemsCOMP30023
+ElectiveArtificial IntelligenceCOMP30024
+Science ElectiveORBreadth
+
+Third YearSemester 2
+Compulsory (Major Core)Models of ComputationCOMP30026
+Compulsory (Major Core)IT ProjectCOMP30022
+ElectiveDeclarative ProgrammingCOMP30020
+Science Elective
+
+

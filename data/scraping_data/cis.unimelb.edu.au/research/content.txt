@@ -1,0 +1,42 @@
+URL: https://cis.unimelb.edu.au/research
+
+Research: School of Computing and Information Systems, The University of Melbourne
+
+The School of Computing and Information Systems is an international research leader in computer science, information systems and software engineering. We are focused on delivering impact in the following key areas:
+
+Research themes
+
+Our researchers address many different approaches to AI, encompassing deep learning, data mining, machine learning, natural language processing, and agent-based systems.
+
+Current areas of excellence include programming languages, algorithms, distributed computing, and cybersecurity and cryptography.
+
+We study, teach and are fascinated by issues arising from humans interacting with emerging technologies.
+
+The study of the interplay between information technology, its users (people), and the operations (business processes) through which this technology is used.
+
+Research centres
+
+Our research capability is focused on key challenges, including detecting attacks in large, complex systems, using formal methods to design platforms that are resilient to attack, designing robust controllers for critical infrastructure, and providing a legal framework for the governance of cyber operations that span a range of jurisdictions.
+
+ARC ITTC in Optimisation Technologies, Integrated Methodologies and Applications (OPTIMA)
+Training a new generation of industry practitioners and young researchers to build a highly skilled workforce, vanguarding the uptake of advanced optimisation technologies to support industrial transformation.
+
+ARC Training Centre in Cognitive Computing for Medical Technologies
+The Centre is aimed at creating a workforce that is expert in developing, applying and interrogating artificial intelligence applications in data-intensive medical contexts, to facilitate the next generation of data-driven and machine learning-based medical technologies.
+
+Centre for Artificial Intelligence and Digital Ethics (CAIDE)
+Facilitating cross-disciplinary research, teaching and leadership on the ethical, regulatory and legal issues relating to Artificial Intelligence (AI) and digital technologies.
+
+Centre for Digital Transformation of Health
+Health informatics and digital health are a recurring theme within all the School’s research areas. We specialise in health data analytics; personal technologies; and IT systems processes and management.
+
+Centre for Research Excellence in Digital Technology to Transform Chronic Disease Outcomes
+We leverage the ubiquitous availability of smart devices and digital technology to improve the health and wellbeing of the population, particularly those with different chronic conditions.
+
+Melbourne Centre for Data Science (MCDS)
+At the Melbourne Centre for Data Science, we are forging a vibrant, research rich and engaging interdisciplinary environment to lead advances in data science for the benefit of society.
+
+ARC Digital Bioprocess Development Hub
+The ARC Digital Bioprocess Development Hub will address key bioprocessing research challenges and develop new process and digital models that can predict and optimise manufacturing processes, resulting in greater yields, faster and more flexible processes and enhanced product stability.
+
+

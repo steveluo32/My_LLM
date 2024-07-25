@@ -1,0 +1,21 @@
+URL: https://cis.unimelb.edu.au/research/digital-health/about/digital-mental-health
+
+Digital Mental Health and Artificial Intelligence, The University of Melbourne
+
+Digital Mental Health
+
+Digital Mental Health
+
+Digital technologies are increasingly being used for mental health care, and artificial intelligence in particular has the potential to play significant roles in the prediction, detection, and treatment of mental ill-health and the promotion of mental wellbeing.We draw on our expertise across the school in artificial intelligence, human-computer interaction and information systems to research and develop digital solutions for mental health care. Our activity includes:Design and development of digital mental health software, particularly apps.Incorporating intelligence into mental health apps to enhance user experience and optimise personalised mental health care.Digital phenotyping and the use of digital footprint information to predict mental health and inform treatment.Natural language processing analytics of social media text and counselling transcripts to extract mental health insights.Virtual and augmented reality for mental health.Investigation into the ethical and human-computer dimensions of digital mental health.
+
+Digital Phenotyping
+
+Digital Therapeutic Alliance
+
+Natural Language Processing and Conversational Technologies for Clinical Practice
+
+Making Mental Health Apps Smarter
+
+Personal Sensing Analytics
+
+

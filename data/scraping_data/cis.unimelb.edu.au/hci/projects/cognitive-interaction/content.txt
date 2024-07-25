@@ -1,0 +1,7 @@
+URL: https://cis.unimelb.edu.au/hci/projects/cognitive-interaction
+
+Cognitive interaction: Human-Computer Interaction, The University of Melbourne
+
+Project overviewIn this project, we are developing tools, algorithms, and interaction techniques that enable us to build systems that take into account the user’s cognitive states. Our technologies aim to capture what is on the users’ minds, and respond to it.For example, we are currently investigating how users’ future actions can be predicted from their eye movements. With the help of eye trackers, we can know precisely where users focus their attention, and build models that predict what actions they will perform next. We are testing this principle in a board game scenario, where we are building an Artificial Intelligence that can plan their moves based on how their opponents look at the board.We are also interested in inferring cognitive states unobtrusively through thermal imaging. Our recent work has demonstrated that we can robustly infer how difficult is the task the user is engaged in by analysing the temperature distribution of the user’s face. We are now building tutoring systems that combine both eye tracking data and thermal imaging data to assist students when they find difficulties.Contact detailsDr Eduardo VellosoLecturer in Human-Computer InteractionEmail: eduardo.velloso@unimelb.edu.au
+
+

@@ -1,0 +1,33 @@
+URL: https://cis.unimelb.edu.au/study/first-year-centre/undergraduate-programs/cis-undergraduate-majors
+
+CIS Undergraduate Majors
+
+Undergraduate Majors
+
+CIS Undergraduate Majors
+
+Undergraduate studies in CIS are accessible to students with no prior programming experience, as well as those who have some experience with computational thinking and programming fundamentals. Our undergraduate subjects are provided via the Bachelor of Design or Bachelor of Science degrees.
+
+CIS Majors in the Bachelor of Science
+
+Computing and Software Systems Major
+The Computing and Information Systems major is the largest undergraduate major in the school of CIS. This flexible major allows Science and Design students to pursue their own interests in IT, and acts as a natural pathway to many master's courses.
+
+Data Science Major
+The Data Science major covers essential topics in statistics and computer science and equips students with the tools needed to process big data and deploy state-of-the-art predictive and machine learning models.
+
+Spatial Systems Major
+The Spatial Systems major prepares students to collect, process, analyse, and generate insights from spatial data. It is available through the Bachelor of Science and Bachelor of Design.
+
+CIS Majors in the Bachelor of Design
+
+Computing and Software Systems Major
+The Computing and Information Systems major is the largest undergraduate major in the school of CIS. This flexible major allows Science and Design students to pursue their own interests in IT, and acts as a natural pathway to many master's courses.
+
+User Experience Design
+The major in User Experience Design provides you with practical skills in creating web-based media, mobile media, and interactive media.
+
+Spatial Systems Major
+The Spatial Systems major prepares students to collect, process, analyse, and generate insights from spatial data. It is available through the Bachelor of Science and Bachelor of Design.
+
+

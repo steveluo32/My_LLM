@@ -1,0 +1,63 @@
+URL: https://cis.unimelb.edu.au/research/computer-science/research/software-engineering
+
+Software Engineering
+
+Software Engineering
+
+Software Engineering
+
+About UsSoftware Engineering is a multidisciplinary field which focuses on the systematic design, development, testing, and maintenance of software applications and systems. By bringing together principles from computer science with engineering best practices, the research area of software engineering investigates the methodologies, tools, and techniques needed to build software that is reliable, scalable, and efficient. From understanding user requirements to post-deployment maintenance, software engineering embodies the entire lifecycle of software development. Research areas within this theme encompass topics such as software quality assurance, agile methodologies, program repair, and human and social aspects of software engineering.
+
+Staff Given name Family namePositionProfileEmail
+        Philip 
+      
+        Dart
+      
+        Lecturer
+      Profilephilip.dart@unimelb.edu.au
+        Bach 
+      
+        Le
+      
+        ARC DECRA Fellow
+      Profilebach.le@unimelb.edu.au
+        Eduardo 
+      
+        Oliveira
+      
+        Lecturer
+      Profileeduardo.oliveira@unimelb.edu.au
+        Peter 
+      
+        Schachte
+      
+        Lecturer
+      Profileschachte@unimelb.edu.au
+        Leon 
+      
+        Sterling
+      
+        Professor
+      Profileleonss@unimelb.edu.au
+        Patanamon 
+      
+        Thongtanunam
+      
+        ARC DECRA Fellow
+      Profilepatanamon.t@unimelb.edu.au
+        Christoph 
+      
+        Treude
+      
+        Lecturer
+      Profilechristoph.treude@unimelb.edu.au
+        Mansooreh 
+      
+        Zahedi
+      
+        Lecturer
+      Profilemansooreh.zahedi@unimelb.edu.auGraduate ResearchersGiven name Family nameProfile Thesis TitleWachiraphan CharoenwetProfilePragmatic use of CodeQL in the Context of Code ReviewHaoyu GaoProfileTechnical Document SimplificationVinay KabadiProfileN/ACong-Thanh LeProfileAutomated Software Bug FixingHong Yi LinProfileUsing Neural Machine Translation Approaches to Automate Code Improvements for Code ReviewsHuy NguyenProfileEncoding additional natural language artefacts for better code representationThanh-Dat NguyenProfileMachine learning for program synthesisLarissa SalernoProfileSoftware installation in third-party software ecosystems
+
+ProjectsPractical Automated Software Bug Fixing via Syntactic and Semantic AnalysesThis project enhances automated software bug repair by integrating mining software repositories, program analysis, and human-guided search, resulting in improved software reliability, safety, and automated feedback for coding education.Data-Driven Code Reviews for Cost-Effective Software Quality AssuranceThis project revolutionizes software quality assurance by introducing advanced, data-driven techniques that automate feedback and reviewer recommendations, enhancing efficiency, reducing costs, and elevating the quality of safety-critical software systems.
+
+

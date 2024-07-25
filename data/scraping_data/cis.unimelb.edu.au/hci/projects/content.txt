@@ -1,0 +1,112 @@
+URL: https://cis.unimelb.edu.au/hci/projects
+
+Projects: Human-Computer Interaction, School of Computing and Information Systems, The University of Melbourne
+
+Exploring how AI and machine learning can make inferences about students’ progress and adapt interfaces to tailor the learning experience to each student.
+
+This project aims to identify how NUI technologies can be designed and used to facilitate active social participation for older people constrained by limited mobility.
+
+Developing a coherent understanding of the role of Autonomous Analyst instances for human-agent teaming for playing complex games.
+
+This project investigates the public attitudes towards the display of artificial intelligence data in public space.
+
+Centre for Research Excellence in Digital Technology to Transform Chronic Disease Outcomes
+We leverage the ubiquitous availability of smart devices and digital technology to improve the health and wellbeing of the population, particularly those with different chronic conditions.
+
+Looking at how people experience information and technology when changing their viewpoint on issues of importance to them.
+
+Child of Now combines original storytelling, animation, immersive sound design, built environments, and virtual reality from an extraordinary team of leading Australian artists and IT professionals.
+
+We are investigating how digital technologies enable citizens of local areas to document and share memories and records of their collective past. Our main focus is on the development and study of PastPort, a mobile webapp for residents and visitors of Port Melbourne in inner Melbourne, an area of rich and disparate urban history.
+
+We are developing new technologies for augmenting human cognitive abilities. We employ novel sensing technologies such as eye tracking and thermal imaging to infer users’ intention and cognitive states to design interactions that adapt and respond to these states accordingly.
+
+Communities over the airwaves
+This project based in Arts at the University of Melbourne is studying the role of community radio in supporting the culture and wellbeing of emerging migrant communities in Australia. Staff: Greg Wadley. Funding source: Creativity and Wellbeing Hallmark Research Initiative
+
+This project investigates how (and where, when and why) people use digital technologies to shape their emotional states. We plan to develop an evidence-based framework for understanding “digital emotion regulation” in everyday settings.
+
+Covid-19 mobility analysis
+Our group has analysed the mobility data released by Facebook during the Covid-19 crisis. The analysis shows global trends, and national trends for multiple countries.
+
+In this project we develop technologies, methods, techniques to improve the quality of generated crowd knowledge. Wisdom of the Crowd refers to a deceptively simple idea: large groups of people are smarter than an elite few, no matter how brilliant – better at solving problems, fostering innovation, coming to wise decisions, even predicting the future.
+
+Death and technology
+A long-running program of research exploring how digital technologies are increasingly used to commemorate, memorialise and dispose of the dead. Conducted by human-computer interaction, anthropology and social science researchers from the University of Melbourne and the University of Oxford in collaboration with industry partners.
+
+Can computers deceive people? It is clear that computers be used as tools for people to deceive each other (fake news, phishing, etc), but is it possible for a specially designed AI agent to engage in strategic deception?
+
+Tracing the origins of domestic digital developments with two decades of empirical fieldwork and ethnographic investigation.
+
+This project will investigate older adults’ experiences with emerging technologies, such as virtual reality, social robots, and online games, which are believed to offer social benefits for those in advanced old age. Through in-depth investigations, the project aims to identify strategies for good practice in the design and deployment of these emerging technologies for enrichment in old age.
+
+Our goal is to better define and understand the overlapping norms and values that develop around digital gameplay.
+
+This project examines multiple design and effectiveness aspects of current and future web search systems, with an emphasis on experiences that support mobility via smartphones, tablets or augmented reality systems.
+
+This project aims to understand how digital technology is being used to enhance, support and extend commercial boardgames through creation of ‘hybrid’ digital-physical boardgames.
+
+The project explores how technologies can support novice users to train and teach an agent or robot. The team is developing novel interfaces and integrates theories from instructional sciences and gamification to allow humans to be better robot teachers.
+
+This project investigates insertables: devices that go under the skin for non-medical purposes. A small but growing group are choosing to augment their senses by voluntarily inserting devices inside their bodies. This research will help us to understand why people are doing this and the implications for human-technology interactions.
+
+Exploring opportunities for interactive media to enliven building facades and cultural spaces in the University of Melbourne’s new Innovation Precinct.
+
+In collaboration with Zoos Victoria, this project designed and studied an interactive digital system to enrich and empower the lives of orang-utans at Melbourne Zoo.
+
+Living Archive of Aboriginal Art
+This project based in Culture and Communication at the University of Melbourne is designing a technology-based accessible archive of work in conjunction with prominent Aboriginal artist Maree Clarke. Staff: Greg Wadley. Funding source: Melbourne Social Equity Institute
+
+Moderated online social therapy for youth mental health
+This long-running project based at Orygen Youth Health is building and testing online mental health interventions. Our flagship platform is currently being rolled out Victoria-wide to help young people during the Covid pandemic. Staff: Simon D’Alfonso, Reeva Lederman, Greg Wadley. Funding source: Victorian Government, NHMRC
+
+MRFF Million Minds
+Bringing family, community, culture and country to indigenous youth mental health care. A multi-university project based in Victoria and Western Australia that is addressing the crisis in Aboriginal youth mental health. We aim to improve young people’s engagement with mental health services.
+
+Improving human-agent interactions through gaze input and other collaborative modalities.
+
+Investigating how music streaming platforms change the way we find, discover and interact with music.
+
+Our research aims to improve the accessibility of Near Infrared Spectroscopy (NIRS) devices for non-expert end-users and to explore novel application domains for the technology.
+
+A virtual world platform bringing to life a new age of digitally enhanced youth mental health care services.
+
+We are researching the use of ubiquitous computing and personal device sensing to monitor mental health and to inform mental health care and digital interventions.
+
+We are researching the use of ubiquitous computing and personal device sensing to monitor mental health and to inform mental health care and digital interventions.
+
+Reading in a digital world: building new reading experiences and measuring reading behaviour in-the-wild.
+
+Remote but Connected
+A co-created digital platform to enable caregivers to support independent living for people with disability in the face of Covid-19.
+
+This project investigates how robots could be designed to assist learners and patients to acquire or reacquire new skills.
+
+Smart Hospital Living Lab
+An umbrella program involving multiple technology projects at the University of Melbourne in partnership with hospitals and industry. The main purpose of the lab is to improve how hospitals run.
+
+We are developing software to enable scientists to use smartphones as a reliable scientific instrument. Our project has a wide range of activities, including how to make it easier to collect data from smartphones, as well as how to analyse sensor data on smartphones and other mobile or wearable gadgets.
+
+Our team is exploring the potential of small drones in indoor scenarios. We are particularly interested in designing social cues for safe drone navigation in domestic environments.
+
+This project investigates how voice, gaze and gesture affects a gamer’s experience such as immersion, embodiment, identity and control.
+
+This project investigates how voice, gaze and gesture affects a gamer’s experience such as immersion, embodiment, identity and control.
+
+Exploring the experience not of playing games but of watching them, where gameplay becomes a new form of viewing entertainment.*
+
+Establishing digital land rights and reconnecting indigenous communities through emerging technologies. This project designed and trialled smartphone apps with urban, regional and remote Australian Indigenous communities, and implemented telehealth in regional communities in response to the Covid pandemic.
+
+‘Teleporting’ collaborators into each other’s spatial environments to enable an immersive sense of being in each other’s physical presence.
+
+Using a purpose-built VR app which places the user in a dystopian future where rising sea-levels are impacting familiar urban scenes in Melbourne we investigate how immersive VR experiences can provoke discussion and engagement around climate change in the public domain.
+
+Virtual reality for nature-based mindfulness
+This study aimed to explore how VR can support mindfulness practice and to understand user experience issues that may affect the acceptability and efficacy of VR mindfulness for users in the general population.
+
+Western e-HEaLth patient information portal for Pregnancy (WeHELP)
+This project, based at the Melbourne Medical School, designed and trialled a smartphone-based pregnancy support intervention for women and families from culturally and linguistically diverse communities in Melbourne’s western suburbs. Staff: Wally Smith, Greg Wadley
+
+This project investigates how mixed reality technology could be used to facilitate the human-robot communication looking in particular at data visualisation and robot augmented embodiment.
+
+

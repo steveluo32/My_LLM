@@ -1,0 +1,79 @@
+URL: https://cis.unimelb.edu.au/hci/projects/completed
+
+Completed projects: Human-Computer Interaction, The University of Melbourne
+
+The project explores how technologies can support and motivate gym users. The team are developing a system that integrates wearable and remote sensors to analyse users’ performances to support trainer-trainee communication and gamification strategies for collaborative and competitive exercising.
+
+This project is developing an augmented training environment using mixed reality technologies to support the development of student skills in analysing patient issues and clinical reasoning in physiotherapy education.
+
+The project seeks to understand the interrelationship of people, place, and practise to nurture indigenous knowledge, and explore how video-mediated technologies can be designed to foster indigenous knowledge among national or international diaspora.
+
+Our team is exploring the increasing use of digital technology and networked media in the commemoration of the dead. The project will contribute to a broader understanding of changing commemorative practices, their digital mediation, and the interactions between them.
+
+Driving to Health: A mental health app for taxi drivers
+This project based in General Practice at the University of Melbourne studied the mental health of Melbourne taxi drivers, then designed and trialled a smartphone app-based intervention to help these vulnerable workers stay healthy. Staff: Greg Wadley. Funding source: Shepherd Foundation, Melbourne Networked Society Institute
+
+Encounters brought art, technology and people together in a weekly outdoor interactive digital art space in the Victorian College of the Arts Courtyard throughout the 2015 SummerSalt Festival.
+
+This project investigates how families use technology at mealtimes and how space in homes are configured around technology. The team are developing a NUI gesture and voice based mobile application to augment family conversations during mealtimes.
+
+Using the ArmLog prototype which senses and communicates bodily information, including grip strength and arm movement, as an input to interactive technology.
+
+A number of interactive Microsoft Kinect based public displays were installed around the University of Melbourne Parkville campus to explore how space can contribute to the day-to-day learning and living experiences of its inhabitants.
+
+IVY: Investigating an online community of support for emotional health in pregnancy
+This project based at Latrobe University worked with Perinatal Anxiety & Depression Australia (PANDA) to design and trial a smartphone-based intervention for perinatal mental health. Staff: Greg Wadley. Funding source: Beischer Foundation. Photo credit 1
+
+We used cultural probes and contextual interviews and other ethnographically informed techniques to investigate how interactive technologies are used within intimate relationships. Photo credit 2.
+
+The project explored NUI technology for the knowledge transfer of motor skills and remote learning. The team developed an innovative technology ‘Onebody’ that exploits immersive virtual reality and body tracking technology to provide a virtual training and learning environment.
+
+Bringing virtual reality to Melbourne Festival’s Cultural Collisions exhibition. A narrative that alternates between real and virtual experiences helps keep the focus of an exhibit on the cultural heritage content while also enhancing the experience with virtual technologies.
+
+A deformable interface for manual skills training in physiotherapy.
+
+This project analyses how Skype is used in video mediated communication (VMC). The research findings will identify how NUIs can improve the ability of VMC to connect and facilitate social experiences at a distance.
+
+This project investigates how a teleconsultation between a patient and their clinician can be improved beyond video. The team are designing and evaluating a new technology that will help patients communicate bodily information like movement and pain to clinicians during a physiotherapy teleconsultation.
+
+This project investigates the potential of wearables to support stroke patients and their clinicians in arm monitoring. The team are designing a wearable technology and studying how data can support therapists in assessing and rehabilitating patients.
+
+We are exploring the nature and value of technology at different scales, individual, community and movement. We aim to produce insights that assist with design across multiple scales. Our case study is smart garden watering. Photo credit 3. 2013–2015
+
+With increasing awareness of the harmful effects of sun exposure, Australia has growing levels of vitamin D deficiency. Here we will compare the effectiveness of oral medication and smart apps in achieving healthy levels of vitamin D. Photo credit 42013–2015
+
+Social isolation affects many older people. This project investigates novel technologies to prevent and to ameliorate social isolation experienced by older adults. 
+
+    2012–2014
+
+This project aims to make an easy-to-use and feature-rich online student peer review tool available to educators and students across the higher education sector in Australia. This will be achieved by building on ‘PRAZE’: a highly successful, award-winning prototype developed at The University of Melbourne.2012–2013
+
+Hospitalised children can experience significant disruption to school and family life. We are designing technologies to help young patients connect with their friends, family and classroom. We have trialled an ambient ‘orb’ and are currently designing an Android tablet-based application. 2012
+
+This project worked with the Victorian Cancer Council to design and trial smartphone-based interventions to help people quit smoking. Staff: Wally Smith, Sarah Webber, Greg Wadley. Funding source: ARC.2011–2014
+
+This project investigates the gap between tangible interactions offered by mobile and embedded technologies and opportunities for social engagement offered by social technologies.2011–2013
+
+Through design investigations we are studying the opportunities and pitfalls of using mobile technology to create and deliver new fieldwork exercises to university students. We are carrying out studies with students of architecture and the built environment, but aim for more general theories and evidence. 2011–2013
+
+This study aims to understand the work people do in order to play competitive and non-competitive war-games.2012
+
+The web is abundant with search engines but often they don’t work well for us because we really want to ‘explore’ an unknown (data) space rather then narrow down to a particular ‘search’. This research uses a novel approach to supporting exploration and its application in various contexts. 
+
+    2011
+
+This project’s aim was to provide gardeners in the Melbourne/Geelong areas with a resource to help them make the optimal use of water in their gardens.2010–2013
+
+This research project aims to use social networking sites to deliver health promotion messages about sexual health and safer sex to young people and men who have sex with men (MSM).2010–2012
+
+This project examines the role of Internet and other communication technologies in the experience of death, grieving and memorialisation.2010–2012
+
+We are exploring how we can use technologies that help students to explore students in other locations and find suitable partners with whom to carry out collaborative work. 2010
+
+This project led to the design and development of better software/information and communications technologies to encourage flexible social interactions, and have been designed with the user in mind.2008–2010
+
+This project addressed unsolved issues of usability of e-health information systems across diverse stakeholder communities that need to coordinate to deliver the expected revolution in patient-centred health care.2008–2010
+
+1 Photo credit: PREGNANCY II "Ipoding" ! by Nuno Ibra Remane, CC BY-NC-ND 2.0 2 Photo credit: Kissenger / Adrian David Cheok (AU), Emma Yann Zhang (SG) by Ars Electronica, CC BY-NC-ND 2.0 3 Photo credit: garden hose by markgranitz, CC BY-NC-ND 2.0 4 Photo credit: DSC_5114 vitamin D softgels - macro by Filip Patock, CC BY-NC-ND 2.0
+
+

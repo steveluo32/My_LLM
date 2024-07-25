@@ -1,0 +1,35 @@
+URL: https://cis.unimelb.edu.au/hci/research/smart-spaces
+
+Smart Spaces: Human-Computer Interaction, The University of Melbourne
+
+The Smart Spaces initiative brings together researchers who develop interactive technologies to augment our everyday environments.Smart Spaces are able to sense and understand humans and their activities, and to support them by providing timely information, relevant suggestions, and also through appropriate services. The main research challenges are the development and use of sensors to capture human behaviour, techniques to model and predict the behaviour, and actuators or services to respond to user behaviour.
+
+Exploring how AI and machine learning can make inferences about students’ progress and adapt interfaces to tailor the learning experience to each student.
+
+Centre for Research Excellence in Digital Technology to Transform Chronic Disease Outcomes
+We leverage the ubiquitous availability of smart devices and digital technology to improve the health and wellbeing of the population, particularly those with different chronic conditions.
+
+Computing systems that sense, model, and adapt to their users’ cognitive states.
+
+In this project we develop technologies, methods, techniques to improve the quality of generated crowd knowledge. Wisdom of the Crowd refers to a deceptively simple idea: large groups of people are smarter than an elite few, no matter how brilliant – better at solving problems, fostering innovation, coming to wise decisions, even predicting the future.
+
+This project investigates how (and where, when and why) people use digital technologies to shape their emotional states. We plan to develop an evidence-based framework for understanding “digital emotion regulation” in everyday settings.
+
+Our research aims to improve the accessibility of Near Infrared Spectroscopy (NIRS) devices for non-expert end-users and to explore novel application domains for the technology.
+
+Reading in a digital world: building new reading experiences and measuring reading behaviour in-the-wild.
+
+Smart Hospital Living Lab
+An umbrella program involving multiple technology projects at the University of Melbourne in partnership with hospitals and industry. The main purpose of the lab is to improve how hospitals run.
+
+We are developing software to enable scientists to use smartphones as a reliable scientific instrument. Our project has a wide range of activities, including how to make it easier to collect data from smartphones, as well as how to analyse sensor data on smartphones and other mobile or wearable gadgets.
+
+‘Teleporting’ collaborators into each other’s spatial environments to enable an immersive sense of being in each other’s physical presence.
+
+Contact usVassilis KostakosEmail: vassilis.kostakos@unimelb.edu.auPeopleTilman Dingler, Lecturer in Human Computer InteractionJorge Goncalves, Senior Lecturer in Human-Computer InteractionJarrod Knibbe, Lecturer in Human-Computer InteractionEduardo Velloso, Senior Lecturer in Human-Computer InteractionBenjamin Tag,  LecturerZhanna Sarsenbayeva, Doreen Thomas Postdoctoral Fellow
+
+https://cms.unimelb.edu.au/central-site-management/content-templates/news-listing/v4-assets-dynamic-loading/v4-list-parent-id-new?rootnode=3864053&template=block-listing&numAssets=8&readMore=false
+
+Show more
+
+

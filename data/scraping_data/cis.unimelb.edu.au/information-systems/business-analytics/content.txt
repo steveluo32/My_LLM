@@ -1,0 +1,53 @@
+URL: https://cis.unimelb.edu.au/information-systems/business-analytics
+
+Business analytics and decision making: Information Systems Group, The University of Melbourne
+
+Business analytics as an interdisciplinary field of study includes methods, processes and software systems that extract insights from various forms of structured and unstructured organisational data to enable evidence-based decision making. Business analytics are increasingly becoming an indispensable tool to assist both public and private organisations in understanding their inner complexity and to enable more informed decisions, both at the operational and strategic level. It has emerged as a major area of emphasis within information systems, where focus is on the application, uptake and impact of business analytics in organisational contexts.Within this theme, our research focuses on the following research pillars:Business process analyticsBusiness process analytics looks at how descriptive, predictive and prescriptive analytics can be used to detect issues affecting the execution of business processes and identify possible remedial actions.Sample projectsBusiness Process Drift: Detection and Characterization (Alireza Ostovar, Marcello La Rosa)Explainable Predictive Monitoring of Temporal Measures of Business Processes (Ilya Verenich, Marcello La Rosa)Competitive advantage of analyticsCompetitive advantage of analytics looks at how organisations can gain competitive advantage with analytics by gaining insights on their data, improving an organisation’s decision-making capability.Sample projectsStages of Maturity in Business Analytics (Ranko Cosic, Graeme Shanks, Sean Maynard)Using Business Analytics to Improve the Agility of the Supply Chain (Mohammad Moniruzzaman, Sherah Kurnia Sean Maynard)Security analyticsSecurity analytics looks at how analytics can support an organisation’s information security through using data to improve situational awareness in the areas of incident response and risk management, leading to better, evidence-based information security decisions.Sample projectsUsing Security Analytics to improve Risk Management Decision Making (Humza Naseer, Graeme Shanks, Atif Ahmad, Sean Maynard)Using Security Analytics to improve Situation Awareness (Humza Naseer, Graeme Shanks, Atif Ahmad, Sean Maynard, Sandeep Godbole)PeopleDr Sean MaynardTheme leaderEmail:sean.maynard@unimelb.edu.auTelephone:  +61 3 8344 1573
+
+Assoc Prof Atif Ahmad, Associate Professor
+
+Dr Abel Armas Cervantes,  Lecturer
+
+Zahra Dasht Bozorgi,  Research Fellow (PostDoc)
+
+Assoc Prof George Buchanan,  Associate Professor
+
+Prof Shanton Chang,  Professor
+
+Dr Simon D’Alfonso, Associate Lecturer
+
+Dr Suelette Dreyfus, Senior Lecturer
+
+Prof Kathleen Gray,  Professor
+
+Assoc Prof Sherah Kurnia,  Associate Professor
+
+Prof Marcello La Rosa, Professor
+
+Prof Reeva Lederman,  Professor
+
+Dr Sean Maynard, Senior Lecturer
+
+Dr Antonette Mendoza, Senior Lecturer
+
+Honorary staff
+
+Prof Graeme Shanks
+
+Prof Leon Sterling
+
+Collaborators
+
+Prof Tim Miller,  Professor
+
+Assoc Prof Wally Smith, Senior Lecturer
+
+Prof Karin Verspoor, Professor
+
+Dr Greg Wadley, Senior Lecturer
+
+Assoc Prof Jenny Waycott, Associate Professor
+
+Graduate researchersRanko CosicSandeep GodboleMohammad Moniruzzaman
+
+

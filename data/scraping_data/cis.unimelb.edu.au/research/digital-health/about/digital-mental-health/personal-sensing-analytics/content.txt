@@ -1,0 +1,13 @@
+URL: https://cis.unimelb.edu.au/research/digital-health/about/digital-mental-health/personal-sensing-analytics
+
+Personal Sensing Analytics
+
+Digital Mental Health
+
+Personal Sensing Analytics
+
+Personal Sensing Analytics
+
+Project overviewThe ubiquitous usage of smartphones, wearables, and the Internet (particularly social media/networking) has created what is termed our 'digital footprint' or our 'data exhaust'. An individual's digital footprint is basically the data records they create resulting from their interactions with the Internet and personal digital devices such as smartphones. The fact that an individual's digital footprint could be used to infer their behaviours, preferences and mental states opens the possibility of using such a process to gain insights into their mental health, insights of clinical value that could be used to anticipate mental ill-health and also inform treatment. At the intersection of the computing, data and behavioural sciences, this process of learning about an individual’s psychology from their digital footprint has been termed 'digital phenotyping'.The SenPsi project is researching and developing a dashboard app that collects an individual's digital phenotyping information and presents it in a meaningful way for use by mental health clinicians, so that they can use such information to inform their practice. such information can be used to predict or determine the presence of mental health conditions.PublicationsSchmidt, S., & D'Alfonso, S. (2023). Clinician perspectives on how digital phenotyping can inform client treatment. Acta Psychologica, 235. doi:10.1016/j.actpsy.2023.103886Project membersDr Simon D’AlfonsoDr Simone SchmidtContact detailsDr Simon D’AlfonsoEmail: dalfonso@unimelb.edu.au
+
+

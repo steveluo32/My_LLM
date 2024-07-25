@@ -1,0 +1,7 @@
+URL: https://cis.unimelb.edu.au/hci/projects/sgw
+
+Smart Garden Watering: Human-Computer Interaction, The University of Melbourne
+
+This project’s aim was to provide gardeners in the Melbourne/Geelong areas with a resource to help them make optimal use of water in their gardens.Through collaboration with researchers at the University’s Burnley campus, we have produced an online environment that uses their horticultural research and databases of plants to bring rich, scientific information to the public.Our approach was to develop engaging, interactive software that would provide gardeners with the watering requirements for their garden and information about water tanks, as well as allow gardeners to share their information with others. We embedded this in an online environment that supports communication with others about water issues as well as sharing ideas about people’s specific gardens.Recently we added an iPhone app as a companion to this software that displays recent local rainfall and reminds users when their watering days are due. We have also explored the use of real time sensors in gardens to bring more up-to-date information to the gardener.Project teamJon PearceGeoff Connellan, Department of Resource Management and GeographyWally SmithAdrian PearceJohn MurphyProject informationFunding sourceThe SmartWater Fund and Institute for a Broadband-Enabled Society (IBES)
+
+

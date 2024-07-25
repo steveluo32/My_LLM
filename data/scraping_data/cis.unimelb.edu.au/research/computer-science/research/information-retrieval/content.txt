@@ -1,0 +1,17 @@
+URL: https://cis.unimelb.edu.au/research/computer-science/research/information-retrieval
+
+Databases and Information Retrieval
+
+Databases and Information Retrieval
+
+Databases and Information Retrieval
+
+About UsDatabases is the study of efficient storage, retrieval, and management of large data, whereas information retrieval is the process of accessing and extracting relevant information from the databases.
+
+Staff Given name Family namePositionProfileEmailFarhana ChoudhuryLecturerProfilefarhana.choudhury@unimelb.edu.auAlistair MoffatProfessorProfileammoffat@unimelb.edu.auLida RashidiPostdoctoral Fellow and LecturerProfilerashidil@unimelb.edu.auEgemen TaninProfessorProfileetanin@unimelb.edu.auJustin ZobelZobelRedmond Barry Distinguished Professor and Pro Vice-Chancellor (Graduate & International Research)Profilejzobel@unimelb.edu.au
+
+Databases and Information Retrieval Graduate Researchers Given name Family nameProfile Thesis TitleKasun AmarasingheProfileLearning database indexesReyhaneh GoliProfileNew Approaches to Interactive Sessional Search for Complex TasksAbigail Meng YuanProfileModalities and measurement of systems for information discovery
+
+Projects“New Approaches to Interactive Sessional Search for Complex Tasks”, ARC Discovery Project DP190101113, by Alistair Moffat, joint with Falk Scholer (RMIT University) and Shane Culpepper (University of Queensland).
+
+

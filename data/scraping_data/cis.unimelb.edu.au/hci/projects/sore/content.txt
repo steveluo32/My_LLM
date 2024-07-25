@@ -1,0 +1,9 @@
+URL: https://cis.unimelb.edu.au/hci/projects/sore
+
+Social Orientated Requirements Engineering: Human-Computer Interaction, The University of Melbourne
+
+Software engineering meets ethnography isolation
+
+Project overview This project led to the design and development of better software/information and communications technologies in the homes of Australians. These technologies encourage flexible social interactions, and have been designed with the user in mind.Project teamFrank VetereLS SterlingSteve HowardProject information Funding source ARC Grant  Project time frame 2008–2010 Contact detailsProf Frank VetereEmail: f.vetere@unimelb.edu.au
+
+
