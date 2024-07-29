@@ -8,11 +8,15 @@ def chat_gpt(model_name="gpt-4o", temperature=0.01):
     return model
 
 
-def llama_3_1():
-    model_id = "Meta-Llama-3.1-8B"
+def llama_3_1(model_name="Meta-Llama-3.1-8B"):
+    model_id = model_name
     tokenizer = AutoTokenizer.from_pretrained(model_id)
     model = AutoModelForCausalLM.from_pretrained(model_id)
     pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=10)
     llm = HuggingFacePipeline(pipeline=pipe)
     return llm
 
+
+# if __name__ == "__main__":
+#     llama_3_1()
+#

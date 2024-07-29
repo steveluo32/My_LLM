@@ -1,6 +1,6 @@
 import string
 from config import *
-from components.model_initializer import chat_gpt
+from components.model_initializer import chat_gpt, llama_3_1
 from components.data_loader import load_data, load_content_dict, load_path_dict
 from components.text_splitter import split_document_by_newline
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
@@ -122,7 +122,7 @@ def main_retrieve(question):
     return paths
 
 
-if __name__ == "__main__":
-    question = "Who is vincent jackson"
-    retrieved_paths = document_retriever(clipped_path, question)
-    print(retrieved_paths)
+# if __name__ == "__main__":
+#     question = "Who is vincent jackson"
+#     retrieved_paths = document_retriever(clipped_path, question)
+#     print(retrieved_paths)
