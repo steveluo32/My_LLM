@@ -1,13 +1,12 @@
 import string
 from config import *
+from components.utils import find_key_by_value_content, load_data, load_content_dict, load_path_dict
 from components.model_initializer import chat_gpt, llama_3_1
-from components.data_loader import load_data, load_content_dict, load_path_dict
 from components.text_splitter import split_document_by_newline
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
 from components.question_answering_chain import create_document_chain_document_retrieval, create_history, \
     execute_chain_without_memory, execute_chain_with_memory, create_document_chain_with_memory, \
     create_document_chain_answer_giving
-from components.utils import find_key_by_value_content
 from components.vectorstore_retriever import historical_messages_retriever
 
 class DocumentRetriever:
