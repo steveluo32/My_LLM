@@ -1,0 +1,78 @@
+URL: https://cis.unimelb.edu.au/cyber-security-excellence#outreach-engagement
+
+Academic Centre of Cyber Security Excellence, The University of Melbourne
+
+Cyber Security
+
+Outreach and engagement
+
+Education and training
+
+Key research areas
+Our research capability is focused on key challenges, including detecting attacks in large, complex systems, using formal methods to design platforms that are resilient to attack, designing robust controllers for critical infrastructure, and providing a legal framework for the governance of cyber operations that span a range of jurisdictions.
+
+Network security and analytics
+
+Privacy and government
+
+Verification and formal methods
+
+About usAs connectivity is increasing exponentially and an ever increasing proportion of existence is being carried out via networks, ensuring the safety and security of our networked infrastructure is an increasing concern.In 2017, the Commonwealth Government selected the University of Melbourne and Edith Cowan University to share $1.9 million in Federal Government funding as Australia’s first Academic Centres of Cyber Security Excellence.The Centres are a key pillar in leading Commonwealth efforts to build the cybersecurity expertise and job-ready skills needed by Australian industries.The Centre will provide a focal point to further research relating to cybersecurity. Prof Chris Leckie will lead the Centre which is developing a training and research agenda that brings together expertise from the technical disciplines, law and the social sciences.The Centre will consolidate the long-term teaching and research focus on cybersecurity at the University of Melbourne. The Centre will also become a driver for increase collaboration across industry and the community to improve cybersecurity.A key aspect of the Centre will be to develop the skills pipeline for cybersecurity in Australia. This activity, working closely with AustCyber, will ensure the Australian economy will have access to cyber security graduates and expertise. This will help strengthen existing industries and critical infrastructure, but also assist to build new jobs and businesses in this rapidly emerging sector.
+
+Outreach and engagement
+Industrial partnerships and community outreach are two important areas of our focus. We are working on building relationships and collaboration with a wide variety of industry partners, including government agencies and commercial businesses.
+
+We carrying out a range of outreach activities with local schools and the community to increase diversity in the cybersecurity area.
+
+Community outreach
+We have active outreach programs that are mainly driven by the desire to increase diversity in computing and cybersecurity space.
+Find out more
+
+Industry partnerships
+We are capable of delivering customised professional and executive level training courses on both cyber awareness and cyber technology.
+Find out more
+
+Video enhanced storytelling in cyber security
+We produce high quality cyber security training videos to suit an array of audiences.
+Find out more
+
+Outreach and engagementThe University of Melbourne has repeatedly demonstrated ability to leverage its world-leading research and scholarship and this is reflected in our approach to our undergraduate and graduate education. Our cyber security education is based on teaching broadly based fundamentals at the undergraduate level, followed by specialised programs at the Masters level. This has led to the commencement and support of a large cohort of PhD students who are currently undertaking research in a range of cyber security topics.We currently offer two Masters by coursework programs that include cyber security related subjectsMaster of Information TechnologyMaster of Information SystemsThese courses were designed in consultation with leading IT decision-makers and have experienced strong student growth in recent years. Both qualifications offer elective streams in a range of areas, each underpinned by core content related to IT strategy, governance and security.A significant initiative of the University is to expand our academic cyber security education program by introducing a specialised Master of Information Technology (Cyber Security) stream. This will introduce additional subjects that build on our research strengths, and address the demand for key skills in industry.
+
+ Prof Christopher Leckie, Director 
+
+ Assoc Prof Atif Ahmad, Deputy Director 
+
+ Dr Greg Adamson, Enterprise Fellow 
+
+ Dr Zahra Ghafoori, Research Fellow 
+
+ Dr Moneer Alshaikh, Research Fellow
+
+Advisory Board
+The Centre places a major emphasis on industry collaboration in identifying the needs of industry, the expectations of the skills of graduates, and the opportunities for industry involvement in research and teaching. ACCSE has an Industry Advisory Board, which consists of leading cyber security professionals from banks, consultant firms, and government agencies. 
+
+Person
+Role
+Organisation
+
+Lynwen Connick
+Chief Information Security Officer
+Australia and New Zealand Banking Group (ANZ)
+
+Philip Catania
+Partner
+Corrs Westgarth Chambers
+
+John O’Driscoll
+Chief Information Security Officer
+Victorian Government
+
+Owen Piece
+Program Director, National Workforce Development
+AustCyber: Australian Cyber Security Growth Network
+
+Chui Yong
+ 
+Australian Cyber Security Centre
+
+

@@ -1,0 +1,13 @@
+URL: https://cis.unimelb.edu.au/research/digital-health/about/digital-mental-health/digital-therapeutic-alliance
+
+Digital Therapeutic Alliance
+
+Digital Mental Health
+
+Digital Therapeutic Alliance
+
+Digital Therapeutic Alliance
+
+Project overviewThe therapeutic alliance (TA), the relationship that develops between a therapist and a client/patient, is a critical factor in the outcome of psychological therapy. As mental health care is increasingly adopting digital technologies and offering therapeutic interventions that may not involve human therapists, the notion of a TA in digital mental health care requires exploration. The term digital therapeutic alliance (DTA) is a broad one that can be applied to a range of types of digital mental health care or interventions, including computer-mediated teletherapy, web/mobile apps, and therapy agents driven by artificial intelligence. We were some of the first researchers to establish the notion of a DTA and have been working on conceptualisations and measures of it for several years.PublicationsTong, F., Lederman, R., D'Alfonso, S., Berry, K., & Bucci, S. (2023). Conceptualizing the digital therapeutic alliance in the context of fully automated mental health apps: a thematic analysis. Clinical Psychology & Psychotherapy.F. Tong, R. Lederman, S. D’Alfonso, K. Berry, and S. Bucci, ‘Digital therapeutic alliance with fully automated mental health smartphone apps: A narrative review, Frontiers in Psychiatry, vol. 13, p. 819623, 2022.R. Lederman and S. D’Alfonso, The Digital Therapeutic Alliance: Prospects and Considerations, JMIR Mental Health, vol. 8, no. 7, p. e31385, 2021.S. D’Alfonso, R. Lederman, S. Bucci, and K. Berry, The digital therapeutic alliance and human-computer interaction, JMIR Mental Health, vol. 7, no. 12, p. e21895, 2020.Project membersDr Simon D’AlfonsoProf Reeva LedermanFangziyun Tong, PhD CandidateContact detailsDr Simon D’AlfonsoEmail: dalfonso@unimelb.edu.au
+
+

@@ -1,0 +1,7 @@
+URL: https://cis.unimelb.edu.au/hci/projects/near-infrared-spectroscopy
+
+Near-infrared spectroscopy: Human-Computer Interaction, The University of Melbourne
+
+ Project overviewNear-infrared Spectroscopy (NIRS) is a technique that uses light in the near-infrared region of the spectrum to penetrate the surface of an object and traverse its physical structure. It allows for the retrieval of information about the inner composition of a sample in the form of a spectrum, thus enabling accurate and detailed identification of sample composition.While NIRS scanners have been used in research laboratories for decades, only recently has the technology matured enough to allow its application in end-user hardware which is both small and robust enough to be carried around, while also being capable of producing reliable results. Furthermore, the price of incorporating this technology into end-user hardware is declining and expected to continue on this trend. For the first time this technology can plausibly be placed in the hands of consumers. All of this is encouraging researchers to start considering everyday scenarios for the application of NIRS.Our research aims to improve the accessibility of Near Infrared Spectroscopy (NIRS) devices for non-expert end-users and to explore novel application domains for the technology.Project teamJorge Goncalves, Senior Lecturer in Human-Computer InteractionVassilis Kostakos, ProfessorZhanna Sarsenbayeva, Doreen Thomas Postdoctoral FellowWeiwei Jiang, Graduate researcher
+
+

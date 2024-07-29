@@ -1,0 +1,18 @@
+URL: https://cis.unimelb.edu.au/research/artificial-intelligence/research
+
+Artificial intelligence research: School of Computing and Information Systems, The University of Melbourne
+
+ResearchArtificial intelligence research is a particular strength in the School of Computing and Information Systems. Our researchers address many different approaches to AI, encompassing deep learning, data mining, machine learning, natural language processing, and agent-based systems. Our theories and techniques can be applied to a wide range of practical problems, including cyber-security, health, finance and government.Melbourne is also host to the IBM and ARC Training Centre for Cognitive Computing for Medical Technologies, which is furthering our research and translating into solving critical needs in the domains of medicine and health.Ben RubinsteinGroup leaderKris EhingerGroup leader
+
+Research Themes
+
+Our research explores ethical, regulatory and legal issues relating to Artificial Intelligence. We validate AI technologies with respect to quality, safety, privacy, and reliability.
+
+Intelligent systems can act (semi-)autonomously, working alongside human experts to analyse and help solve complex challenges. Designing good agents needs to balance the ability of agents to work effectively with other agents and human experts to have the maximum real-world impact.
+
+Natural Language Processing
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language. We develop algorithms and computational models to analyze and process large volumes of natural language data in order to extract meaning and insights from text, speech, and other forms of human communication.
+
+Digital health refers to the use of data and technology, such as mobile apps, wearables, and other digital tools, to improve healthcare delivery, patient outcomes, and overall health and wellness. We work in several areas of digital health and integrate data, analytics, and communication technologies to help healthcare providers and patients manage and prevent diseases, track health metrics, and improve healthcare access and efficiency.
+
+

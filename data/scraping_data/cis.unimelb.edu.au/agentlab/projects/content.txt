@@ -1,0 +1,15 @@
+URL: https://cis.unimelb.edu.au/agentlab/projects
+
+Mine planning is complex with short, medium and long-term objectives that are often competing rather than complementary
+
+We are actively developing automated programming and planning languages for implementing and planning complex tasks robustly and efficiently in multi-agent systems.
+
+New techniques in collaborative systems for representing and reasoning about joint task achievement.
+
+Modern technologies can positively transform lives. Many good concepts fail, however, to have a transformative effect by not meeting the individual and emotional needs of intended users.
+
+As AI becomes more ubiquitous, complex and consequential, the need for people to understand how decisions are made and to judge their correctness, fairness, and transparency, becomes increasingly crucial due to concerns of ethics and trust.
+
+Improving human-agent interactions through gaze input and other collaborative modalities.
+
+

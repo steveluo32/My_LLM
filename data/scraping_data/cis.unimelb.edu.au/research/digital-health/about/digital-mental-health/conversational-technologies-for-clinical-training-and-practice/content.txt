@@ -1,0 +1,13 @@
+URL: https://cis.unimelb.edu.au/research/digital-health/about/digital-mental-health/conversational-technologies-for-clinical-training-and-practice
+
+Natural Language Processing and Conversational Technologies for Clinical Practice
+
+Digital Mental Health
+
+Natural Language Processing and Conversational Technologies for Clinical Practice
+
+Natural Language Processing and Conversational Technologies for Clinical Practice
+
+Project overviewNatural language processing (NLP) can be used in mental health to analyse language patterns in written or spoken communication to identify symptoms of mental health disorders such as depression, anxiety, and bipolar disorder. NLP can also be used to create personalized therapy and support for clients by analysing their communication and tailoring interventions to their specific needs. Chatbots can be used in mental health to provide accessible and low-cost support to individuals with mental health concerns. They can also monitor mental health symptoms and provide referrals to mental health professionals if necessary.Whilst much of the work regarding NLP, chatbots and mental health focuses on analysing an individual’s language for insights into their mental health or using chatbots as virtual therapy agents, we are conducting work on using NLP and chatbots to inform and aid the mental health clinician.Firstly, by analysing therapy transcripts we can generate insights into the language and dialogue characteristics that are associated with better psychotherapy outcomes. This in turn could lead to tools that guide clinicians in their psychotherapy practice, including systems that provide real-time feedback during the course of a therapy session.Secondly, apart from using chatbots as virtual therapists, the capacity for modern conversational technology to generate extended dialogue opens up the possibility of creating chatbots that can simulate mental health clients. We are exploring this idea and our Client101 project is researching and developing a conversational platform that can be used by mental health professionals, particularly trainee clinicians, to engage in simulated therapy interactions and practice psychotherapy techniques.Project membersDr Simon D’Alfonso,Dr Mike Conway,Daniel Cabrera Lozoya, PhD CandidateContact detailsDr Simon D’AlfonsoEmail: dalfonso@unimelb.edu.au
+
+

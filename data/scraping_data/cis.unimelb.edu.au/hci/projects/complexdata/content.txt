@@ -1,0 +1,9 @@
+URL: https://cis.unimelb.edu.au/hci/projects/complexdata
+
+: Human-Computer Interaction, The University of Melbourne
+
+Exploring complex data sets
+
+This project addressed the challenging problems of using online environments to offer advice relating to complex sets of data.Project overviewThe challenge is to maintain a user’s engagement in the system long enough to explore possible outcomes in a system that is not completely deterministic and offers no single right answer. The approach used knowledge of engagement and flow to produce and evaluate a prototype application to help students explore the range of subject offerings that might be suitable to them at this university. Linguistic analysis was used by the system to help determine a suitable range of outputs that mapped onto an individual’s interests.The research drew on issues related to affective computing, engagement, flow and interactivity.Project teamJon PearceFunding sourceThe University of Melbourne
+
+

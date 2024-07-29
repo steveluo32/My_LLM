@@ -1,0 +1,41 @@
+URL: https://melbconnect.com.au/discovery/shadow-players-sharpen-ai-weapons-in-online-war-whistleblower-warns
+
+Melbourne Connect | Shadow players sharpen AI weapons in online war,…
+
+Shadow players sharpen AI weapons in online war, whistleblower warns
+This article is by James Costa and it first appeared in The Citizen
+The spiralling sophistication of AI tools conducting “information warfare” is beyond what experts imagined even a year ago, says former Facebook insider Frances Haugen. Speaking in Melbourne, the whistleblower is urging lawmakers and citizens not to concede defeat, but to fight for responsible social media. James Costa reports.
+Rapidly evolving artificial intelligence tools are powering “information warfare” at a pace and scale “we would have never imagined” even a year ago, Facebook insider-turned-whistleblower Frances Haugen has warned at an AI conference in Melbourne.
+Illustrating her point, the former Silicon Valley data scientist shared screenshots of a web application she’d recently stumbled upon which highlights a selection of authentic posts about the Israel/Gaza war and then encourages users, using AI, to pump out replies which support or refute them.
+The app, ‘Words of Justice’, which says it works to “amplify truth, combat lies, and help tell the story of Palestinians”, also writes posts users can upload as their own, either by prompting the AI with headlines or specific topics, or leaving the field blank.
+Haugen said that she was not implying that this particular tool was “malicious”, but rather was an example of the next step in “influence operations”.
+“We have known that people did mass scale operations where … they would recruit 50,000, 100,000 people and they would brigade content, they’d pile on people who dissented, they would block discussion of topics by spamming people with reports of abuse,” Haugen said.
+
+“Now every single one of those interactions is unique and it’s coming from a real account … so the scale is really, really different. The defences are weaker.”
+
+But it previously wasn’t too difficult to identify those types of operations because users would copy and paste the same content over and over again.
+Haugen was not optimistic about the capacity of Meta and other social media platforms to defend against large scale influence operations, having laid off most human moderators and relying on AI to do the job. Highlighting their documented histories – targeting Facebook in particular – she also questioned their interest in investing in anything beyond defending and growing their own profits.
+The whistleblower left her job as a product manager at Facebook in 2021, taking tens of thousands of internal documents with her. She testified to the US Congress that the company knew its platform spread misinformation and content that harmed children, but refused to make changes that could hurt its profits.
+Now describing herself as an advocate for accountability and transparency in social media, she came to Melbourne to address a forum on social media and AI safety at the University of Melbourne ahead of delivering a keynote address at a national cyber security conference in Canberra 25-27 March.
+Expanding on the scale of the challenges for governments and authorities trying to regulate and respond to AI, Haugen discussed the recent European Union move to introduce legislation allowing the public to see what content gets taken down by moderation algorithms and why.
+
+“That means the information operations are not going to have their content taken down, it’s just the average people who have their content taken down.”
+
+While welcoming the EU’s efforts toward transparency through the 2023 Data Security Act, the archive of removed content it has made made public comes at a cost. On the plus side that has allowed researchers to be better able to scrutinise Meta’s processes. But the data can also be used to train “adversarial AI models” designed to feed information into content moderation systems to trick them into misidentifying the content.
+“So now there is a database with millions and millions of examples … of what has been taken down,” Haugen said. “You can literally train something to just walk around the fence.”
+According to the non-profit organisation the Bureau of Investigative Journalism, influence operations are “purposeful projects to skew how people see the world,” often run by paid professionals, state-backed agents or “ideologically driven amateurs”.
+Haugen said she was optimistic that lawsuits brought by more than 40 US States against Meta, the parent company of Facebook and Instagram, may help to limit the harms of social media on young people and the allegedly addictive nature of the platforms.
+“I think they’re going to lose this lawsuit,” Haugen said. “My hope is we get enough out of the [potential] settlement … to make it so that Facebook has to kind of confront the costs that they’ve inflicted.
+“We might get more transparency, at least for under 18 year olds. That’s not going to help us with adults.”
+
+“We deserve nice things, and the way we will get social media that we feel good about is we will fight for and demand it”.
+
+Haugen said much more needed to be done to develop a “governance system that can evolve over time” and “deal holistically with these things”.
+Rather than relying on regulation, she described herself as “a firm advocate for the laws that target these platforms from an information asymmetry perspective, of saying ‘you need to disclose your risks. You need to show us how you’re going to reduce those risks’, versus saying ‘you are responsible for each piece of content’ – [which] is what we’ve seen over and over again, [and] leads to radical over-enforcement.
+“We need to write laws around incentives instead of around content, if we want to be able to actually have vibrant diverse dialogues,” Haugen said.
+“People often go ‘oh my god, this is so big, it’s so intimidating, how are we ever going to do this? It’s so disruptive, it’s chaotic’ – whatever. Every single communication technology we have ever invented was extremely disruptive … but we learned, we evolved … and we are going to learn and evolve and adapt again”.
+A video recording of Frances Haugen’s address to the AI at Melbourne Colloquium can be viewed below.
+
+Call (03) 9035 5553 Email: General Enquiries
+
+

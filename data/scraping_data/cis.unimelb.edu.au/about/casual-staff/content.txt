@@ -1,0 +1,310 @@
+URL: https://cis.unimelb.edu.au/about/casual-staff
+
+Casual tutor, marker and demonstrator opportunities: School of Computing and Information Systems, The University of Melbourne
+
+Casual Staff
+
+Semester 1, 2024
+
+OpportunitiesThe School of Computing and Information Systems has opportunities for casual tutors, demonstrators, markers and project team supervisors.Available subjectsSubject code  Subject Title and Handbook entry SemesterBUSA90539Business Data PlatformsSemester 1COMP10001Foundations of Computing
+        Semester 1
+        COMP10002
+      Foundations of Algorithms
+        Semester 1COMP10003Media ComputationSemester 1
+        COMP20005
+      Intro. to Numerical Computation in C
+        Semester 1COMP20007Design of AlgorithmsSemester 1
+        COMP20008
+      Elements of Data Processing
+        Semester 1
+        COMP30020
+      Declarative Programming
+        Semester 1
+        COMP30023Computer Systems
+        Semester 1COMP30024Artificial IntelligenceSemester 1
+        COMP30027Machine Learning
+        Semester 1
+      
+        COMP90007
+      Internet Technologies
+        Semester 1
+      
+        COMP90015
+      Distributed Systems
+        Semester 1
+      
+        COMP90020Distributed Algorithms
+        Semester 1
+      
+        COMP90024Cluster and Cloud Computing
+        Semester 1
+      
+        COMP90038
+      Algorithms and Complexity
+        Semester 1
+      
+        COMP90041
+      Programming and Software Development
+        Semester 1
+      
+        COMP90042Natural Language Processing
+        Semester 1
+      
+        COMP90044
+      Research Methods
+        Semester 1
+      COMP90048Declarative ProgrammingSemester I
+        COMP90049
+      Introduction to Machine Learning 
+        Semester 1
+      COMP90050Advanced Database SystemsSemester I
+        COMP90051
+      Statistical Machine Learning
+        Semester 1
+      
+        COMP90054
+      AI Planning for Autonomy
+        Semester 1
+      
+        COMP90059
+      Introduction to Programming
+        Semester 1
+      
+        COMP90077Advanced Algorithms and Data Structures
+        Semester 1
+      
+        COMP90082
+      Software Project (MIT)
+        Semester 1
+      
+        COMP90087The Ethics of Artificial Intelligence
+        Semester 1
+      COMP90090Text Analytics for HealthSemester I
+        INFO20003
+      Database Systems
+        Semester 1
+      
+        INFO20005User Interface Development
+        Semester 1
+      
+        INFO30005Advanced Interface Prototyping
+        Semester 1
+      
+        INFO30009Game Design
+        Semester 1
+      
+        INFO90002
+      Database Systems & Information Modelling
+        Semester 1
+      INFO90003Designing Novel InteractionsSemester I
+        INFO90004Evaluating the User Experience
+        Semester 1
+      
+        INFO90010Technology Innovation Project
+        Semester 1
+      
+        ISYS90026
+      Concepts in Information Systems
+        Semester 1
+      
+        ISYS90032Emerging Technologies and Issues
+        Semester 1
+      
+        ISYS90036Enterprise Systems
+        Semester 1
+      ISYS90039Digital Innovation & TechnopreneurshipSemester IISYS90043Enterprise Applications & ArchitecturesSemester I
+        ISYS90045
+      Professional IS Consulting
+        Semester 1
+      
+        ISYS90049
+      Digital Business Analysis
+        Semester 1
+      
+        ISYS90050
+      IT Project and Change Management
+        Semester 1
+      
+        ISYS90051Digital Impacts on Business and Society
+        Semester 1
+      
+        ISYS90069Digital Transformation of Health
+        Semester 1
+      
+        ISYS90076IT Infrastructure for Digital Health
+        Semester 1
+      
+        ISYS90081Business Process Management
+        Semester 1
+      ISYS90119IS Capstone ProjectSemester 1ISYS90120Cybersecurity Practice in Organisations
+        Semester 1
+      MULT90063Introduction to Quantum ComputingSemester I
+        SWEN20003
+      Object Oriented Software Development
+        Semester 1
+      
+        SWEN30006
+      Software Modelling and Design
+        Semester 1
+      
+        SWEN90004Modelling Complex Software Systems
+        Semester 1
+      
+        SWEN90009Software Requirements Analysis
+        Semester 1
+      
+        SWEN90010High Integrity Systems Engineering
+        Year Long
+      
+        SWEN90016
+      Software Processes and Management
+        Semester 1SWEN90017Masters Advanced Software Project Part 1Semester 1ResponsibilitiesKeyIncluded Activity is included in tutorial pay rateNot applicable Not applicable to this role Additional  Activity performed only at the direct request of Supervisor, attracting additional payment Key responsibilityDetailTutor Head tutorDemonstrator
+         Content Knowledge 
+      
+         Develop a comprehensive understanding of the content 
+      Included
+Included
+Included
+
+         Tutorial Preparation 
+      
+         Prepare tutorial material 
+      Included
+Included
+Not applicable
+
+         Tutorial Preparation 
+      
+         Assist Coordinator with the development of teaching materials (eg, tutorial/lab exercises and sample solutions) 
+       Additional 
+ Additional 
+Not applicable
+
+         Tutorial Delivery 
+      
+         Deliver one initial and at least one repeat tutorial for the subject for each week that tutorials are delivered in semester 
+      Included
+Included
+Not applicable
+
+         Tutorial Admin 
+      
+         Handle requests for project extensions and record extensions granted only with the approval of the Subject Coordinator 
+      Not applicable
+ Additional 
+Not applicable
+
+         Demonstrating 
+      
+         Supporting students in practical lab and workshop-style sessions; answering technical questions and supporting the students in problem-solving 
+      Not applicable
+Not applicable
+Included
+
+         Student Consultation (Self-directed) 
+      
+         Self-directed consultation with students (face to face and online) related to tutorial content, including monitoring the LMS discussion board and responding to tutorial/content-related queries (this should happen at the time of, or in the same week as, the tutorial) 
+      Included
+Included
+Not applicable
+
+         Student Consultation(Coordinator Request) 
+      
+         Student Consultation directed by the Subject Coordinator could include monitoring the LMS at specific times, student meetings (face to face or online). 
+       Additional 
+ Additional 
+Not applicable
+
+         Tutorial Related Marking 
+      
+         If the work was completed during the tutorial hour, then the marking of that work should be included in the associated working time for that tutorial. 
+      Included
+Included
+Not applicable
+
+         Assignment and Exam Marking 
+      
+         Marking of any work that wasn’t completed during the tutorial hour must be paid as additional standard marking. 
+       Additional 
+ Additional 
+Not applicable
+
+         Assessment 
+      
+         Work with the Subject Coordinator on assignments (testing, proofreading, etc) and assist them in developing project marking guidelines 
+      Not applicable
+ Additional 
+Not applicable
+
+         Assessment 
+      
+         Assist subject coordinator to set up the infrastructure to support marking and tutorials; eg: writing code to help mark an assignment 
+      Not applicable
+ Additional 
+Not applicable
+
+         Assessment 
+      
+         Print and distribute student submissions to casual staff for marking, collect marked projects from casual staff and collate marks 
+      Not applicable
+ Additional 
+Not applicable
+
+         Teamwork 
+      
+         Regular communication with Subject Coordinator and Head Tutor 
+      Included
+Included
+Included
+
+         Management 
+      
+         Support Subject Coordinator in the recruitment of casual tutors through CTRS 
+      Not applicable
+ Additional 
+Not applicable
+
+         Management 
+      
+         Communicate regularly with the Subject Coordinator, arrange regular meetings with tutor staff 
+      Not applicable
+ Additional 
+Not applicable
+
+         Exam Invigilation 
+      
+         Invigilation for the mid-semester test (if applicable) 
+       Additional 
+ Additional 
+ Additional 
+
+         Lecture Attendance 
+      
+         Attendance required only at the explicit request of the Subject Coordinator. 
+       Additional 
+ Additional 
+ Additional 
+
+         Meeting Attendance 
+      
+         Any request to attend scheduled meetings 
+       Additional 
+ Additional 
+ Additional 
+
+         Training and Development 
+      
+         TrainME: Mandatory Compliance Training 
+       Additional 
+ Additional 
+ Additional 
+
+         Training and Development 
+      
+         Professional Development Day 
+       Additional 
+ Additional 
+ Additional 
+CandidatesApplicants must be able to demonstrate appropriate academic background: typically we would expect an undergraduate degree with studies in the appropriate fields, plus suitable postgraduate qualifications or current admission in a postgraduate course in those fields. Applicants must demonstrate good organisation, communication and presentation skills. Professional experience in the field is also encouraged.Your subject preference may be used by the assessors when making their selection. Contact the subject coordinator to discuss your preference to teach in the subjects you are applying for, if you are concerned that the preference may disadvantage you.If you would like to find out more about the specific skills required to teach in a subject or the subject content, consult the subject entry in the University Handbook or contact the subject coordinator directly.Salary informationInformation relating to the University’s salary policy.Before you applyThe 2024 Handbook is now live and available to be viewed.Check tutorial/class times via the Handbook for the specific subject you are intending to apply for, to see if they match your availability.All Undergraduate and Postgraduate subjects for the School of Computing and Information Systems offered in Semester 1, 2024.Applicants for casual positions should double check the mode of delivery for their intended subjects prior to applying, to ensure they are able to work within the allocated environment.Important informationAll casual staff members:Must be currently located in Australia.Are required to have a valid Working With Children Check in place (or are in the process of obtaining one) prior to accepting their contract.Submitting an applicationIf you are interested in working within the School of Computing and Information Systems as a tutor or demonstrator, please create a user account in CTRS (Casual Tutor Recruitment System), the University’s application portal for casual staff, and lodge an application during the application period.If you have taught at the School before, please update your details in the system and put in an application for the subjects you intend to apply for this coming semester. Applicants must apply for each teaching period in which they wish to tutor.You can search the Handbook to find out more about specific subjects and find subject coordinator details.If you have used the system before, you can log directly into the applications system.Apply nowRequired information and documentationAn updated Curriculum VitaeAcademic results if you have not previously taught at the SchoolSubject specific questions: There may be a number of selection questions which will have to be answered by the applicant. Not all subjects have subject specific questions.TimelineDATEPHASE Monday 15 January 2024Applications open at 9.00am AEDT Thursday 25 January 2024Applications close at 11.59pm AEDT From Friday 26 January 2024Subject Coordinators begin assessment of applicationsMonday 5 February 2024Applicants will be emailed a status update for all subjects they have applied for (5.00pm AEDT) From Tuesday 6 February 2024Subject Coordinators begin allocating tutors to tutorials Thursday 15 February 2024Application outcomes announced (5.00pm AEDT)Outcomes for each subject will be sent via email. Based on enrolment numbers, waitlisted candidates may receive further notifications of a successful application up until Week 3 of semester. From Friday 16 February 2024Contracts will start to be issued The majority of contracts will be issued by Wednesday 21 February, with the remainder issued by Monday 11 March 2024 at the latest. Welcome Pack made available for successful applicants via CTRS.Friday 23 February 20249:30am - 4:30pm (TBC)FEIT Tutor and Demonstrator InductionThis is for first-time tutors working in FEIT. If you have not attended an induction session before, this is compulsory. If you have attended a prior session, please do not register again. Monday 26 February 2024Semester 1, 2024 teaching commences
+
+

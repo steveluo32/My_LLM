@@ -1,0 +1,9 @@
+URL: https://cis.unimelb.edu.au/hci/projects/ifish
+
+iFISH: Human-Computer Interaction, The University of Melbourne
+
+Investigating ‘searching’ and ‘exploring’
+
+Project overview The web is abundant with search engines but often they don’t work well for us because we really want to ‘explore’ an unknown (data) space rather then narrow down to a particular ‘search’. This research uses a novel approach to supporting exploration and its application in various contexts.We often have the need to explore the vast amount of information available to us, but want to do it in a self-directed exploratory manner rather than narrowing down to a particular search. We might not know exactly what to look for, but we do know the kind of things that we like. For example, exploring restaurants for a particular occasion might be driven by ambiance, preferences for food styles, formality of the place, etc. Your choices of these constraints might be quite ‘soft’ (ie: you are prepared to forgo some) but will serve well to drive an exploration of restaurants if supported by an appropriately engaging environment.This research uses a playful online application called iFISH that aims to support this kind of exploratory behaviour in various different contexts. We want to under the distinctions between searching and exploring and how to support exploration better. Hence we have several existing and proposed areas of exploration such as restaurants, university course majors, books, nutrition, even people! Several researchers are involved in the use of iFISH in these different contexts.Project teamJon PearceShanton ChangGregor Kennedy, Centre for the Study of Higher EducationMary Ainley, Psychological SciencesSusan Rodrigues, University of Northumbria
+
+

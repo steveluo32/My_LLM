@@ -1,0 +1,9 @@
+URL: https://cis.unimelb.edu.au/research/seminars
+
+Our research seminar program runs in Semester 1 from February until May, and in Semester 2 from July to October.
+
+All are welcome to attend our seminars.Seminar program coordinatorDr Suelette DreyfusEmail:  suelette@unimelb.edu.au
+
+RecordingsDr Peter Eckersley- Are Markets a type of neural network and what risks flow from this?   October 26, 2021Dr Benjamin Tag - Challenges and Opportunities of Emotion Research in HCI   October 12, 2021Dr Zhanna Sarsenbayeva - Accessibility Research in HCI   October 5, 2021Dr Qiuhong Ke - Stereo Image Inpainting and Deep Inpainting Detection   September 21, 2021Guest Speaker Dr Arun Kumar (Assistant Professor in the Department of Computer Science and Engineering, and the Halicioglu Data Science Institute; HDSI Faculty Fellow at the University of California, San Diego) - The New DBfication of ML/AI   September 14, 2021Dr Andrew Cullen - Getting Robust: Securing Neural Networks against Adversarial Attacks   September 7, 2021Dr Robert Sison - Proving confidentiality and its preservation for mixed-sensitivity concurrent programs – and their operating systems!   August 31, 2021Dr Nir Lipovetzky - Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems   August 24, 2021Dr Peter Schachte - Programming languages:  the fundamental tools of the computer age   August 17, 2021Dr Fraser Allison - Digital Technologies for the Future Cemetery   August 3, 2021Dr Artem Polyvyanyy - Bootstrapping Generalization of Discovered Processes
+
+

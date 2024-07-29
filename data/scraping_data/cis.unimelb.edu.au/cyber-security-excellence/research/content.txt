@@ -1,0 +1,16 @@
+URL: https://cis.unimelb.edu.au/cyber-security-excellence/research
+
+Research, Academic Centre of Cyber Security Excellence: Faculty of Engineering and Information Technology, The University of Melbourne
+
+Cyber Security
+
+Key research areas
+Our research capability is focused on key challenges, including detecting attacks in large, complex systems, using formal methods to design platforms that are resilient to attack, designing robust controllers for critical infrastructure, and providing a legal framework for the governance of cyber operations that span a range of jurisdictions.
+
+Network security and analytics
+
+Privacy and government
+
+Verification and formal methods
+
+

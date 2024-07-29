@@ -1,0 +1,13 @@
+URL: https://cis.unimelb.edu.au/research/digital-health/about/digital-mental-health/making-mental-health-apps-smarter
+
+Making Mental Health Apps Smarter
+
+Digital Mental Health
+
+Making Mental Health Apps Smarter
+
+Making Mental Health Apps Smarter
+
+Project overviewDigital mental health apps are a growing trend in the field of mental health and wellness. These apps are designed to be used on smartphones and other mobile devices, and they offer a wide range of features to help users manage their mental health. Some apps offer tools for tracking mood and symptoms, while others provide guided meditations, cognitive behavioural therapy exercises, or other forms of therapy. Many apps also include features such as journaling, goal setting, and tracking progress. With increasing access to smartphones and the Internet, these apps are becoming a popular way for people to access mental health support and resources. They are especially useful for people who have difficulty accessing traditional in-person therapy or for those who prefer to have more control over their mental health care.We conduct research into and have developed recommendation systems that can deliver relevant online therapy modules to a user, based on their profile, app usage history and digital footprint information. The digital delivery of relevant, personalised health interventions in the moment based on contextual, behavioural, and physical information inferred from sensing data has been termed ecological momentary intervention or just-in-time adaptive intervention in the literature.PublicationsD'Alfonso, S., Santesteban-Echarri, O., Rice, S., Wadley, G., Lederman, R., Miles, C., . . . Alvarez-Jimenez, M. (2017). Artificial Intelligence-Assisted Online Social Therapy for Youth Mental Health. Frontiers in Psychology, 8. doi:10.3389/fpsyg.2017.00796Newn, J., Kelly, R. M., D'Alfonso, S., & Lederman, R. (2022). Examining and Promoting Explainable Recommendations for Personal Sensing Technology Acceptance. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 6(3). doi:10.1145/3550297Valentine, L., D’Alfonso, S., & Lederman, R. (2022). Recommender systems for mental health apps: advantages and ethical challenges. AI & Society. doi:10.1007/s00146-021-01322-wProject membersDr Simon D’Alfonso,Contact detailsDr Simon D’AlfonsoEmail: dalfonso@unimelb.edu.au
+
+

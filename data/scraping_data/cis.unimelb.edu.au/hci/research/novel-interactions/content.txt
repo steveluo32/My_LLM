@@ -1,0 +1,29 @@
+URL: https://cis.unimelb.edu.au/hci/research/novel-interactions
+
+Novel interactions: Human-Computer Interaction, The University of Melbourne
+
+We have extensive experience in designing and developing prototypes using new interactive devices.Novel and emerging technologies open new opportunities for interaction design, but also raise important questions and create interesting research challenges. Our experience in designing and developing prototypes includes, but is not limited to: virtual, augmented, and extended reality, eye tracking, physiological sensors, 3D printing, motion capture, projection mapping, interactive AI and machine learning.
+
+‘Teleporting’ collaborators into each other’s spatial environments to enable an immersive sense of being in each other’s physical presence.
+
+Exploring how AI and machine learning can make inferences about students’ progress and adapt interfaces to tailor the learning experience to each student.
+
+We are developing new technologies for augmenting human cognitive abilities. We employ novel sensing technologies such as eye tracking and thermal imaging to infer users’ intention and cognitive states to design interactions that adapt and respond to these states accordingly.
+
+In collaboration with Zoos Victoria, this project designed and studied an interactive digital system to enrich and empower the lives of orang-utans at Melbourne Zoo.
+
+Improving human-agent interactions through gaze input and other collaborative modalities.
+
+This project aims to identify how NUI technologies can be designed and used to facilitate active social participation for older people constrained by limited mobility.
+
+Exploring opportunities for interactive media to enliven building facades and cultural spaces in the University of Melbourne’s new Innovation Precinct.
+
+This project investigates insertables: devices that go under the skin for non-medical purposes. A small but growing group are choosing to augment their senses by voluntarily inserting devices inside their bodies. This research will help us to understand why people are doing this and the implications for human-technology interactions.
+
+Contact usEduardo VellosoEmail: eduardo.velloso@unimelb.edu.auPeopleFrank Vetere, ProfessorJenny Waycott, Associate ProfessorSteven Baker, Research FellowNiels Wouters, Research FellowAndrew Irlitti, Research FellowSarah Webber, Doreen Thomas Postdoctoral FellowRonal Singh, Associate Lecturer
+
+https://cms.unimelb.edu.au/central-site-management/content-templates/news-listing/v4-assets-dynamic-loading/v4-list-parent-id-new?rootnode=3864041&template=block-listing&numAssets=8&readMore=false
+
+Show more
+
+

@@ -1,0 +1,17 @@
+URL: https://cis.unimelb.edu.au/colloquium/cisdc-2022/program_open
+
+Colloquium
+
+CISDC 2022
+
+ProgramDownload:  CIS Doctoral Colloquium 2022 Program [PDF]Keynote Speakers
+
+Prof. Eduard Hovy
+
+Professor Eduard HovyProfessor Eduard Hovy is a Research Professor in the Language Technologies Institute at Carnegie Mellon University. He is a highly respected researcher in the field of Natural Language Processing having contributed to the area over multiple decades. He received M.S. (December 1982) and Ph.D. (May 1987) degrees in Computer Science from Yale University and has been awarded honorary doctorates from the National University of Distance Education (UNED) in Madrid in 2013 and the University of Antwerp in 2015. He is a fellow of the Association for the Advancement of Artificial Intelligence, as well as one of the original 17 fellows of the Association for Computational Linguistics. Prof. Hovy joins us here in Melbourne as the Executive Director of Melbourne Connect.His research focuses on various topics, including aspects of the computational semantics of human language (such as text analysis, event detection and coreference, text summarization and generation, question answering, discourse processing, ontologies, text mining, text annotation, and machine translation evaluation), aspects of social media (such as event detection and tracking, sentiment and opinion analysis, and author profile creation), analysis of the semantics of non-textual information such as tables, and aspects of digital government.
+
+Timothy Kariotis
+
+Timothy KariotisTimothy Kariotis is Assistant Director for Usability in the Department of Employment and Workplace Relations, PhD Candidate in Digital Health at the School of Computing and Information System, and Lecturer in Digital Government at Melbourne School of Government.Tim's research spans the design of digital mental health technologies, information experience design, A.I. ethics, regulatory design, data science applied to industrial relations, sustainable healthcare and disability informatics. With a background in community development and public health, Tim brings a systems perspective to all this research and work. He leads high-performing teams across various projects in government and academia.Tim co-leads the Fair Day's Work Project at Melbourne School of Government. He leads a team of academics from law, economics, design data science, and social science, exploring the use of data science methods to prevent wage theft. Tim is also a part of a small group of academics across law, medicine, public health and engineering exploring the use of digital technologies and data to decarbonise the Australian healthcare system.Tim's PhD explores the information experiences of people with complex mental health issues in their journeys through the mental health system. Tim is working with these experiences to develop a framework to inform the design of electronic health records that enhance service users' experiences in the mental health system.
+
+

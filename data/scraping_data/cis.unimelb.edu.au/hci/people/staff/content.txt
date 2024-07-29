@@ -1,0 +1,7 @@
+URL: https://cis.unimelb.edu.au/hci/people/staff
+
+Staff: Human-Computer Interaction, School of Computing and Information Systems, The University of Melbourne
+
+Arzoo AtiqLecturerNic BidwellSenior LecturerGeorge BuchananAssociate ProfessorTilman DinglerSenior LecturerMartin GibbsProfessorJorge GoncalvesAssociate ProfessorAndrew IrlittiResearch FellowWafa JohalSenior LecturerRyan KellySenior Research FellowJarrod KnibbeSenior LecturerVassilis KostakosProfessorMelissa RogersonLecturerLucy SparrowAssociate LecturerWally SmithProfessorEduardo VellosoAssociate ProfessorFrank VetereProfessorDianna VidasResearch FellowGreg WadleySenior LecturerJenny WaycottAssociate ProfessorSarah WebberLecturerAllen PilaresLab Manager, UX and IxT LabsOur graduate researchers
+
+

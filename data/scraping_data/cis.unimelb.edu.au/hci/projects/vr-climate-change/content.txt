@@ -1,0 +1,7 @@
+URL: https://cis.unimelb.edu.au/hci/projects/vr-climate-change
+
+Virtual Reality and climate change communication: Human-Computer Interaction, The University of Melbourne
+
+ This PhD project is investigating how to use immersive Virtual Reality technologies to communicate with the public about climate change.Project overviewUsing a purpose-built VR app which places the user in a dystopian future where rising sea-levels are impacting familiar urban scenes in Melbourne we investigate how immersive VR experiences can provoke discussion and engagement around climate change in the public domain.Project teamKate Ferris, Graduate researcherDr Greg Wadley, Senior Lecturer, Computing and Information SystemsProf Kathryn Williams, Professor (Environmental Psychology), Ecosystem and Forest SciencesContact detailsKate FerrisEmail: kferris@student.unimelb.edu.au
+
+
