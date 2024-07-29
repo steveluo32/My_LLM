@@ -1,7 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/projects/adaptive-learning-technologies
-
-Adaptive learning technologies | Human-Computer Interaction | The University of Melbourne
-
-Project overviewClassrooms around the world have not changed much in decades, but novel interactive technologies create new opportunities for re-imagining these spaces. We are currently exploring how AI and machine learning can make inferences about student’s progress and adapt interfaces to tailor the learning experience to each student. Through this work, we aim to enhance learning outcomes by making studying more effective, scalable, and personalised.Examples of challenges that we have worked on in the past include:Using facial thermal imaging to estimate which parts of a lecture students find difficultEnabling seamless reflective reading through voice interaction and eye trackingQuantifying the complexity of a video lecture using machine learning techniquesProject teamDr Eduardo Velloso, Senior Lecturer in Human-Computer InteractionProf James Bailey, ProfessorNamrata Srivastava, Graduate researcherAnam Khan, Graduate researcherEmad Alghamdi, Graduate researcher
-
-

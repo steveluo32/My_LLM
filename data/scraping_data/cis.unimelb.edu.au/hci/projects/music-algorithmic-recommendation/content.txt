@@ -1,7 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/projects/music-algorithmic-recommendation
-
-Music streaming and algorithmic recommendation: Human-Computer Interaction, The University of Melbourne
-
- In this project we are investigating how music streaming platforms change the way we find, discover and interact with music.Project overviewGiven access to huge collections of music on streaming platforms such as Spotify or Apple Music, users are becoming more reliant on algorithmic recommender systems to find and curate music. This project critically examines the user experience of music recommender systems and streaming platforms, seeking to understand the ways that music streaming is changing music discovery and consumption.This research takes an interdisciplinary and user-centric approach to investigate how listeners, artists and human music curators interact with these algorithmic recommender systems, how these systems are experienced, and how they change music listen and production practices. It will use participative design with artists, listeners and members of the Australian music industry to reimagine the possibilities for music streaming and curation. The project will produce design guidelines for future music recommender systems.Project teamSophie Freeman, PhD candidateMartin Gibbs,  ProfessorBjørn Nansen, Senior Lecturer, Media and Communications, The University of MelbourneContact detailsSophie FreemanEmail: freemans1@student.unimelb.edu.au
-
-

@@ -1,9 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/projects/citizenheritage
-
-Citizen Heritage: Human-Computer Interaction, The University of Melbourne
-
-Digital and community-based histories of place
-
-Project overview We are investigating how digital technologies enable citizens of local areas to document and share memories and records of their collective past. Our main focus is on the development and study of PastPort (currently undergoing early testing), a mobile webapp for residents and visitors of Port Melbourne in inner Melbourne (City of Port Phillip), an area of rich and disparate urban history.In parallel, we are studying other digital tools for citizen engagement developed by GLAM institutions (Galleries, Libraries, Archives and Museums), heritage bodies and local government custodians. We are exploring how such digital experiences can be made more readily accessible to people and how they enrich the lived experience of local places, creating an ongoing relationship between past and present.This project aims to advance heritage theory and practice, with new understanding of the production and application of innovative digital technologies.More informationCitizen Heritage: Digital and Community-Based Histories of PlaceProject teamHannah Lewi (Faculty of Architecture, Building and Planning)Wally SmithTom Kvan (Faculty of Architecture, Building and Planning)David Nichols (Faculty of Architecture, Building and Planning)Steven Cooke (Alfred Deakin Institute, Deaking University)Andrew Murray (Faculty of Architecture, Building and Planning)Dora ConstantinidisProject information Funding source ARC Grant DP140101188 Contact detailsAssoc Prof Wally SmithEmail: wsmith@unimelb.edu.au
-
-

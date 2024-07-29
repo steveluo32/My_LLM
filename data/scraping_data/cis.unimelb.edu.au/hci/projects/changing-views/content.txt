@@ -1,9 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/projects/changing-views
-
-Changing view: Human-Computer Interaction, The University of Melbourne
-
-The role of information experiences in changing viewpoints
-
- Project overviewThis project is an ongoing look at how people experience information and technology when changing their viewpoint on issues of importance to them. In a world of filter bubbles, information democratisation, social media, misinformation and complex information landscapes, this understanding is key to building fairer, more equitable and more usable information systems.FundingThis project has been funded as part of the DMINR project, A Google News Initiative project at City, University London. It has also received a special study grant from the University of Melbourne.Project teamDana McKay, The University of MelbourneDr Stephann Makri, City, University LondonDr Andy Macfarlane, City, University LondonDr Marisela Guiterrez-Lopez, City, University LondonDr Sondess Missaoui, City, University LondonDr Colin Porlezza, City, University LondonDr Glenda Cooper, City, University London
-
-

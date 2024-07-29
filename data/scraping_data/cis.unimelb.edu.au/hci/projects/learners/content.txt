@@ -1,7 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/projects/learners
-
-Connecting learners for collaboration across diverse communities: Human-Computer Interaction, The University of Melbourne
-
-There are many benefits to be gained by students forming collaborative partnerships with other students in different schools. Even more exciting is the possibility for these schools being quite remote from each other – such as in indigenous communities in the far north of Australia and in overseas countries such as China.The challenge is in forming the student-to-student partnerships. How can you, as a student, choose someone to work with when you don't know them or their skills? We are using innovative technology (iFISH) to help students form these groups based on their personal preferences, or information that they know about what they like. We are working with students in local primary schools, secondary students in north-western Australia, as well as in China.Project teamJon PearceShanton ChangGregor Kennedy, Centre for the Study of Higher EducationMary Ainley, Psychological SciencesSuelette DreyfusLindy Joubert, Architecture, Building and PlanningProject informationFunding sourceInstitute for a Broadband-Enabled Society (IBES)
-
-

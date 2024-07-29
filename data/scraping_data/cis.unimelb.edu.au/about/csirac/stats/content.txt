@@ -1,7 +1,0 @@
-URL: https://cis.unimelb.edu.au/about/csirac/stats
-
-When you look at the chart below, you might think that CSIRAC was a pretty slow machine, but you must compare it to what was available to the scientists of the time.Scientists of the 1940’s would employ one or more computers (generally a person operating a mechanical adding machine), or manually perform complex computations by hand, to complete their research. Calculations could be performed at about the rate of one operation per second.CSIRAC, although slow by today’s standards, was faster than anything else available at the time at 1000 operations per second. Comparing CSIRAC to today’s computers CSIRAC - 1956Desktop PC - 1996Laptop PC - 2000Smart phone - 2014Speed.001MHz100MHz500MHz1400MhzWord size20 bit32 bit32 bit64 bitRAM768 words 
-       (1,920 bytes)8,388,608 bytes536,870,912 bytes1,073,741,824 bytesDisk capacity2048 words
-       (5,120 bytes)1,048,576,000 bytes19,327,352,832 bytes137,438,953,472 bytesPower consumption30,000 watts250 watts50 watts3 wattsWeight2,000 Kg25 Kg2.6 Kg129gChronologyPlease note: Figures are approximate
-
-

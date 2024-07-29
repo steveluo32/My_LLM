@@ -1,9 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/projects/child-of-now
-
-Child of Now is an ambitious, mixed-reality experience conceived by artist Robert Walton in collaboration with First Nations author and activist Claire G. Coleman. Child of Now combines original storytelling, animation, immersive sound design, built environments, and virtual reality from an extraordinary team of leading Australian artists and IT professionals. The first public installation of Child of Now was at Arts Centre Melbourne in February 2022.The Human Computer Interaction group at the University of Melbourne led the development of the software and extended our volumetric capture system to support the project. The project featured several innovations and achievements, includingReal time capture of participants throughout the experienceAutomated triggering of captures alongside performance audio, video, and lighting.Automated processing of each participant’s hologram using several developed algorithmsAutomated network synchronization between multiple nodes in the exhibitOculus Hand tracking interactions alongside hologram rendering.
-
-Child of Now | Case Study
-
-Project team Andrew Irlitti, University of Melbourne Technical Lead, Research Fellow in Mixed RealityFrank Vetere, ProfessorThuong Hoang, School of Information Technology, Deakin UniversityMesut Latifoglu, Research Software EngineerRobert Walton, Lead ArtistJingcheng Wang, Software Engineer, Melbourne eResearch GroupMartin Reinoso, Software EngineerYang Liu, Software Engineer, Melbourne eResearch GroupContact detailsDr Andrew IrlittiEmail:andrew.irlitti@unimelb.edu.au
-
-

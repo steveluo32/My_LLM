@@ -1,7 +1,0 @@
-URL: https://cis.unimelb.edu.au/hci/study/masters-projects
-
-Masters projects: Human-Computer Interaction, The University of Melbourne
-
-We offer a range of research projects and software development projects in Human-Computer Interaction (HCI).These projects are available to all Masters students and are especially relevant to students undertaking the HCI stream of the Master of Information Technology.Enrolled students can use the CIS Projects tool to view and apply for projects for the HCI Project (INFO90008) or HCI Project (Advanced) (INFO90009).Use the Suitability box to filter for MIT(HCI) projects.CIS ProjectsYou can upload supporting information, for example: an academic transcript, or a message to the supervisor about why you are interested in or suitable for their project.Interested students can email a prospective supervisor or the subject coordinator directly to discuss project opportunities.
-
-

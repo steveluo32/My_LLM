@@ -1,9 +1,0 @@
-URL: https://cis.unimelb.edu.au/ai-assurance/about
-
-About the AI Assurance Lab, Computing and Information Systems, The University of Melbourne
-
-AI Assurance
-
-The use of machine learning (ML) and Artificial Intelligence (AI) has been recognised as an essential technology to achieve breakthrough improvements in accuracy, efficiency and development cost reduction. However, a major challenge for its use in critical services and infrastructure is how to certify its reliability and trustworthiness in practice. Assurance processes have not kept pace with the proliferation of AI and ML technologies, which are increasingly pervasive.The AI Assurance Lab is validating AI technologies with respect to:Quality (accuracy, robustness, interpretability, usability and bias)Safety (response to attacks or manipulation by adversaries)PrivacyReliability (sensitivity to perturbations in inputs and the environment).Our visionWe seek to:Verify and establish trust in AI technologies. The Lab provides a service to both individuals and organisations for establishing trust in their AI software.Develop assurance methods and cases across all sectors and industries. These assurance methods are informed by ethical principles, as well as privacy and security considerations.Provide a third party learning environment for Australia’s AI and cyber security industries, as well provide training in AI Assurance.Develop testing and validation protocols for AI systems and supply chains that incorporate AI.Determine whether AI systems are reliable, interpretable and have adequate safeguards on privacy. This includes assessing whether AI systems are resilient to major changes and can operate effectively in unexpected different scenarios.
-
-
