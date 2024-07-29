@@ -47,14 +47,14 @@ def data_preparation():
 
 def create_retriever(data, vectorstore):
     # retriever = bm25_retriever(data, 100)
-    retriever = top_k_retriever(vectorstore, 100)
-    retriever = ensemble_retriever_2(retriever, data, 100)
+    retriever = top_k_retriever(vectorstore, 20)
+    retriever = ensemble_retriever_2(retriever, data, 20)
     return retriever
 
 def create_retriever_2(data, model, vectorstore):
     # retriever = bm25_retriever(all_splits, 100)
-    retriever = top_k_retriever(vectorstore, 100)
-    retriever = ensemble_retriever_2(retriever, data, 100)
+    retriever = top_k_retriever(vectorstore, 20)
+    retriever = ensemble_retriever_2(retriever, data, 20)
     retriever = historical_messages_retriever(model, retriever)
     return retriever
 
@@ -99,7 +99,7 @@ def document_retriever(question):
 
     # Create vector store and retriever
     vectorstore = chroma_vectorstore(all_splits)
-    retriever = bm25_retriever(all_splits, 100)
+    retriever = bm25_retriever(all_splits, 20)
     # retriever = top_k_retriever(vectorstore, 100)
     # retriever = ensemble_retriever_2(retriever, data, 100)
 

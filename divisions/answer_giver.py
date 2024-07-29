@@ -56,14 +56,14 @@ def vector_store(data):
 
 def create_retriever(data, vectorstore, llm_model):
     # retriever = bm25_retriever(all_splits, 100)
-    retriever = top_k_retriever(vectorstore, 100)
-    retriever = ensemble_retriever_1(retriever, data, llm_model, 100)
+    retriever = top_k_retriever(vectorstore, 20)
+    retriever = ensemble_retriever_1(retriever, data, llm_model, 20)
     return retriever
 
 def create_retriever_2(data, model, vectorstore):
     # retriever = bm25_retriever(all_splits, 100)
-    retriever = top_k_retriever(vectorstore, 100)
-    retriever = ensemble_retriever_1(retriever, data, model, 100)
+    retriever = top_k_retriever(vectorstore, 20)
+    retriever = ensemble_retriever_1(retriever, data, model, 20)
     retriever = historical_messages_retriever(model, retriever)
     return retriever
 
