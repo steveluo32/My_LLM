@@ -2,7 +2,6 @@ from divisions.document_retriever import *
 from divisions.answer_giver import *
 from RAGchain import *
 
-# TODO: Message Memory
 # TODO: Token Limits
 
 # if __name__ == "__main_":

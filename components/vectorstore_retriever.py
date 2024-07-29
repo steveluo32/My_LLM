@@ -1,5 +1,7 @@
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
+from langchain.docstore.document import Document
+from langchain_community.document_transformers import LongContextReorder
 from langchain_community.vectorstores import FAISS
 from langchain_community.retrievers import BM25Retriever
 from langchain.retrievers.multi_query import MultiQueryRetriever
@@ -8,7 +10,6 @@ from langchain.retrievers.document_compressors import LLMChainExtractor
 from langchain.retrievers import EnsembleRetriever
 from langchain.retrievers.multi_vector import MultiVectorRetriever
 from langchain.retrievers import ParentDocumentRetriever
-from langchain_community.document_transformers import LongContextReorder
 from langchain.storage import InMemoryStore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.chains import create_history_aware_retriever
@@ -48,12 +49,16 @@ def contextualcompression_retriever(retriever, llm_model):
 #     bm25_retriever = BM25Retriever(docs=docs, k=k)
 #     return bm25_retriever
 
+# BM25 cannot receive an empty docs list, Be careful
 def bm25_retriever(docs, k):
+    docs.append(Document(page_content="."))
     bm25_retriever = BM25Retriever.from_documents(documents=docs, k=k)
     return bm25_retriever
 
-# Ensemble Retriever 1
+# Ensemble Retriever 1 with bm25 and base retriever with contextual compression
+# BM25 cannot receive an empty docs list, be careful
 def ensemble_retriever_1(base_retriever, docs, llm_model, k=5):
+    docs.append(Document(page_content="."))
     compressor = LLMChainExtractor.from_llm(llm_model)
     bm25_retriever = BM25Retriever.from_documents(documents=docs, k=k)
     compression_retriever = ContextualCompressionRetriever(
@@ -64,8 +69,10 @@ def ensemble_retriever_1(base_retriever, docs, llm_model, k=5):
     )
     return ensemble_retriever
 
-# Ensemble Retriever 2
+# Ensemble Retriever 2 with bm25 and base retriever
+# BM25 cannot receive an empty docs list, be careful
 def ensemble_retriever_2(base_retriever, docs, k=5):
+    docs.append(Document(page_content="."))
     bm25_retriever = BM25Retriever.from_documents(documents=docs, k=k)
     ensemble_retriever = EnsembleRetriever(
         retrievers=[bm25_retriever, base_retriever], weights=[0.5, 0.5]

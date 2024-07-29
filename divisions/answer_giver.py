@@ -6,7 +6,9 @@ from components.utils import read_files
 from components.text_splitter import recursive_character_splitter, semantic_splitter
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, contextualcompression_retriever, \
     ensemble_retriever_2, historical_messages_retriever, ensemble_retriever_1
-from components.question_answering_chain import execute_chain, create_document_chain_answer_giving
+from components.question_answering_chain import create_document_chain_answer_giving, create_history, \
+    execute_chain_without_memory, execute_chain_with_memory, create_document_chain_with_memory
+
 
 class AnswerGiver:
     def __init__(self):
@@ -17,22 +19,16 @@ class AnswerGiver:
         self.rag_chain = None
         self.chat_history = []
 
-    def get_answer_1(self, question):
+    def get_answer_without_memory(self, question):
         docs = self.retriever.invoke(question)
-        response = execute_chain(self.rag_chain, question, docs)
-        return response
+        answer = execute_chain_without_memory(self.rag_chain, question, docs)
+        return answer
 
-    def get_answer_2(self, question):
+    def get_answer_with_memory(self, question):
         docs = self.retriever.invoke({"chat_history": self.chat_history, "input": question})
-        result = self.rag_chain.invoke({"context": docs, "messages": [HumanMessage(content=question)]})
-
-        # Ensure result is a dictionary with the "answer" key
-        if isinstance(result, dict) and "answer" in result:
-            answer = result["answer"]
-        else:
-            answer = result  # Fallback in case result is a string or unexpected format
-
-        self.chat_history.extend([HumanMessage(content=question), HumanMessage(content=answer)])
+        answer = execute_chain_with_memory(self.rag_chain, question, docs, self.chat_history)
+        new_history = create_history(question, answer)
+        self.chat_history.extend(new_history)
         return answer
 
     def set_up(self, path_list):
@@ -47,30 +43,36 @@ class AnswerGiver:
         # Set data
         self.data = split_data
         self.vectorstore = vector_store(self.data)
-        self.retriever = create_retriever_2(self.data, self.model, self.vectorstore)
-        self.rag_chain = create_rag_chain(self.model)
+        self.retriever = create_retriever_with_history(self.data, self.model, self.vectorstore)
+        self.rag_chain = create_rag_chain_with_memory(self.model)
 
 def vector_store(data):
     vectorstore = chroma_vectorstore(data)
     return vectorstore
 
-def create_retriever(data, vectorstore, llm_model):
+def create_retriever_without_history(data, vectorstore, llm_model):
     # retriever = bm25_retriever(all_splits, 100)
     retriever = top_k_retriever(vectorstore, 20)
     retriever = ensemble_retriever_1(retriever, data, llm_model, 20)
     return retriever
 
-def create_retriever_2(data, model, vectorstore):
+def create_retriever_with_history(data, model, vectorstore):
     # retriever = bm25_retriever(all_splits, 100)
     retriever = top_k_retriever(vectorstore, 20)
     retriever = ensemble_retriever_1(retriever, data, model, 20)
     retriever = historical_messages_retriever(model, retriever)
     return retriever
 
-def create_rag_chain(model):
+def create_rag_chain_with_memory(model):
+    # rag_chain = create_document_chain_answer_giving(model)
+    rag_chain = create_document_chain_with_memory(model)
+    return rag_chain
+
+def create_rag_chain_without_memory(model):
     rag_chain = create_document_chain_answer_giving(model)
     return rag_chain
 
+@DeprecationWarning
 def main_answer(question, path_list):
     # Initialize model
     chat = chat_gpt()

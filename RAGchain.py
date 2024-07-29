@@ -22,7 +22,7 @@ class RAG_chain:
                 for path in retrieved_paths:
                     print(path)
                 self.answer_giver.set_up(retrieved_paths)
-                answer = self.answer_giver.get_answer_2(question)
+                answer = self.answer_giver.get_answer_with_memory(question)
             print(answer)
 
     def start_without_memory(self):
@@ -41,7 +41,7 @@ class RAG_chain:
                 for path in retrieved_paths:
                     print(path)
                 self.answer_giver.set_up(retrieved_paths)
-                answer = self.answer_giver.get_answer_1(question)
+                answer = self.answer_giver.get_answer_without_memory(question)
             print(answer)
 
     def start_one_time(self, question):
@@ -50,7 +50,7 @@ class RAG_chain:
         for path in retrieved_paths:
             print(path)
         self.answer_giver.set_up(retrieved_paths)
-        answer = self.answer_giver.get_answer_1(question)
+        answer = self.answer_giver.get_answer_without_history(question)
         print(answer)
 
 def start_msg():

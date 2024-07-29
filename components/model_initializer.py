@@ -4,9 +4,8 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 
 def chat_gpt(model_name="gpt-4o", temperature=0.01):
-    model = ChatOpenAI(model=model_name, temperature=temperature)
+    model = ChatOpenAI(model=model_name, temperature=temperature, max_tokens=3000)
     return model
-
 
 def llama_3_1(model_name="meta-llama/Meta-Llama-3.1-8B"):
     model_id = model_name
