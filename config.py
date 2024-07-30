@@ -2,6 +2,7 @@ import os
 from key import *
 
 os.environ["OPENAI_API_KEY"] = openai.api_key
+os.environ["GOOGLE_API_KEY"] = gemini_key
 
 data_path = "./data"
 clipped_path = "./data/clipped_path.txt"

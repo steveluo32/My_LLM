@@ -1,6 +1,7 @@
 import os
 import re
 
+
 def get_all_files_in_subdirs(base_dir):
     file_paths = []
     for root, dirs, files in os.walk(base_dir):
