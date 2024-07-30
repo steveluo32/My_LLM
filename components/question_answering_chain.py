@@ -64,21 +64,26 @@ contextualize_q_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
+
 def create_document_chain_document_retrieval(model):
     document_chain = create_stuff_documents_chain(model, document_retrieval_prompt)
     return document_chain
+
 
 def create_document_chain_answer_giving(model):
     document_chain = create_stuff_documents_chain(model, answer_giving_prompt)
     return document_chain
 
+
 def create_document_chain_with_memory(model):
     document_chain = create_stuff_documents_chain(model, answer_giving_prompt_with_memory)
     return document_chain
 
+
 def create_retrieval_chain(retriever, question_answer_chain):
     retrieval_chain = create_retrieval_chain(retriever, question_answer_chain)
     return retrieval_chain
+
 
 def execute_chain_without_memory(document_chain, question, context):
     messages = [
@@ -87,12 +92,14 @@ def execute_chain_without_memory(document_chain, question, context):
     response = document_chain.invoke({"messages": messages, "context": context})
     return response
 
+
 def execute_chain_with_memory(document_chain, question, context, chat_history):
     messages = [
         HumanMessage(content=question),
     ]
     response = document_chain.invoke({"messages": messages, "context": context, "chat_history": chat_history})
     return response
+
 
 def create_history(question, answer):
     history = [HumanMessage(content=question), HumanMessage(content=answer)]

@@ -15,19 +15,23 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.chains import create_history_aware_retriever
 from components.question_answering_chain import contextualize_q_prompt
 
+
 # https://python.langchain.com/v0.1/docs/get_started/introduction
 def chroma_vectorstore(documents):
     vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
     return vectorstore_db
 
+
 def faiss_vectorstore(documents):
     vectorstore_db = FAISS.from_documents(documents=documents, embedding=OpenAIEmbeddings())
     return vectorstore_db
+
 
 # Top K retrieval
 def top_k_retriever(vectorstore_db, k=5):
     retriever = vectorstore_db.as_retriever(k=k)
     return retriever
+
 
 # Generate Multiple Queries based on the question, and to retrieve documents
 def multiquery_retriever(vectorstore_db, llm_model):
@@ -35,6 +39,7 @@ def multiquery_retriever(vectorstore_db, llm_model):
         retriever=vectorstore_db.as_retriever(), llm=llm_model
     )
     return retriever
+
 
 # Using LLM model to compress the documents first, and then to retrieve documents based on the compressed ones
 def contextualcompression_retriever(retriever, llm_model):
@@ -49,11 +54,13 @@ def contextualcompression_retriever(retriever, llm_model):
 #     bm25_retriever = BM25Retriever(docs=docs, k=k)
 #     return bm25_retriever
 
+
 # BM25 cannot receive an empty docs list, Be careful
 def bm25_retriever(docs, k):
     docs.append(Document(page_content="."))
     bm25_retriever = BM25Retriever.from_documents(documents=docs, k=k)
     return bm25_retriever
+
 
 # Ensemble Retriever 1 with bm25 and base retriever with contextual compression
 # BM25 cannot receive an empty docs list, be careful
@@ -69,6 +76,7 @@ def ensemble_retriever_1(base_retriever, docs, llm_model, k=5):
     )
     return ensemble_retriever
 
+
 # Ensemble Retriever 2 with bm25 and base retriever
 # BM25 cannot receive an empty docs list, be careful
 def ensemble_retriever_2(base_retriever, docs, k=5):
@@ -79,16 +87,19 @@ def ensemble_retriever_2(base_retriever, docs, k=5):
     )
     return ensemble_retriever
 
+
 # Reordering docs to avoid the negative effects of long context
 def reordering_docs(docs):
     reordering = LongContextReorder()
     reordered_docs = reordering.transform_documents(docs)
     return reordered_docs
 
+
 # MultiVector_retriever
 def multiVector_retriever(vectorstore_db):
     retriever = MultiVectorRetriever(vectorstore=vectorstore_db)
     return retriever
+
 
 # ParentDocument_retriever
 def parentDocument_retriever(data):
@@ -106,6 +117,7 @@ def parentDocument_retriever(data):
     )
     retriever.add_documents(data)
     return retriever
+
 
 def historical_messages_retriever(model, base_retriever):
     history_aware_retriever = create_history_aware_retriever(

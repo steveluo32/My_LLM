@@ -46,15 +46,18 @@ class AnswerGiver:
         self.retriever = create_retriever_with_history(self.data, self.model, self.vectorstore)
         self.rag_chain = create_rag_chain_with_memory(self.model)
 
+
 def vector_store(data):
     vectorstore = chroma_vectorstore(data)
     return vectorstore
+
 
 def create_retriever_without_history(data, vectorstore, llm_model):
     # retriever = bm25_retriever(all_splits, 100)
     retriever = top_k_retriever(vectorstore, 20)
     retriever = ensemble_retriever_1(retriever, data, llm_model, 20)
     return retriever
+
 
 def create_retriever_with_history(data, model, vectorstore):
     # retriever = bm25_retriever(all_splits, 100)
@@ -63,14 +66,17 @@ def create_retriever_with_history(data, model, vectorstore):
     retriever = historical_messages_retriever(model, retriever)
     return retriever
 
+
 def create_rag_chain_with_memory(model):
     # rag_chain = create_document_chain_answer_giving(model)
     rag_chain = create_document_chain_with_memory(model)
     return rag_chain
 
+
 def create_rag_chain_without_memory(model):
     rag_chain = create_document_chain_answer_giving(model)
     return rag_chain
+
 
 @DeprecationWarning
 def main_answer(question, path_list):
@@ -108,5 +114,3 @@ def main_answer(question, path_list):
         response = chat.invoke(messages)
 
     return response.content
-
-

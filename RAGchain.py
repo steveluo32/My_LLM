@@ -50,7 +50,7 @@ class RAG_chain:
         for path in retrieved_paths:
             print(path)
         self.answer_giver.set_up(retrieved_paths)
-        answer = self.answer_giver.get_answer_without_history(question)
+        answer = self.answer_giver.get_answer_without_memory(question)
         print(answer)
 
 def start_msg():

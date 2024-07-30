@@ -9,6 +9,7 @@ from components.question_answering_chain import create_document_chain_document_r
     create_document_chain_answer_giving
 from components.vectorstore_retriever import historical_messages_retriever
 
+
 class DocumentRetriever:
     def __init__(self):
         self.model = chat_gpt()
@@ -26,7 +27,7 @@ class DocumentRetriever:
 
     def get_answer_with_memory(self, question):
         docs = self.retriever.invoke({"chat_history": self.chat_history, "input": question})
-        answer = execute_chain_with_memory(self.rag_chain, question, docs)
+        answer = execute_chain_with_memory(self.rag_chain, question, docs, self.chat_history)
         new_history = create_history(question, answer)
         self.chat_history.extend(new_history)
         return answer
@@ -39,20 +40,24 @@ class DocumentRetriever:
         paths = process_retrieved_paths(retrieve_paths)
         return paths
 
+
 def vector_store(data):
     vectorstore = chroma_vectorstore(data)
     return vectorstore
+
 
 def data_preparation():
     data = load_data(clipped_path)
     split_data = split_document_by_newline(data)
     return split_data
 
+
 def create_retriever(data, vectorstore):
     # retriever = bm25_retriever(data, 100)
     retriever = top_k_retriever(vectorstore, 20)
     retriever = ensemble_retriever_2(retriever, data, 20)
     return retriever
+
 
 def create_retriever_2(data, model, vectorstore):
     # retriever = bm25_retriever(all_splits, 100)
@@ -61,14 +66,17 @@ def create_retriever_2(data, model, vectorstore):
     retriever = historical_messages_retriever(model, retriever)
     return retriever
 
+
 def create_rag_chain_with_memory(model):
     # rag_chain = create_document_chain_answer_giving(model)
     rag_chain = create_document_chain_with_memory(model)
     return rag_chain
 
+
 def create_rag_chain_without_memory(model):
     rag_chain = create_document_chain_answer_giving(model)
     return rag_chain
+
 
 def process_retrieved_paths(retrieved_paths):
     # Load dictionaries
@@ -92,6 +100,7 @@ def process_retrieved_paths(retrieved_paths):
         path_list.append(path)
 
     return path_list
+
 
 @DeprecationWarning
 def document_retriever(question):
@@ -124,7 +133,3 @@ def document_retriever(question):
 
     return retrieve_paths
 
-def main_retrieve(question):
-    retrieve_paths = document_retriever(question)
-    paths = process_retrieved_paths(retrieve_paths)
-    return paths
