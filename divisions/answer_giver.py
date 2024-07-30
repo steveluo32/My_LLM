@@ -12,8 +12,8 @@ from components.question_answering_chain import create_document_chain_answer_giv
 
 class AnswerGiver:
     def __init__(self):
-        self.model = chat_gpt()
-        # self.model = gemini()
+        # self.model = chat_gpt()
+        self.model = gemini()
         self.data = None
         self.vectorstore = None
         self.retriever = None

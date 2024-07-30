@@ -1,7 +1,7 @@
 import string
 from config import *
 from components.utils import find_key_by_value_content, load_data, load_content_dict, load_path_dict
-from components.model_initializer import chat_gpt, llama_3_1
+from components.model_initializer import chat_gpt, llama_3_1, gemini
 from components.text_splitter import split_document_by_newline
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
 from components.question_answering_chain import create_document_chain_document_retrieval, create_history, \
@@ -12,7 +12,8 @@ from components.vectorstore_retriever import historical_messages_retriever
 
 class DocumentRetriever:
     def __init__(self):
-        self.model = chat_gpt()
+        # self.model = chat_gpt()
+        self.model = gemini()
         self.data = data_preparation()
         self.vectorstore = vector_store(self.data)
         self.retriever = create_retriever(self.data, self.vectorstore)
