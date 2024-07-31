@@ -1,8 +1,9 @@
 import string
 from config import *
-from components.utils import find_key_by_value_content, load_data, load_content_dict, load_path_dict
+from components.utils import find_key_by_value_content, load_text, load_content_dict, load_path_dict, get_all_pdfs, \
+    load_pdf, get_all_file_paths, load_word_document
 from components.model_initializer import chat_gpt, llama_3_1, gemini
-from components.text_splitter import split_document_by_newline
+from components.text_splitter import split_document_by_newline, recursive_character_splitter
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
 from components.question_answering_chain import create_document_chain_document_retrieval, create_history, \
     execute_chain_without_memory, execute_chain_with_memory, create_document_chain_with_memory, \
@@ -42,13 +43,27 @@ class DocumentRetriever:
         return paths
 
 
+def load_data(path):
+    docs = []
+    for pdf_path in get_all_pdfs(path):
+        docs.extend(load_pdf(pdf_path))
+    for path in get_all_file_paths(path):
+        if ".doc" in path or ".docx" in path:
+            docs.extend(load_word_document(path))
+        if ".txt" in path:
+            docs.extend(load_text(path))
+
+    all_splits = recursive_character_splitter(docs)
+    return all_splits
+
+
 def vector_store(data):
     vectorstore = chroma_vectorstore(data)
     return vectorstore
 
 
 def data_preparation():
-    data = load_data(clipped_path)
+    data = load_text(clipped_path)
     split_data = split_document_by_newline(data)
     return split_data
 
@@ -109,7 +124,7 @@ def document_retriever(question):
     model = chat_gpt()
 
     # Load data
-    data = load_data(clipped_path)
+    data = load_text(clipped_path)
 
     # Split text into chunks
     # all_splits = recursive_character_splitter(data)

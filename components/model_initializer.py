@@ -14,9 +14,11 @@ def gemini(model_name="gemini-1.5-pro", temperature=0.01):
     model = ChatGoogleGenerativeAI(model=model_name, temperature=temperature)
     return model
 
+
 def vertex(model_name="gemini-1.5-pro", temperature=0.01):
     model = VertexAI(model_name=model_name, temperature=temperature)
     return model
+
 
 def llama_3_1(model_name="meta-llama/Meta-Llama-3.1-8B"):
     model_id = model_name
@@ -26,6 +28,6 @@ def llama_3_1(model_name="meta-llama/Meta-Llama-3.1-8B"):
     llm = HuggingFacePipeline(pipeline=pipe)
     return llm
 
+
 if __name__ == "__main__":
     llama_3_1()
-

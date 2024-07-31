@@ -1,6 +1,7 @@
 from divisions.document_retriever import *
 from divisions.answer_giver import *
 
+
 class RAG_chain:
     def __init__(self):
         self.document_retriever = DocumentRetriever()
@@ -53,6 +54,7 @@ class RAG_chain:
         answer = self.answer_giver.get_answer_without_memory(question)
         print(answer)
 
+
 def start_msg():
     start_msg = """
     This is a chatbot for cis.unimelb.edu.au.
@@ -61,6 +63,7 @@ def start_msg():
     Or you can input any query.\n
     """
     return start_msg
+
 
 def help_msg():
     help_msg = """
@@ -71,6 +74,7 @@ def help_msg():
     Or you can input any query.\n
     """
     return help_msg
+
 
 def exit_msg():
     exit_msg = """

@@ -1,6 +1,6 @@
 import os
 from langchain_community.document_loaders.text import TextLoader
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader, UnstructuredWordDocumentLoader
 
 
 def find_key_by_value_content(dictionary, search_str):
@@ -18,7 +18,7 @@ def read_files(file_paths):
     return content
 
 
-def load_data(file_path):
+def load_text(file_path):
     loader = TextLoader(file_path)
     data = loader.load()
     return data
@@ -43,10 +43,18 @@ def load_path_dict(path):
             path_dict[key] = value
     return path_dict
 
+
 def load_pdf(file_path):
     loader = PyPDFLoader(file_path)
     docs = loader.load()
     return docs
+
+
+def load_word_document(file_path):
+    loader = UnstructuredWordDocumentLoader(file_path)
+    data = loader.load()
+    return data
+
 
 def get_all_pdfs(directory):
     pdf_paths = []
@@ -55,4 +63,12 @@ def get_all_pdfs(directory):
             if file.endswith('.pdf'):
                 pdf_paths.append(os.path.join(root, file))
     return pdf_paths
+
+
+def get_all_file_paths(directory):
+    file_paths = []
+    for root, _, files in os.walk(directory):
+        for file in files:
+            file_paths.append(os.path.join(root, file))
+    return file_paths
 

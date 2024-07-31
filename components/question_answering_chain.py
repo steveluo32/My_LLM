@@ -83,7 +83,7 @@ def create_document_chain_with_memory(model):
     return document_chain
 
 
-def create_retrieval_chain(retriever, question_answer_chain):
+def create_langchain_retrieval_chain(retriever, question_answer_chain):
     retrieval_chain = create_retrieval_chain(retriever, question_answer_chain)
     return retrieval_chain
 
