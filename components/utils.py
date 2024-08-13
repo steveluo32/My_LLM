@@ -1,4 +1,6 @@
 import os
+import time
+import sys
 from langchain_community.document_loaders.text import TextLoader
 from langchain_community.document_loaders import PyPDFLoader, UnstructuredWordDocumentLoader
 
@@ -71,4 +73,14 @@ def get_all_file_paths(directory):
         for file in files:
             file_paths.append(os.path.join(root, file))
     return file_paths
+
+
+def print_runtime(start_time):
+    while True:
+        current_time = time.time()
+        runtime = current_time - start_time
+        sys.stdout.write(f"\rRuntime: {runtime:.2f} seconds")
+        sys.stdout.flush()
+        time.sleep(1)
+
 

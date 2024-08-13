@@ -1,5 +1,6 @@
 from divisions.document_retriever import *
 from divisions.answer_giver import *
+from components.timer import *
 
 
 class RAG_chain:
@@ -7,7 +8,7 @@ class RAG_chain:
         self.document_retriever = DocumentRetriever()
         self.answer_giver = AnswerGiver()
 
-    def start_with_memory(self):
+    def start_with_memory(self, verbose=False):
         print(start_msg())
         while True:
             question = input('Input: ')
@@ -18,15 +19,19 @@ class RAG_chain:
                 print(answer)
                 break
             else:
+                timer = Timer()
+                timer.start()
                 retrieved_paths = self.document_retriever.retrieve_document(question)
-                print("Retrieved Paths:")
-                for path in retrieved_paths:
-                    print(path)
+                if verbose:
+                    print("Retrieved Paths:")
+                    for path in retrieved_paths:
+                        print(path)
                 self.answer_giver.set_up(retrieved_paths)
                 answer = self.answer_giver.get_answer_with_memory(question)
+                timer.stop()
             print(answer)
 
-    def start_without_memory(self):
+    def start_without_memory(self, verbose=False):
         print(start_msg())
         while True:
             question = input('Input: ')
@@ -37,21 +42,29 @@ class RAG_chain:
                 print(answer)
                 break
             else:
+                timer = Timer()
+                timer.start()
                 retrieved_paths = self.document_retriever.retrieve_document(question)
-                print("Retrieved Paths:")
-                for path in retrieved_paths:
-                    print(path)
+                if verbose:
+                    print("Retrieved Paths:")
+                    for path in retrieved_paths:
+                        print(path)
                 self.answer_giver.set_up(retrieved_paths)
                 answer = self.answer_giver.get_answer_without_memory(question)
+                timer.stop()
             print(answer)
 
-    def start_one_time(self, question):
+    def start_one_time(self, question, verbose=False):
+        timer = Timer()
+        timer.start()
         retrieved_paths = self.document_retriever.retrieve_document(question)
-        print("Retrieved Paths:")
-        for path in retrieved_paths:
-            print(path)
+        if verbose:
+            print("Retrieved Paths:")
+            for path in retrieved_paths:
+                print(path)
         self.answer_giver.set_up(retrieved_paths)
         answer = self.answer_giver.get_answer_without_memory(question)
+        timer.stop()
         print(answer)
 
 
