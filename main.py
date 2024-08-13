@@ -27,4 +27,4 @@ from RAGchain import *
 
 if __name__ == "__main__":
     rag_chain = RAG_chain()
-    rag_chain.start_with_memory()
+    rag_chain.start_with_memory(verbose=True)

@@ -23,7 +23,7 @@ answer_giving_template = """
 answer_giving_template_with_memory = """
         You are a chatbot for cis.unimelb.au.
         You are an assistant for question-answering tasks. \
-        Use the following pieces of retrieved context to answer the question. \
+        Use the following pieces of web info to answer the question. \
         If you don't know the answer, just say that you don't know.\
         {context}
 """

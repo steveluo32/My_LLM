@@ -14,18 +14,28 @@ from langchain.storage import InMemoryStore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.chains import create_history_aware_retriever
 from components.question_answering_chain import contextualize_q_prompt
-
+from langchain_ollama import OllamaEmbeddings
 
 # https://python.langchain.com/v0.1/docs/get_started/introduction
+# def chroma_vectorstore(documents):
+#     vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
+#     return vectorstore_db
+#
+#
+# def faiss_vectorstore(documents):
+#     vectorstore_db = FAISS.from_documents(documents=documents, embedding=OpenAIEmbeddings())
+#     return vectorstore_db
+
 def chroma_vectorstore(documents):
-    vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
+    embeddings = OllamaEmbeddings(model="llama3.1")
+    vectorstore_db = Chroma.from_documents(documents=documents, embedding=embeddings)
     return vectorstore_db
 
 
 def faiss_vectorstore(documents):
-    vectorstore_db = FAISS.from_documents(documents=documents, embedding=OpenAIEmbeddings())
+    embeddings = OllamaEmbeddings(model="llama3.1")
+    vectorstore_db = FAISS.from_documents(documents=documents, embedding=embeddings)
     return vectorstore_db
-
 
 # Top K retrieval
 def top_k_retriever(vectorstore_db, k=5):

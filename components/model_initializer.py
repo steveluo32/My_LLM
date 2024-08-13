@@ -19,8 +19,8 @@ def vertex(model_name="gemini-1.5-pro", temperature=0):
     return model
 
 
-def llama(model_name="llama3.1"):
-    model = OllamaLLM(model=model_name)
+def llama(model_name="llama3.1", temperature=0):
+    model = OllamaLLM(model=model_name, temperature=temperature)
     return model
 
 

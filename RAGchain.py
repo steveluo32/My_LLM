@@ -24,7 +24,7 @@ class RAG_chain:
                 timer.start()
                 retrieved_paths = self.document_retriever.retrieve_document(question)
                 if verbose:
-                    print("Retrieved Paths:")
+                    print("\nRetrieved Paths:")
                     for path in retrieved_paths:
                         print(path)
                 self.answer_giver.set_up(retrieved_paths)
@@ -50,7 +50,7 @@ class RAG_chain:
                 timer.start()
                 retrieved_paths = self.document_retriever.retrieve_document(question)
                 if verbose:
-                    print("Retrieved Paths:")
+                    print("\nRetrieved Paths:")
                     for path in retrieved_paths:
                         print(path)
                 self.answer_giver.set_up(retrieved_paths)
@@ -64,7 +64,7 @@ class RAG_chain:
         timer.start()
         retrieved_paths = self.document_retriever.retrieve_document(question)
         if verbose:
-            print("Retrieved Paths:")
+            print("\nRetrieved Paths:")
             for path in retrieved_paths:
                 print(path)
         self.answer_giver.set_up(retrieved_paths)
