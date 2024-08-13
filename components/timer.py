@@ -15,12 +15,11 @@ class Timer:
     def _run_timer(self):
         while not self._stop_event.is_set():
             elapsed_time = time.time() - self._start_time
-            sys.stdout.write(f"\rRunning: {elapsed_time:.0f}s")
-            sys.stdout.flush()
+            sys.stdout.write(f"\rRunning: {elapsed_time:.0f}s...")
             time.sleep(1)
 
     def stop(self):
         self._stop_event.set()
         self._thread.join()
         elapsed_time = time.time() - self._start_time
-        print(f"\nTotal Running Time: {elapsed_time:.0f}s")
+        print(f"\nTotal Running Time: {elapsed_time:.0f}s\n")

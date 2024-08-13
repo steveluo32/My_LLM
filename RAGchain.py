@@ -14,6 +14,7 @@ class RAG_chain:
             question = input('Input: ')
             if question == "help" or question == "h":
                 answer = help_msg()
+                print(answer)
             elif question == "exit" or question == "e":
                 answer = exit_msg()
                 print(answer)
@@ -28,8 +29,10 @@ class RAG_chain:
                         print(path)
                 self.answer_giver.set_up(retrieved_paths)
                 answer = self.answer_giver.get_answer_with_memory(question)
+                print("\n"+answer)
                 timer.stop()
-            print(answer)
+
+
 
     def start_without_memory(self, verbose=False):
         print(start_msg())
@@ -37,6 +40,7 @@ class RAG_chain:
             question = input('Input: ')
             if question == "help" or question == "h":
                 answer = help_msg()
+                print(answer)
             elif question == "exit" or question == "e":
                 answer = exit_msg()
                 print(answer)
@@ -51,8 +55,9 @@ class RAG_chain:
                         print(path)
                 self.answer_giver.set_up(retrieved_paths)
                 answer = self.answer_giver.get_answer_without_memory(question)
+                print("\n"+answer)
                 timer.stop()
-            print(answer)
+
 
     def start_one_time(self, question, verbose=False):
         timer = Timer()
@@ -65,7 +70,7 @@ class RAG_chain:
         self.answer_giver.set_up(retrieved_paths)
         answer = self.answer_giver.get_answer_without_memory(question)
         timer.stop()
-        print(answer)
+        print("\n" + answer)
 
 
 def start_msg():

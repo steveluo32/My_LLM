@@ -13,8 +13,8 @@ from components.vectorstore_retriever import historical_messages_retriever
 
 class DocumentRetriever:
     def __init__(self):
-        self.model = chat_gpt()
-        # self.model = llama()
+        # self.model = chat_gpt()
+        self.model = llama()
         # self.model = gemini()
         self.data = data_preparation()
         self.vectorstore = vector_store(self.data)
