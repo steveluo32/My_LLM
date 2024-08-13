@@ -1,7 +1,7 @@
 from config import *
 from langchain_core.messages import HumanMessage
 from langchain.docstore.document import Document
-from components.model_initializer import chat_gpt, gemini
+from components.model_initializer import chat_gpt, gemini, llama
 from components.utils import read_files
 from components.text_splitter import recursive_character_splitter, semantic_splitter
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, contextualcompression_retriever, \
@@ -13,7 +13,7 @@ from components.question_answering_chain import create_document_chain_answer_giv
 class AnswerGiver:
     def __init__(self):
         # self.model = chat_gpt()
-        self.model = gemini()
+        self.model = llama()
         self.data = None
         self.vectorstore = None
         self.retriever = None
