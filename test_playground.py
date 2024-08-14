@@ -1,16 +1,15 @@
-# from langchain_core.prompts import ChatPromptTemplate
-# from langchain_ollama.llms import OllamaLLM
+# from langchain.chains import LLMChain
+# from langchain.prompts import PromptTemplate
+# from langchain_openai import ChatOpenAI
+# from config import *
+# from components.utils import check_text_completeness
 #
-# template = """Question: {question}
+# # Use ChatOpenAI as the LLM
+# model = ChatOpenAI(model="gpt-4o-mini", max_tokens=3000)
 #
-# Answer: Let's think step by step."""
+# text = "Who are"
 #
-# prompt = ChatPromptTemplate.from_template(template)
+# final_text = check_text_completeness(model, text)
 #
-# model = OllamaLLM(model="llama3.1")
-#
-# chain = prompt | model
-#
-# response = chain.invoke({"question": "数字8.11和8.9哪个大"})
-#
-# print(response)
+# print(final_text)
+

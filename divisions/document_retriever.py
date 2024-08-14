@@ -1,7 +1,7 @@
 import string
 from config import *
 from components.utils import find_key_by_value_content, load_text, load_content_dict, load_path_dict, get_all_pdfs, \
-    load_pdf, get_all_file_paths, load_word_document
+    load_pdf, get_all_file_paths, load_word_document, check_text_completeness
 from components.model_initializer import chat_gpt, gemini, llama
 from components.text_splitter import split_document_by_newline, recursive_character_splitter
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
@@ -25,12 +25,14 @@ class DocumentRetriever:
 
     def get_answer_without_memory(self, question):
         docs = self.retriever.invoke(question)
-        response = execute_chain_without_memory(self.rag_chain, question, docs)
-        return response
+        answer = execute_chain_without_memory(self.rag_chain, question, docs)
+        answer = check_text_completeness(self.model, answer)
+        return answer
 
     def get_answer_with_memory(self, question):
         docs = self.retriever.invoke({"chat_history": self.chat_history, "input": question})
         answer = execute_chain_with_memory(self.rag_chain, question, docs, self.chat_history)
+        answer = check_text_completeness(self.model, answer)
         new_history = create_history(question, answer)
         self.chat_history.extend(new_history)
         return answer
@@ -70,7 +72,7 @@ def data_preparation():
 
 
 def create_retriever(data, vectorstore):
-    retriever = bm25_retriever(data, 20)
+    retriever = bm25_retriever(data, 50)
     # retriever = top_k_retriever(vectorstore, 20)
     # retriever = ensemble_retriever_2(retriever, data, 20)
     return retriever
@@ -78,21 +80,11 @@ def create_retriever(data, vectorstore):
 
 def create_retriever_2(data, model, vectorstore):
     # retriever = bm25_retriever(all_splits, 100)
-    retriever = top_k_retriever(vectorstore, 20)
-    retriever = ensemble_retriever_2(retriever, data, 20)
+    retriever = top_k_retriever(vectorstore, 50)
+    retriever = ensemble_retriever_2(retriever, data, 50)
     retriever = historical_messages_retriever(model, retriever)
     return retriever
 
-
-# def create_rag_chain_with_memory(model):
-#     # rag_chain = create_document_chain_answer_giving(model)
-#     rag_chain = create_document_chain_with_memory(model)
-#     return rag_chain
-#
-#
-# def create_rag_chain_without_memory(model):
-#     rag_chain = create_document_chain_answer_giving(model)
-#     return rag_chain
 
 def create_rag_chain_with_memory(model):
     # rag_chain = create_document_chain_answer_giving(model)

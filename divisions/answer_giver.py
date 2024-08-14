@@ -2,7 +2,7 @@ from config import *
 from langchain_core.messages import HumanMessage
 from langchain.docstore.document import Document
 from components.model_initializer import chat_gpt, gemini, llama
-from components.utils import read_files
+from components.utils import read_files, check_text_completeness
 from components.text_splitter import recursive_character_splitter, semantic_splitter
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, contextualcompression_retriever, \
     ensemble_retriever_2, historical_messages_retriever, ensemble_retriever_1
@@ -23,12 +23,14 @@ class AnswerGiver:
     def get_answer_without_memory(self, question):
         docs = self.retriever.invoke(question)
         answer = execute_chain_without_memory(self.rag_chain, question, docs)
+        answer = check_text_completeness(self.model, answer)
         return answer
 
     def get_answer_with_memory(self, question):
         # docs = self.retriever.invoke({"chat_history": self.chat_history, "input": question})
         docs = self.retriever.invoke(question)
         answer = execute_chain_with_memory(self.rag_chain, question, docs, self.chat_history)
+        answer = check_text_completeness(self.model, answer)
         new_history = create_history(question, answer)
         self.chat_history.extend(new_history)
         return answer

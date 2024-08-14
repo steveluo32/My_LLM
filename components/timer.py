@@ -2,6 +2,7 @@ import threading
 import time
 import sys
 
+
 class Timer:
     def __init__(self):
         self._stop_event = threading.Event()
