@@ -6,15 +6,15 @@ from components.model_initializer import chat_gpt, gemini, llama
 from components.text_splitter import split_document_by_newline, recursive_character_splitter
 from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
 from components.question_answering_chain import create_document_chain_document_retrieval, create_history, \
-    execute_chain_without_memory, execute_chain_with_memory, create_document_chain_with_memory, \
-    create_document_chain_answer_giving
+    execute_chain_without_memory, execute_chain_with_memory, create_document_chain_answer_giving_with_memory, \
+    create_document_chain_answer_giving_without_memory
 from components.vectorstore_retriever import historical_messages_retriever
 
 
 class DocumentRetriever:
     def __init__(self):
-        # self.model = chat_gpt()
-        self.model = llama()
+        self.model = chat_gpt()
+        # self.model = llama()
         # self.model = gemini()
         self.data = data_preparation()
         self.vectorstore = vector_store(self.data)
@@ -70,9 +70,9 @@ def data_preparation():
 
 
 def create_retriever(data, vectorstore):
-    # retriever = bm25_retriever(data, 100)
-    retriever = top_k_retriever(vectorstore, 20)
-    retriever = ensemble_retriever_2(retriever, data, 20)
+    retriever = bm25_retriever(data, 20)
+    # retriever = top_k_retriever(vectorstore, 20)
+    # retriever = ensemble_retriever_2(retriever, data, 20)
     return retriever
 
 
@@ -84,14 +84,24 @@ def create_retriever_2(data, model, vectorstore):
     return retriever
 
 
+# def create_rag_chain_with_memory(model):
+#     # rag_chain = create_document_chain_answer_giving(model)
+#     rag_chain = create_document_chain_with_memory(model)
+#     return rag_chain
+#
+#
+# def create_rag_chain_without_memory(model):
+#     rag_chain = create_document_chain_answer_giving(model)
+#     return rag_chain
+
 def create_rag_chain_with_memory(model):
     # rag_chain = create_document_chain_answer_giving(model)
-    rag_chain = create_document_chain_with_memory(model)
+    rag_chain = create_document_chain_answer_giving_with_memory(model)
     return rag_chain
 
 
 def create_rag_chain_without_memory(model):
-    rag_chain = create_document_chain_answer_giving(model)
+    rag_chain = create_document_chain_answer_giving_without_memory(model)
     return rag_chain
 
 

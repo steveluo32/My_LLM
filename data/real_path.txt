@@ -1,10 +1,7 @@
-0 scraping_data/.DS_Store
 1 scraping_data/cis.unimelb.edu.au/content.txt
-2 scraping_data/cis.unimelb.edu.au/.DS_Store
 3 scraping_data/cis.unimelb.edu.au/#news-and-events/content.txt
 4 scraping_data/cis.unimelb.edu.au/#news-and-events/.ipynb_checkpoints/content-checkpoint.txt
 5 scraping_data/cis.unimelb.edu.au/research/content.txt
-6 scraping_data/cis.unimelb.edu.au/research/.DS_Store
 7 scraping_data/cis.unimelb.edu.au/research/digital-health#about/content.txt
 8 scraping_data/cis.unimelb.edu.au/research/computer-science/content.txt
 9 scraping_data/cis.unimelb.edu.au/research/computer-science/research/content.txt
@@ -45,7 +42,6 @@
 44 scraping_data/cis.unimelb.edu.au/research/artificial-intelligence#ai-students/content.txt
 45 scraping_data/cis.unimelb.edu.au/research/artificial-intelligence#research/content.txt
 46 scraping_data/cis.unimelb.edu.au/colloquium/content.txt
-47 scraping_data/cis.unimelb.edu.au/colloquium/.DS_Store
 48 scraping_data/cis.unimelb.edu.au/colloquium/submission_info#how-to-participate/content.txt
 49 scraping_data/cis.unimelb.edu.au/colloquium/cisdc-2022#prizes/content.txt
 50 scraping_data/cis.unimelb.edu.au/colloquium/application_closed/content.txt
@@ -111,7 +107,6 @@
 110 scraping_data/cis.unimelb.edu.au/contact/content.txt
 111 scraping_data/cis.unimelb.edu.au/cyber-security-excellence#about-us/content.txt
 112 scraping_data/cis.unimelb.edu.au/study/content.txt
-113 scraping_data/cis.unimelb.edu.au/study/.DS_Store
 114 scraping_data/cis.unimelb.edu.au/study/research/content.txt
 115 scraping_data/cis.unimelb.edu.au/study/first-year-centre#get-help/content.txt
 116 scraping_data/cis.unimelb.edu.au/study/first-year-centre#undergraduate-programs/content.txt
@@ -147,7 +142,6 @@
 146 scraping_data/cis.unimelb.edu.au/study/programming-proficiency-test/content.txt
 147 scraping_data/cis.unimelb.edu.au/cyber-security-excellence#research/content.txt
 148 scraping_data/cis.unimelb.edu.au/#people/content.txt
-149 scraping_data/cis.unimelb.edu.au/archive/.DS_Store
 150 scraping_data/cis.unimelb.edu.au/archive/gr-page-list#Shah/content.txt
 151 scraping_data/cis.unimelb.edu.au/archive/gr-page-list#Cheng/content.txt
 152 scraping_data/cis.unimelb.edu.au/archive/gr-page-list#Nijhara/content.txt
@@ -199,9 +193,7 @@
 198 scraping_data/cis.unimelb.edu.au/people#professional/content.txt
 199 scraping_data/cis.unimelb.edu.au/hci#people/content.txt
 200 scraping_data/cis.unimelb.edu.au/hci/content.txt
-201 scraping_data/cis.unimelb.edu.au/hci/.DS_Store
 202 scraping_data/cis.unimelb.edu.au/hci/research/content.txt
-203 scraping_data/cis.unimelb.edu.au/hci/research/.DS_Store
 204 scraping_data/cis.unimelb.edu.au/hci/research/human-robot-interaction/content.txt
 205 scraping_data/cis.unimelb.edu.au/hci/research/human-information-interaction/content.txt
 206 scraping_data/cis.unimelb.edu.au/hci/research/games-and-play/content.txt
@@ -354,7 +346,6 @@
 353 scraping_data/cis.unimelb.edu.au/agentlab#about/content.txt
 354 scraping_data/cis.unimelb.edu.au/cyber-security-excellence#outreach-engagement/content.txt
 355 scraping_data/cis.unimelb.edu.au/information-systems/content.txt
-356 scraping_data/cis.unimelb.edu.au/information-systems/.DS_Store
 357 scraping_data/cis.unimelb.edu.au/information-systems/digital-society/content.txt
 358 scraping_data/cis.unimelb.edu.au/information-systems/cybersecurity/content.txt
 359 scraping_data/cis.unimelb.edu.au/information-systems/publications/content.txt
@@ -367,9 +358,7 @@
 366 scraping_data/cis.unimelb.edu.au/#schools/content.txt
 367 scraping_data/cis.unimelb.edu.au/#research/content.txt
 368 scraping_data/cis.unimelb.edu.au/about/content.txt
-369 scraping_data/cis.unimelb.edu.au/about/.DS_Store
 370 scraping_data/cis.unimelb.edu.au/about/history/content.txt
-371 scraping_data/cis.unimelb.edu.au/about/history/.DS_Store
 372 scraping_data/cis.unimelb.edu.au/about/history/early-internet/content.txt
 373 scraping_data/cis.unimelb.edu.au/about/history/women/content.txt
 374 scraping_data/cis.unimelb.edu.au/about/history/programming/content.txt
@@ -421,7 +410,6 @@
 420 scraping_data/cis.unimelb.edu.au/information-systems#about/content.txt
 421 scraping_data/cis.unimelb.edu.au/cyber-security-excellence#people/content.txt
 422 scraping_data/cis.unimelb.edu.au/ai-assurance/content.txt
-423 scraping_data/cis.unimelb.edu.au/ai-assurance/.DS_Store
 424 scraping_data/cis.unimelb.edu.au/ai-assurance/research/content.txt
 425 scraping_data/cis.unimelb.edu.au/ai-assurance/industry-engagement/content.txt
 426 scraping_data/cis.unimelb.edu.au/ai-assurance/publications/content.txt
@@ -433,7 +421,6 @@
 432 scraping_data/cis.unimelb.edu.au/#about/content.txt
 433 scraping_data/cis.unimelb.edu.au/people#honorary/content.txt
 434 scraping_data/cis.unimelb.edu.au/news/content.txt
-435 scraping_data/cis.unimelb.edu.au/news/.DS_Store
 436 scraping_data/cis.unimelb.edu.au/news/2022/content.txt
 437 scraping_data/cis.unimelb.edu.au/news/2022/cis-ie-seed-funding-initiative2/content.txt
 438 scraping_data/cis.unimelb.edu.au/news/2022/cis-eee-seed-funding/content.txt
@@ -446,7 +433,6 @@
 445 scraping_data/cis.unimelb.edu.au/news/2020/.ipynb_checkpoints/content-checkpoint.txt
 446 scraping_data/cis.unimelb.edu.au/news/.ipynb_checkpoints/content-checkpoint.txt
 447 scraping_data/cis.unimelb.edu.au/agentlab/content.txt
-448 scraping_data/cis.unimelb.edu.au/agentlab/.DS_Store
 449 scraping_data/cis.unimelb.edu.au/agentlab/#projects/content.txt
 450 scraping_data/cis.unimelb.edu.au/agentlab/#people/content.txt
 451 scraping_data/cis.unimelb.edu.au/agentlab/publications/content.txt
@@ -463,9 +449,7 @@
 462 scraping_data/cis.unimelb.edu.au/cyber-security-excellence#education-training/content.txt
 463 scraping_data/cis.unimelb.edu.au/information-systems#people/content.txt
 464 scraping_data/cis.unimelb.edu.au/people/content.txt
-465 scraping_data/cis.unimelb.edu.au/people/.DS_Store
 466 scraping_data/cis.unimelb.edu.au/people/staff.php?person_ID=18782#report/content.txt
-467 scraping_data/cis.unimelb.edu.au/people/research-students/.DS_Store
 468 scraping_data/cis.unimelb.edu.au/people/research-students/#Cataldo/content.txt
 469 scraping_data/cis.unimelb.edu.au/people/research-students/#Spratley/content.txt
 470 scraping_data/cis.unimelb.edu.au/people/research-students/#Jiang/content.txt
@@ -480,7 +464,6 @@
 479 scraping_data/cis.unimelb.edu.au/people/research-students/#Bhattacharjee/content.txt
 480 scraping_data/cis.unimelb.edu.au/people/research-students/#RuihanZhang/content.txt
 481 scraping_data/cis.unimelb.edu.au/people/students/content.txt
-482 scraping_data/cis.unimelb.edu.au/people/students/.DS_Store
 483 scraping_data/cis.unimelb.edu.au/people/students/toni-mclennan/content.txt
 484 scraping_data/cis.unimelb.edu.au/people/students/geoffrey-hill/content.txt
 485 scraping_data/cis.unimelb.edu.au/people/students/faxing-wang/content.txt
@@ -766,7 +749,6 @@
 765 scraping_data/cis.unimelb.edu.au/people/students/kasun-amarasinghe/content.txt
 766 scraping_data/cis.unimelb.edu.au/people/staff.php?person_ID=18782/content.txt
 767 scraping_data/cis.unimelb.edu.au/industry/content.txt
-768 scraping_data/cis.unimelb.edu.au/industry/.DS_Store
 769 scraping_data/cis.unimelb.edu.au/industry/collaboration/content.txt
 770 scraping_data/cis.unimelb.edu.au/industry/collaboration/gray/content.txt
 771 scraping_data/cis.unimelb.edu.au/industry/collaboration/bailey/content.txt
@@ -787,7 +769,6 @@
 786 scraping_data/cis.unimelb.edu.au/#industry/content.txt
 787 scraping_data/cis.unimelb.edu.au/people#leadership/content.txt
 788 scraping_data/cis.unimelb.edu.au/schools/content.txt
-789 scraping_data/cis.unimelb.edu.au/assets/.DS_Store
 790 scraping_data/cis.unimelb.edu.au/assets/documents/2022-seed-funding-schemes/2022-CIS-IE-Seed-Funding-Application-Form.docx/content.txt
 791 scraping_data/cis.unimelb.edu.au/assets/documents/2022-seed-funding-schemes/2022-CIS-IE-Seed-Funding-Announcement.docx/content.txt
 792 scraping_data/cis.unimelb.edu.au/assets/documents/2022-seed-funding-schemes/2022-CIS-IE-Seed-Funding-Guidelines.pdf/content.txt
@@ -816,7 +797,6 @@
 815 scraping_data/cis.unimelb.edu.au/agentlab#projects/content.txt
 816 scraping_data/cis.unimelb.edu.au/#study/content.txt
 817 scraping_data/melbconnect.com.au/content.txt
-818 scraping_data/melbconnect.com.au/.DS_Store
 819 scraping_data/melbconnect.com.au/infoportal/content.txt
 820 scraping_data/melbconnect.com.au/infoportal/registration/content.txt
 821 scraping_data/melbconnect.com.au/melbourne-design-week-2024/content.txt
@@ -835,10 +815,8 @@
 834 scraping_data/melbconnect.com.au/eduard-hovy/content.txt
 835 scraping_data/melbconnect.com.au/eduard-hovy/.ipynb_checkpoints/content-checkpoint.txt
 836 scraping_data/melbconnect.com.au/about/content.txt
-837 scraping_data/melbconnect.com.au/about/.DS_Store
 838 scraping_data/melbconnect.com.au/about/.ipynb_checkpoints/content-checkpoint.txt
 839 scraping_data/melbconnect.com.au/our-community/content.txt
-840 scraping_data/melbconnect.com.au/our-community/.DS_Store
 841 scraping_data/melbconnect.com.au/our-community/.ipynb_checkpoints/content-checkpoint.txt
 842 scraping_data/melbconnect.com.au/whats-on-at-melbourne-connect/content.txt
 843 scraping_data/melbconnect.com.au/precinct-retail/content.txt
@@ -846,7 +824,6 @@
 845 scraping_data/melbconnect.com.au/contact-us/.ipynb_checkpoints/content-checkpoint.txt
 846 scraping_data/melbconnect.com.au/purpose/content.txt
 847 scraping_data/melbconnect.com.au/.ipynb_checkpoints/content-checkpoint.txt
-848 scraping_data/melbconnect.com.au/events/.DS_Store
 849 scraping_data/melbconnect.com.au/events/adventures-in-designing-with-country/content.txt
 850 scraping_data/melbconnect.com.au/events/2024-map-launch/content.txt
 851 scraping_data/melbconnect.com.au/events/student-precinct-indigenous-engagement-in-art-and-design/content.txt
@@ -865,7 +842,6 @@
 864 scraping_data/melbconnect.com.au/events-venues-and-catering/.ipynb_checkpoints/content-checkpoint.txt
 865 scraping_data/melbconnect.com.au/events-venues-and-catering/the-forum/content.txt
 866 scraping_data/melbconnect.com.au/community/content.txt
-867 scraping_data/melbconnect.com.au/community/.DS_Store
 868 scraping_data/melbconnect.com.au/community/melbourne-climate-futures/content.txt
 869 scraping_data/melbconnect.com.au/community/telstracreatorspace/content.txt
 870 scraping_data/melbconnect.com.au/community/science-gallery-melbourne/content.txt

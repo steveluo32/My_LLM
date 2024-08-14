@@ -18,8 +18,9 @@ def clean_path(path):
 def save_file_paths_to_file(file_paths, file_path):
     with open(file_path, 'w') as f:
         for i, file_path in enumerate(file_paths):
-            cleaned_path = clean_path(file_path)
-            f.write(f"{i} {cleaned_path}\n")
+            if(".DS_Store" not in file_path):
+                cleaned_path = clean_path(file_path)
+                f.write(f"{i} {cleaned_path}\n")
 
 
 # 示例使用

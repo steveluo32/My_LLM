@@ -1,10 +1,7 @@
-0 scraping data  DS Store
 1 scraping data cis unimelb edu au content txt
-2 scraping data cis unimelb edu au  DS Store
 3 scraping data cis unimelb edu au  news and events content txt
 4 scraping data cis unimelb edu au  news and events  ipynb checkpoints content checkpoint txt
 5 scraping data cis unimelb edu au research content txt
-6 scraping data cis unimelb edu au research  DS Store
 7 scraping data cis unimelb edu au research digital health about content txt
 8 scraping data cis unimelb edu au research computer science content txt
 9 scraping data cis unimelb edu au research computer science research content txt
@@ -45,7 +42,6 @@
 44 scraping data cis unimelb edu au research artificial intelligence ai students content txt
 45 scraping data cis unimelb edu au research artificial intelligence research content txt
 46 scraping data cis unimelb edu au colloquium content txt
-47 scraping data cis unimelb edu au colloquium  DS Store
 48 scraping data cis unimelb edu au colloquium submission info how to participate content txt
 49 scraping data cis unimelb edu au colloquium cisdc 2022 prizes content txt
 50 scraping data cis unimelb edu au colloquium application closed content txt
@@ -111,7 +107,6 @@
 110 scraping data cis unimelb edu au contact content txt
 111 scraping data cis unimelb edu au cyber security excellence about us content txt
 112 scraping data cis unimelb edu au study content txt
-113 scraping data cis unimelb edu au study  DS Store
 114 scraping data cis unimelb edu au study research content txt
 115 scraping data cis unimelb edu au study first year centre get help content txt
 116 scraping data cis unimelb edu au study first year centre undergraduate programs content txt
@@ -147,7 +142,6 @@
 146 scraping data cis unimelb edu au study programming proficiency test content txt
 147 scraping data cis unimelb edu au cyber security excellence research content txt
 148 scraping data cis unimelb edu au  people content txt
-149 scraping data cis unimelb edu au archive  DS Store
 150 scraping data cis unimelb edu au archive gr page list Shah content txt
 151 scraping data cis unimelb edu au archive gr page list Cheng content txt
 152 scraping data cis unimelb edu au archive gr page list Nijhara content txt
@@ -199,9 +193,7 @@
 198 scraping data cis unimelb edu au people professional content txt
 199 scraping data cis unimelb edu au hci people content txt
 200 scraping data cis unimelb edu au hci content txt
-201 scraping data cis unimelb edu au hci  DS Store
 202 scraping data cis unimelb edu au hci research content txt
-203 scraping data cis unimelb edu au hci research  DS Store
 204 scraping data cis unimelb edu au hci research human robot interaction content txt
 205 scraping data cis unimelb edu au hci research human information interaction content txt
 206 scraping data cis unimelb edu au hci research games and play content txt
@@ -354,7 +346,6 @@
 353 scraping data cis unimelb edu au agentlab about content txt
 354 scraping data cis unimelb edu au cyber security excellence outreach engagement content txt
 355 scraping data cis unimelb edu au information systems content txt
-356 scraping data cis unimelb edu au information systems  DS Store
 357 scraping data cis unimelb edu au information systems digital society content txt
 358 scraping data cis unimelb edu au information systems cybersecurity content txt
 359 scraping data cis unimelb edu au information systems publications content txt
@@ -367,9 +358,7 @@
 366 scraping data cis unimelb edu au  schools content txt
 367 scraping data cis unimelb edu au  research content txt
 368 scraping data cis unimelb edu au about content txt
-369 scraping data cis unimelb edu au about  DS Store
 370 scraping data cis unimelb edu au about history content txt
-371 scraping data cis unimelb edu au about history  DS Store
 372 scraping data cis unimelb edu au about history early internet content txt
 373 scraping data cis unimelb edu au about history women content txt
 374 scraping data cis unimelb edu au about history programming content txt
@@ -421,7 +410,6 @@
 420 scraping data cis unimelb edu au information systems about content txt
 421 scraping data cis unimelb edu au cyber security excellence people content txt
 422 scraping data cis unimelb edu au ai assurance content txt
-423 scraping data cis unimelb edu au ai assurance  DS Store
 424 scraping data cis unimelb edu au ai assurance research content txt
 425 scraping data cis unimelb edu au ai assurance industry engagement content txt
 426 scraping data cis unimelb edu au ai assurance publications content txt
@@ -433,7 +421,6 @@
 432 scraping data cis unimelb edu au  about content txt
 433 scraping data cis unimelb edu au people honorary content txt
 434 scraping data cis unimelb edu au news content txt
-435 scraping data cis unimelb edu au news  DS Store
 436 scraping data cis unimelb edu au news 2022 content txt
 437 scraping data cis unimelb edu au news 2022 cis ie seed funding initiative2 content txt
 438 scraping data cis unimelb edu au news 2022 cis eee seed funding content txt
@@ -446,7 +433,6 @@
 445 scraping data cis unimelb edu au news 2020  ipynb checkpoints content checkpoint txt
 446 scraping data cis unimelb edu au news  ipynb checkpoints content checkpoint txt
 447 scraping data cis unimelb edu au agentlab content txt
-448 scraping data cis unimelb edu au agentlab  DS Store
 449 scraping data cis unimelb edu au agentlab  projects content txt
 450 scraping data cis unimelb edu au agentlab  people content txt
 451 scraping data cis unimelb edu au agentlab publications content txt
@@ -463,9 +449,7 @@
 462 scraping data cis unimelb edu au cyber security excellence education training content txt
 463 scraping data cis unimelb edu au information systems people content txt
 464 scraping data cis unimelb edu au people content txt
-465 scraping data cis unimelb edu au people  DS Store
 466 scraping data cis unimelb edu au people staff php person ID 18782 report content txt
-467 scraping data cis unimelb edu au people research students  DS Store
 468 scraping data cis unimelb edu au people research students  Cataldo content txt
 469 scraping data cis unimelb edu au people research students  Spratley content txt
 470 scraping data cis unimelb edu au people research students  Jiang content txt
@@ -480,7 +464,6 @@
 479 scraping data cis unimelb edu au people research students  Bhattacharjee content txt
 480 scraping data cis unimelb edu au people research students  RuihanZhang content txt
 481 scraping data cis unimelb edu au people students content txt
-482 scraping data cis unimelb edu au people students  DS Store
 483 scraping data cis unimelb edu au people students toni mclennan content txt
 484 scraping data cis unimelb edu au people students geoffrey hill content txt
 485 scraping data cis unimelb edu au people students faxing wang content txt
@@ -766,7 +749,6 @@
 765 scraping data cis unimelb edu au people students kasun amarasinghe content txt
 766 scraping data cis unimelb edu au people staff php person ID 18782 content txt
 767 scraping data cis unimelb edu au industry content txt
-768 scraping data cis unimelb edu au industry  DS Store
 769 scraping data cis unimelb edu au industry collaboration content txt
 770 scraping data cis unimelb edu au industry collaboration gray content txt
 771 scraping data cis unimelb edu au industry collaboration bailey content txt
@@ -787,7 +769,6 @@
 786 scraping data cis unimelb edu au  industry content txt
 787 scraping data cis unimelb edu au people leadership content txt
 788 scraping data cis unimelb edu au schools content txt
-789 scraping data cis unimelb edu au assets  DS Store
 790 scraping data cis unimelb edu au assets documents 2022 seed funding schemes 2022 CIS IE Seed Funding Application Form docx content txt
 791 scraping data cis unimelb edu au assets documents 2022 seed funding schemes 2022 CIS IE Seed Funding Announcement docx content txt
 792 scraping data cis unimelb edu au assets documents 2022 seed funding schemes 2022 CIS IE Seed Funding Guidelines pdf content txt
@@ -816,7 +797,6 @@
 815 scraping data cis unimelb edu au agentlab projects content txt
 816 scraping data cis unimelb edu au  study content txt
 817 scraping data melbconnect com au content txt
-818 scraping data melbconnect com au  DS Store
 819 scraping data melbconnect com au infoportal content txt
 820 scraping data melbconnect com au infoportal registration content txt
 821 scraping data melbconnect com au melbourne design week 2024 content txt
@@ -835,10 +815,8 @@
 834 scraping data melbconnect com au eduard hovy content txt
 835 scraping data melbconnect com au eduard hovy  ipynb checkpoints content checkpoint txt
 836 scraping data melbconnect com au about content txt
-837 scraping data melbconnect com au about  DS Store
 838 scraping data melbconnect com au about  ipynb checkpoints content checkpoint txt
 839 scraping data melbconnect com au our community content txt
-840 scraping data melbconnect com au our community  DS Store
 841 scraping data melbconnect com au our community  ipynb checkpoints content checkpoint txt
 842 scraping data melbconnect com au whats on at melbourne connect content txt
 843 scraping data melbconnect com au precinct retail content txt
@@ -846,7 +824,6 @@
 845 scraping data melbconnect com au contact us  ipynb checkpoints content checkpoint txt
 846 scraping data melbconnect com au purpose content txt
 847 scraping data melbconnect com au  ipynb checkpoints content checkpoint txt
-848 scraping data melbconnect com au events  DS Store
 849 scraping data melbconnect com au events adventures in designing with country content txt
 850 scraping data melbconnect com au events 2024 map launch content txt
 851 scraping data melbconnect com au events student precinct indigenous engagement in art and design content txt
@@ -865,7 +842,6 @@
 864 scraping data melbconnect com au events venues and catering  ipynb checkpoints content checkpoint txt
 865 scraping data melbconnect com au events venues and catering the forum content txt
 866 scraping data melbconnect com au community content txt
-867 scraping data melbconnect com au community  DS Store
 868 scraping data melbconnect com au community melbourne climate futures content txt
 869 scraping data melbconnect com au community telstracreatorspace content txt
 870 scraping data melbconnect com au community science gallery melbourne content txt

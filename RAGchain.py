@@ -27,7 +27,7 @@ class RAG_chain:
                     print("\nRetrieved Paths:")
                     for path in retrieved_paths:
                         print(path)
-                self.answer_giver.set_up(retrieved_paths)
+                self.answer_giver.set_up(retrieved_paths, "with memory")
                 answer = self.answer_giver.get_answer_with_memory(question)
                 print("\n"+answer)
                 timer.stop()
@@ -53,7 +53,7 @@ class RAG_chain:
                     print("\nRetrieved Paths:")
                     for path in retrieved_paths:
                         print(path)
-                self.answer_giver.set_up(retrieved_paths)
+                self.answer_giver.set_up(retrieved_paths, "without memory")
                 answer = self.answer_giver.get_answer_without_memory(question)
                 print("\n"+answer)
                 timer.stop()

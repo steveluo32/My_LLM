@@ -9,8 +9,9 @@ def get_all_files_in_subdirs(base_dir):
 
 def save_file_paths_to_file(file_paths, file_path):
     with open(file_path, 'w') as f:
-        for i, file_path in enumerate(file_paths):
-            f.write(f"{i} {file_path}\n")
+            for i, file_path in enumerate(file_paths):
+                if (".DS_Store" not in file_path):
+                    f.write(f"{i} {file_path}\n")
 
 # 示例使用
 base_directory = 'scraping_data'  # 将此处替换为你的基础目录路径

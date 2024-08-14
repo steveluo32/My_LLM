@@ -17,25 +17,25 @@ from components.question_answering_chain import contextualize_q_prompt
 from langchain_ollama import OllamaEmbeddings
 
 # https://python.langchain.com/v0.1/docs/get_started/introduction
-# def chroma_vectorstore(documents):
-#     vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
-#     return vectorstore_db
-#
-#
-# def faiss_vectorstore(documents):
-#     vectorstore_db = FAISS.from_documents(documents=documents, embedding=OpenAIEmbeddings())
-#     return vectorstore_db
-
 def chroma_vectorstore(documents):
-    embeddings = OllamaEmbeddings(model="llama3.1")
-    vectorstore_db = Chroma.from_documents(documents=documents, embedding=embeddings)
+    vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
     return vectorstore_db
 
 
 def faiss_vectorstore(documents):
-    embeddings = OllamaEmbeddings(model="llama3.1")
-    vectorstore_db = FAISS.from_documents(documents=documents, embedding=embeddings)
+    vectorstore_db = FAISS.from_documents(documents=documents, embedding=OpenAIEmbeddings())
     return vectorstore_db
+
+# def chroma_vectorstore(documents):
+#     embeddings = OllamaEmbeddings(model="llama3.1")
+#     vectorstore_db = Chroma.from_documents(documents=documents, embedding=embeddings)
+#     return vectorstore_db
+#
+#
+# def faiss_vectorstore(documents):
+#     embeddings = OllamaEmbeddings(model="llama3.1")
+#     vectorstore_db = FAISS.from_documents(documents=documents, embedding=embeddings)
+#     return vectorstore_db
 
 # Top K retrieval
 def top_k_retriever(vectorstore_db, k=5):
@@ -89,11 +89,11 @@ def ensemble_retriever_1(base_retriever, docs, llm_model, k=5):
 
 # Ensemble Retriever 2 with bm25 and base retriever
 # BM25 cannot receive an empty docs list, be careful
-def ensemble_retriever_2(base_retriever, docs, k=5):
+def ensemble_retriever_2(base_retriever, docs, k=20):
     docs.append(Document(page_content="."))
     bm25_retriever = BM25Retriever.from_documents(documents=docs, k=k)
     ensemble_retriever = EnsembleRetriever(
-        retrievers=[bm25_retriever, base_retriever], weights=[0.5, 0.5]
+        retrievers=[bm25_retriever, base_retriever], weights=[0.6, 0.4]
     )
     return ensemble_retriever
 
