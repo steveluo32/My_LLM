@@ -1,0 +1,329 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90054
+AI Planning for Autonomy (COMP90054) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI Planning for AutonomySubjectsHandbook
+HandbookSubjectsAI Planning for Autonomy
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+AI Planning for Autonomy (COMP90054)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Nir Lipovetzkynir.lipovetzky@unimelb.edu.auSemester 2 Adrian Pearceadrianrp@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+The key focus of this subject is the foundations of autonomous agents that reason about action, applying techniques such as automated planning, reinforcement learning, game theory, and their real-world applications. Autonomous agents are active entities that perceive their environment, reason, plan and execute appropriate actions to achieve their goals, in service of their users (the real world, human beings, or other agents). The subject focuses on the foundations that enable agents to reason autonomously about goals & rewards, perception, actions, strategy, and the knowledge of other agents during collaborative task execution, and the ethical impacts of agents with this ability.  The programming language used in this subject is Python. No lectures or workshops on Python will be delivered.
+INDICATIVE CONTENT
+Topics are drawn from the field of advanced artificial intelligence including:
+
+Search algorithms and heuristic functions
+Classical (AI) planning
+Markov Decision Processes
+Reinforcement learning
+Game theory
+Ethics in AI planning
+Intended learning outcomesOn completion of this subject the student is expected to:Apply theoretical concepts of reasoning about actions to single and multi-agent problemsBe able to analyse, design, and implement automated planning, reinforcement learning, and game theoretic techniques to given problemsUnderstand the strengths, weaknesses, and ethical consequences of different approaches for reasoning about actionBe able to critically evaluate and choose the right technique for different problems in reasoning about actionCommunicate technical solutions about automated planning, reinforcement learning, and game theoryGeneric skillsOn completion of the subject the students should have the following skills:
+Ability to undertake problem identification, formulation, and solution
+Ability to utilise a systems approach to complex problems and to design and operational performance
+Ability to manage information and documentation
+Capacity for creativity and innovation ability to communicate effectively with both the engineering team and the community at large
+Next: Eligibility and requirementsLast updated: 8 April 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

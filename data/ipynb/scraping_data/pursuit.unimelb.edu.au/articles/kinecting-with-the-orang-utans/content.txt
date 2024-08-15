@@ -1,0 +1,120 @@
+URL: https://pursuit.unimelb.edu.au/articles/kinecting-with-the-orang-utans
+
+Kinecting with the orang-utans  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+Kinecting with the orang-utans
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+Watch the video: Computer and gaming technology is about to let orang-utans take charge at Melbourne Zoo By Andrew Trounson, University of MelbournePublished 2 February 2016
+7 min read
+Malu could barely contain himself. Melbourne Zoo’s twelve-year-old orang-utan was fascinated by the swishing game he was playing on a computer tablet held up by his keeper. His immensely strong fingers tapped eagerly at the screen through the wire mesh of his enclosure, but he was itching to grab it and take control himself in a move that could only have ended badly for the device.Watching Malu was University of Melbourne Human Computer Interaction Researcher Dr Marcus Carter. “It just wasn’t how Malu wanted to interact with the tablet. He wanted to roll over it and jump around it,” Dr Carter says.It was then Dr Carter realised the answer to giving Malu control wasn’t to make it orang-utan proof, but to use Microsoft’s Kinect 3D sensor (as used in the Xbox One gaming system) to project an interactive digital space directly onto the floor inside the orang-utan enclosure. Such a space could be activated simply by the orang-utans moving any part of their bodies across the projection.In a world first, researchers from the University of Melbourne’s Microsoft Research Centre for Social Natural User Interfaces and Zoos Victoria are now trialling their own ‘intelligent projection’ technology to give the orang-utans control over the games and applications they play to challenge their minds.They are now developing computer games, painting applications and picture galleries specifically designed for orang-utans. And because the researchers are using projections, the orang-utans won’t be limited to just using their fingers but will be able to use their whole bodies to activate the space. If the trial is successful, within a few years the orang-utans could be playing computer games with visitors whenever they want.Zoos around the world, including Melbourne, have for some years been using computer tablets to enrich activities for their primates. But while Melbourne’s six orang-utans clearly love playing with and watching the tablets, there are serious limitations. In the hands of a curious orang-utan a tablet risks lasting less than a minute before being broken to pieces. It means a zookeeper has to always be holding onto the tablet from behind protective mesh.Malu uses his body, not just his hands, to interact with the interface developed by researchers at the University of Melbourne. Picture: Zoos VictoriaAt Zoo Atlanta in Georgia, they installed a touch screen into a tree-like structure inside the enclosure. But Zoos Victoria’s Animal Welfare Specialist Sally Sherwen wanted to go beyond that and give the orang-utans the opportunity to engage with the technology the way they want to, make it a richer experience by allowing more full body movements and also to interact directly with visitors.She says previous research at the zoo has shown the orang-utans themselves are keen to engage. When given the opportunity to be behind a curtained off part of the enclosure or in clear view the orang-utans much preferred being in clear view.“They enjoyed using the tablet but we wanted to give them something more, something they can use when they choose to,” Dr Sherwen says.The goal was to ensure there was nothing the orang-utans could break or hurt themselves on.The University of Melbourne team is exploring how orang-utans like Gabby understand different kinds of computer interfaces. Picture: Zoos Victoria“By having all the technology on the outside and using these emerging technologies that allow for touch detections on projected surfaces we are able to circumvent the safety issue,” Dr Carter says.Such safety issues aren’t to be underestimated. Orang-utans are three times stronger than humans while sharing 97 per cent of our DNA. A key challenge has been projecting successfully through the three panels of bulletproof glass protecting the enclosure. But the team can now project a full body-sized screen that allows the orang-utans to ‘bodily engage’ with the projection, whether it be rolling, using it on their bodies or bringing over physical objects like leaves and bits of tarpaulin.A game called ‘zap’The team has developed an initial shape-recognition game dubbed ‘Zap’ that builds off a game the zoo keepers created in which the orang-utans are trained to identify a red dot on a wall to secure a treat. But in the computer game, the shape will explode with light when both the orang-utan and the human player touch the shapes at the same time. The idea is to encourage collaborative play.More complex games are being designed, but designing for animals has presented a unique challenge for scientists accustomed to working with human subjects.Kiani enjoys the projections appearing on her body. Picture: Zoos Victoria“As interactive game designers we use what we call participatory design. We work with the people who use the products and they provide input and feedback for prototypes,” says PhD candidate Sarah Webber, who is working with Dr Carter. “You can’t have those conversations with animals, so we have to find new ways to include them as participants in the design process.”The researchers are now working with the zookeepers to tap into the different personalities of the zoo’s orang-utans. For example, females Gabby and Kiani appear to be fascinated with handbags and what people pull out of them, while male Santan is intrigued by men with ginger beards. Malu likes extracting nuts and bolts from places he shouldn’t. Indeed, Malu’s penchant for taking things apart – he managed to escape the enclosure for a short time last year – has made his keepers train him to hand over whatever bolts and nuts he extracts in return for a reward.“These individual differences are things we can use as inspiration to design something that is complex and motivates them to solve puzzles,” Ms Webber says. “We know apes can successfully use touch screens but they are very task orientated, so we want to see if we can devise experiences that are inherently engaging to them.”Kiani interacts with physical objects in the projected digital space. Picture: Zoos VictoriaOne application is being aimed especially at Kiani who loves to look at pictures of herself. Dubbed “Orangstagram”, the app allows the orang-utans to take pictures of themselves and display them. They would also be able to go through a picture library and choose what they want to look at.Such an activity could prove to be much more than a game. It opens up the possibility of animal psychologists ‘reading’ the emotional health of orang-utans by analysing what pictures they select.“If we design an interface they understand they could use it to communicate things about their welfare,” Dr Carter says.Play collaboratively with visitorsSuch an interface could also eventually become a shared projection space extending inside and outside the enclosure, creating a host of potential new opportunities for interaction between the orang-utans and zoo visitors. This could allow orang-utans the opportunity to play collaboratively with visitors, who can remain safely outside the enclosure. It would completely change the way animals and visitors interact at the zoo.The researchers were excited to learn how the orang-utans would take to the projected interface, but at the first testing Malu didn’t disappoint. Spying the projected red dot moving on the floor he immediately went over to it and kissed it. The dot duly exploded and when it reappeared he kissed it again, suggesting the orang-utans are indeed keen to use more than their hands to interact.Kiani is fascinated by handbags and what people pull out of them. Picture: Zoos VictoriaMalu then brought over a piece of cloth and began using it to wipe at the dot. This prompted the researchers to introduce a sweeping game they had prepared where Malu used the cloth to sweep away at a matrix of red, orange and yellow rectangles that when touched gave out water ripples.“It is really encouraging,” Dr Carter says. “We know that Malu is inquisitive but it demonstrates that even with a brand new interface he was able to get it so quickly and, after 15 minutes of use, he got better at it.”So how far down the animal intelligence chain could this new projected interface be effective? The answer is probably much further than we think. Melbourne Zoo’s Dwarf Bearded Dragon lizards have been playing ‘Bug Crusher’ on tablets. Dr Sherwen says digital enhancement could eventually be introduced for a number of the zoo’s animals, though the opportunity to interact with visitors would always be limited to those species that want to interact.“We don’t just want to stop here. If the trial is successful we could utilise digital enhancement to benefit a range of species, but this will be different according to a species’ preferences,” Dr Sherwen says.It seems that one day we may well be able to turn over the zoo to the animals.with Andi HorvathDr Carter, Ms Webber and Dr Sherwen have organised a workshop on the opportunities for emerging technologies in the zoo, which will bring together animal experts, zookeepers and computer scientists at the Computer Human Interaction CHI 2016 conference at San Jose in May.Banner Image: Gabby the orang-utan exploring the new enrichment provided by University of Melbourne researchers. Picture: Zoos Victoria
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyAnimal WelfareGamingVideo GamesZoosAnimal BehaviourShare Link copied 
+
+
+
+Featured individualsDr Marcus CarterResearch Fellow, Microsoft Research Centre for Social Natural User Interfaces, Melbourne School of Engineering, University of MelbourneSarah WebberPhD Candidate, Microsoft Centre for Social Natural User Interfaces, Melbourne School of Engineering, University of MelbourneDr Sally SherwenResearcher (honorary), Animal Welfare Science Centre, University of Melbourne; Animal Welfare Specialist, Zoos Victoria
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Sciences & TechnologyPrevious slideNext slideSciences & TechnologyClimate change is supercharging the world’s wildfiresA new annual global assessment of wildfires warns that climate change has increased the risk of extreme fire weather by about 20 times in some parts of the worldSciences & TechnologyThe vaccine improving the health of Australia's chickensA new vaccine is protecting one-day-old chicks from a pneumonia-like illness that costs the poultry industry millions of dollars each yearSciences & TechnologyWe now know what causes the Buruli ulcer, so what are we doing about it?Knowing that mosquitoes are involved in the transmission of the Buruli ulcer in Victoria is a breakthrough, but we need to work out what happens next to tackle the diseaseView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

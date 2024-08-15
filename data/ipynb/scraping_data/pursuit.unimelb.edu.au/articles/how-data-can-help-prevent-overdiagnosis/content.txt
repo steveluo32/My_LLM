@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/how-data-can-help-prevent-overdiagnosis
+
+How data can help prevent overdiagnosis  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Health & Medicine 
+            
+
+
+How data can help prevent overdiagnosis
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+The increasing use of digital technologies in medical screening may lead to a rise in overdiagnosis that could be prevented by a new focus on patient dataBy Dr Daniel Capurro, Dr Simon Coghlan and Dr Douglas Pires, University of MelbournePublished 22 January 2022
+5 min read
+Can knowing too much harm us? When it comes to medicine, in some cases, yes, absolutely.Finding and treating diseases early saves lives and reduces health costs. It is why health systems have been increasingly undertaking proactive screening – administering clinical tests on individuals who don’t have any symptoms but may be at risk. Examples include screening for diseases like bowel cancer or breast cancer.Medical screening can save lives and reduce health costs, but as screening technology improves so does the risk of overdiagnosis. Picture: Getty ImagesThe ubiquity of digital technologies in our lives has the potential to take proactive screening to a new level – digital screening. This involves using information collected by our smartphones, smartwatches, keyboards, social networks, and wearable technology and analysing it using artificial intelligence algorithms to identify at-risk individuals.For example, the early onset of Parkinson’s Disease could be identified from the changing patterns of how someone types, while the risk of heart problems can be identified from abnormal heart rhythms detected by a smartwatch.Health & MedicineThe dark side of electronic medical records While all this may sound good, the problem is that proactive screening can find things that might not be worth finding. There is overwhelming evidence that some diagnostic tests used in screening can find abnormalities that, while meeting the current definition of a disease, might have never made some people sick.These ‘diseases’ that would have never generated any problems are what we call cases of overdiagnoses and can lead to unnecessary and sometimes harmful treatments. And the emergence of digital screening could make this problem worse.Overdiagnosis as a phenomenon has been seen in many well-known diseases, from some common cancers to attention deficit disorder. The most common scenario of overdiagnosis is when we actively seek diseases in asymptomatic patients, especially among healthier segments of the population.For example in some countries screening for thyroid cancer has led to a two-fold increase in the incidence of thyroid cancer, but no change in mortality. In other words, the screening hasn’t reduced deaths.Wearable technology, like smart watches and phones, are being utilised as tools in medical screening. Picture: Getty ImagesSimilarly, studies have shown that screening for Attention-Deficit/Hyperactivity Disorder in children can lead to simply the youngest children in a school class being diagnosed.Overdiagnosis has been observed for many cancers, including prostate cancer and breast cancer, as well as conditions like chronic kidney disease, gestational diabetes, high blood pressure and autism spectrum disorder.Health & MedicineUsing AI to predict hospital costs in real time The extent of overdiagnosis is difficult to quantify but one report has suggested that an estimated 18-24 per cent of all cancers in Australia may be cases of overdiagnosis.One reason behind overdiagnosis is the constant advance of technology, with newer, more sensitive tests being developed. Among the latest advances in medicine is the possibility of using the massive amount of data we generate every day to find clues that might point to undiagnosed diseases.Throughout our day we use smartphones, type emails, interact on social media and count our steps on our smartwatches. Using artificial intelligence, the data can be used to find patterns that might help us detect diseases at an earlier stage.The collection and use of medical data raise ethical concerns, like those of privacy and data security. Nonetheless, this is a very exciting time, and many benefits will probably emerge from these technologies. But just as with traditional diagnostic methods, overdiagnosis is still a risk that should be addressed. So, what can we do?A focus on analysing patient data could help to identify those people who won’t be significantly, if at all, affected by a positive diagnosis for a disease. Picture: Getty ImagesIn our recently published paper, we propose using data banks of longitudinal patient information – data collected over long periods of time – to analyse the historical trajectories of different diseases and identify those subgroups of patients who won’t be significantly affected, if at all, by a given disease.This data-driven approach could be used to improve disease definitions considering patient trajectories and identify the clinical attributes that might in the future allow clinicians to more accurately distinguish a diagnosis from an overdiagnosis.Sciences & TechnologyAre robots the answer for aged care during pandemics? In a pilot study we conducted using a US hospital database with hundreds of thousands of hospital admissions, we trained an artificial intelligence algorithm to predict which patients were likely to develop sepsis in the next hours – sepsis is a complication of an infection in which the body’s own immune response begins to damage tissues and organs.We then looked at the patients flagged by the algorithm who actually went on to develop sepsis, based on official diagnostic criteria. Among them, we found that almost 5 per cent of them had trajectories that appeared to be identical to those who never went on to develop sepsis. This suggests that we need more work on defining what is and what isn’t sepsis.The huge amounts of data that technology allows us to collect and analyse is an opportunity to better identify people early who need treatment before they become sick. But we also need to use big data to ensure we aren’t taking perfectly well people and turning them into sick patients.Banner: Getty Images
+
+
+ Republish this Article Terms of use  First published in Medicine, Dentistry and HealthMedical ScreeningArtificial IntelligenceBig DataDiseaseCancerShare Link copied 
+
+
+
+Featured individualsDr Daniel CapurroSenior Lecturer, Digital Health, School of Computing and Information Systems, Faculty of Engineering & Information Technology, and Deputy Director Centre for Digital Transformation of Health, Faculty of Medicine, Dentistry and Health Sciences, University of MelbourneDr Simon CoghlanSenior Lecturer in Digital Ethics, Centre for AI and Digital Ethics, and School of Computing & Information Systems, Faculty of Engineering and Information Technology, University of MelbourneDr Douglas Pires Senior Lecturer In Digital Health, School of Computing and Information Systems, Faculty of Engineering & Information Technology, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Medicine, Dentistry and Health
+
+
+
+More stories from Health & Medicine Previous slideNext slideHealth & MedicineWhy antibiotics give you thrush and other microbiome mishapsAntibiotics cause an imbalance between fungi and bacteria in our microbiome. New ways of understanding this imbalance can help protect against serious diseaseHealth & MedicineIs rising inequality fuelling our moral outrage?Moral outrage is on the rise – and it’s creating polarisation and division in democracies around the world in a vital election yearHealth & MedicineThe biomechanics of going really, really fastFrom swimming to shot put, biomechanics can identify key physiological traits that contribute to athletic success in Olympic sportsView more Health & Medicine  storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

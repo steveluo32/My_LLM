@@ -1,0 +1,105 @@
+URL: https://pursuit.unimelb.edu.au/articles/augmented-reality-getting-under-the-skin
+
+Augmented Reality: Getting under the skin  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+Sciences & TechnologyAugmented Reality: Getting under the skin00m 00s% buffered00:00PausePlay Link copied 
+From Pokémon Go to the classroom – how a collaboration between the University of Melbourne and Microsoft in AR is taking students under the skin of their patients.By Andrew Trounson, University of MelbournePublished 12 April 2017
+7 min read
+Pokémon Go pushed Augmented Reality, or AR, into the mainstream, sending 500 million people around the world chasing cartoon characters on their phones. But now, in a unique multi-disciplinary collaboration, it’s making the leap from entertainment to education.A new fusion of augmented reality, gaming technology, and anatomy is giving physiotherapy students at the University of Melbourne access to cutting-edge technology to take a look inside the human body by projecting different layers of muscles and bones over the top of a volunteer ‘patient’. It provides an inside view of how the body works as it moves in real time.The Augmented Studio uses tracking sensors and projections to “look inside” the human body. Video: Paul Burston & Sarah FisherThe technology, called the Augmented Studio, is designed to radically enhance the teaching of physiotherapy where students currently use their knowledge of anatomy to understand how muscles work beneath the skin of a patient because they can’t see through them. But the Augmented Studio, developed by researchers at the University of Melbourne, bridges the gap between that theory and practice.By using tracking sensors mounted on a scaffold it projects images of our muscles and skeleton directly onto a volunteer. The images automatically follow the shape and movement of the body, giving students in the studio space an interactive all-round view of how our bodies work. It can even allow them and their teachers to “draw” on the projected image to make information and action more explicit.“What we are doing is overlaying virtual models of what we look like underneath our skin and synchronising that with real human action,” says Dr Thuong Hoang, who is a Research Fellow at the Microsoft Research Centre for Social Natural Users Interfaces, at the University of Melbourne.The Augmented Studio was built by Dr Hoang, computer engineer Zaher Joukhadar and Phd student Martin Reinoso, who adapted Microsoft’s Kinect body sensing and tracking device as well as “RoomAlive” projection technology; both of which were originally designed for computer gaming. Once a person steps into the projection space and forms a T-shape with their arms outstretched, the trackers lock on to them and the projected image conforms to their shape and movement.The subject makes a T-shape with their arms which allows the tracking sensors to lock on. Photo: SuppliedAt the moment the projected ‘overlay’ doesn’t show how our muscles actually move when we contract and relax our muscles. Instead, it tracks the body and movement at the joints. But eventually Dr Hoang wants to add in ‘animation’ that can show the actual movement of muscles as the model moves.Sciences & TechnologyKinecting with the orang-utans University of Melbourne physiotherapy lecturer Dr David Kelly says the students quickly embraced the technology during pilot sessions in 2016, which are continuing in 2017. He says the combination of live movement and interaction, in which students could actually move and feel the model’s limbs, helps them to grasp the relationship between their learned anatomy and how it works dynamically.“For first year students it can be really hard to bring together anatomical knowledge with how the body actually works because it can be difficult to visualise. But when they see a real person who they can interact with, while also seeing the muscles and skeleton projected over the top, combined with the ability to draw and write on the body, it all becomes much easier for the students to learn about how the body moves,” says Dr Kelly, from the Melbourne School of Health Sciences.The Augmented Studio also provides a more visual and intuitive way of learning that Dr Kelly says will benefit those students who naturally learn more easily by direct visualisation, rather than through reading and listening. “There has always been a group of students that struggle because the limited ways in which we have to teach may not conform to how they learn best,” he says.Live movement and interaction allows students to better understand anatomical theory. Photo: SuppliedDevelopments in AR, which seeks to use technology to enhance what we can already see, hear and feel in the real world, are far ahead of chasing GPS tracked Pokémon. There are viewing devices such as glasses that can overlay what we see with three-dimensional graphics, video and holograms, and we can generate projections like games that people manipulate by moving our hands.The big advantage of the Augmented Studio over advances like 3D holograms is that the students can actually touch and move the body, making it a much more interactive experience. They also don’t have to wear headgear, which means it could potentially be used in bigger settings with larger numbers of students.“It has always been hard to capture the dynamic side of how our anatomy works, so the difference here is the high level of interaction you can achieve. The student can, for example, ask the model to kick and they can then look at variations from different angles at what is happening as someone kicks,” Dr Kelly says.The Augmented Studio is still in early-stage development and Dr Kelly would love to see it migrate to using muscle animations. Dr Hoang is also working to develop a system for the student interaction with the model to be automatically recorded onto their tablets so they can have a permanent record of what they were learning.Another challenge is to find a way to make the studio more transportable and quicker to set up. At the moment the studio can work very effectively in a dedicated tutorial space where it could be permanently set up, but Dr Kelly says a more portable set up would increase its flexibility for teaching.The Augmented Studio is an extension of Dr Hoang’s earlier work exploring how Virtual Reality and body tracking could be used to help guide body movement for dance and marital arts students. Arising from a collaboration between the Physiotherapy department’s Teaching and Learning director, Associate Professor Louisa Remedios and Professor Frank Vetere, Director of Microsoft Social NUI, Dr Hoang started working with the physiotherapy department on developing a teaching aid. He then realised that Virtual Reality, in which you are immersed in an entirely created world, wasn’t suited to teaching physiotherapy that is very hands on.“When we got into the class rooms we had to change our thinking. VR just wouldn’t work in the tactile environment in which they learn and practice,” Dr Hoang says. It was when he noticed that students kept referring back to anatomy charts when they were practicing on each other that he started thinking of using Augmented Reality to put the virtual muscles on the bodyIn the future, the Augmented Studio could record straight into students’ tablets. Photo: SuppliedDr Hoang is now working on extending the tracked projection technology to various health and fitness areas, and even in performance art. He says that using tracking sensors with projections it is possible to create guides that show people how to position their bodies for practising fitness, sport and dance.Using virtual reality headsets he and PhD student Martin Reinoso have already developed a prototype that allows a martial arts teacher to remotely instruct students on the right position to hold. By using body tracking and linked headsets student can match their movement to align with those of their teacher. There is also scope to project information on our own body’s performance, such as heart rate and breathing, so it is visible either on our projected selves or on a nearby surface.“The innovation we have created isn’t just limited to the fixed information that we have been projecting so far. If can be used to project dynamic information onto yourself or any surface around you,” Dr Hoang says. “All of what I’m dreaming of is very possible.”Dr Hoang and his team will be running a demonstration of the Augmented Studio system at Melbourne Knowledge Week as part of the Digital Studio at the University of Melbourne on May 2.Banner image: Supplied.
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyAugmented RealityPhysiotherapyVirtual RealityTeachingPokémon GoShare Link copied 
+
+
+
+Featured individualsDr Thuong Hoang Research Fellow (Honorary), Microsoft Research Centre for Social Natural User Interfaces, Melbourne School of Engineering, University of MelbourneDr David KellyMelbourne School of Health Sciences, Faculty of Medicine, Dentistry and Health Sciences, University of MelbourneZaher JoukhadarDepartment of Computing and Information Systems, Melbourne School of Engineering, University of MelbourneMartin ReinosoPhD Candidate, Department of Computing and Information Systems, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Sciences & TechnologyPrevious slideNext slideSciences & TechnologyClimate change is supercharging the world’s wildfiresA new annual global assessment of wildfires warns that climate change has increased the risk of extreme fire weather by about 20 times in some parts of the worldSciences & TechnologyThe vaccine improving the health of Australia's chickensA new vaccine is protecting one-day-old chicks from a pneumonia-like illness that costs the poultry industry millions of dollars each yearSciences & TechnologyWe now know what causes the Buruli ulcer, so what are we doing about it?Knowing that mosquitoes are involved in the transmission of the Buruli ulcer in Victoria is a breakthrough, but we need to work out what happens next to tackle the diseaseView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

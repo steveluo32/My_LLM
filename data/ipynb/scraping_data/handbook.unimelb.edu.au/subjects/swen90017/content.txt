@@ -1,0 +1,330 @@
+URL: https://handbook.unimelb.edu.au/subjects/swen90017/
+Masters Advanced Software Project Part 1 (SWEN90017) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Masters Advanced Software Project Part 1SubjectsHandbook
+HandbookSubjectsMasters Advanced Software Project Part 1
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Masters Advanced Software Project Part 1 (SWEN90017)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Mansooreh Zahedimansooreh.zahedi@unimelb.edu.auSemester 2 Leon Sterlingleonss@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up fees
+AIMS 
+
+
+The aim of the subject is to give students the knowledge and skills required to carry out real life software engineering projects. Students will work in large teams to develop a non-trivial software system for an external client using agile software engineering methods. Workshops are used to explore the application of advanced software engineering techniques to student projects and are drawn from topics in: analysis and modelling, product and project metrics, design and technologies, product testing and measurement and validation, maintenance and deployment. 
+
+
+INDICATIVE CONTENT 
+
+
+Developing real-world software on time and within budget is a challenging task. Students will work in a (large) team to solve a practical problem, applying sound engineering principles to the formulation and solution of their problem. Students will engage in the full software engineering life cycle from requirements engineering through to delivery, to develop a software solution for an external client. 
+
+
+This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).
+Intended learning outcomesOn completion of this subject the student is expected to be able to:Perform all the steps necessary to develop a software system for a real-world application, including requirements analysis, design, implementation, testing and deployment.Design and apply software engineering processes appropriate to a specific problem and/or set of functional and non-functional requirements.Apply appropriate computing technology to the solution of complex problems in software engineering.Participate collaboratively in a large software development team including communication, management, and quality assurance, utilising a variety of software engineering processes.Interpret the needs of external stakeholders to develop quality requirement specifications, designs, and maintainable software.Generic skillsAbility to apply knowledge of science and engineering fundamentalsAbility to undertake problem identification, formulation, and solutionAbility to utilise a systems approach to complex problems and to design and operational performance 
+Proficiency in software engineering design 
+Ability to conduct an engineering projectAbility to manage information and documentationAbility to communicate effectively, with the engineering team and with the community at largeCapacity for creativity and innovationAbility to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team memberUnderstanding of professional and ethical responsibilities, and commitment to themNext: Eligibility and requirementsLast updated: 3 July 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

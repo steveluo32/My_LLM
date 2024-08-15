@@ -1,0 +1,121 @@
+URL: https://pursuit.unimelb.edu.au/articles/clever-socks-connecting-remote-patients-and-physios
+
+Clever socks connecting remote patients and physios  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Health & Medicine 
+            
+
+
+Clever socks connecting remote patients and physios
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+New ‘smart socks’ are helping physiotherapists better diagnose and treat injuries, particularly in remote patientsBy Holly Bennett, University of MelbournePublished 9 April 2018
+5 min read
+For Australians living in rural and remote areas, access to many of the services urban dwellers take for granted, like physiotherapy, can be limited.Increasingly, Australian physiotherapists are relying on video consultations to help treat rural and remote patients.It is becoming common for physiotherapists to use video consultations to diagnose and treat remote patients. Picture: SuppliedConsulting via video saves patients’ time and money, as they no longer have to endure the sometimes hours-long journey to hospital. However, the technology has its limitations - particularly the 2-dimensional view of the patient available to the physiotherapist.But University of Melbourne PhD candidate Deepti Aggarwal, who is based in the Melbourne School of Engineering, has found a solution in perhaps the most unlikely of places – a pair of socks.Health & MedicineSensors and big data are showing how our minds work Ms Aggarwal’s socks are no ordinary pair. Her new ‘smart socks’ are essentially a piece of wearable technology that provides physiotherapists real-time information on a patient’s lower body movements.The invention was motivated by Ms Aggarwal’s observations of physiotherapists at the Royal Children’s Hospital, and her father’s experience when he injured his ankle in his small hometown in India and was unable to seek professional treatment due to the cost involved in travelling to the nearest big city.“Physiotherapy is all about movement,” says Ms Aggarwal.“To assess patients’ recovery, physiotherapists must be able to closely observe the subtle differences in their movements.”Ms Aggarwal watched physiotherapists during face-to-face and video consultations, helping patients with chronic pain recover their movements.Deepti Aggarwal’s SoPhy socks are a wearable technology that provide detailed data on a patient’s movements, and can also supplement face-to-face consultations. Picture: Supplied“What was lacking in video consultations was the ability to observe the subtle differences in patients’ lower limb movements, such as shifts in weight distribution and range of foot movements,” says Ms Aggarwal.“This meant that physiotherapists had limited understanding of the patient’s actual recovery, leading to less specific treatment. The physiotherapists were also reluctant to try out new exercises with the patients over video.”Keen to make a difference, Ms Aggarwal spent six months creating the world’s first ‘smart socks’, that allow physiotherapists to better assess and treat patients with lower limb issues during video consultations.Sciences & TechnologySensing a serious problem SoPhy consists of a pair of socks embedded with three sensors that, when worn by the patient, capture information about weight distribution, range of movement and foot orientation for the patient’s lower limb movements.The socks are then coupled with a web-interface that presents the captured information to physiotherapists using foot sketches.During a video consultation, the patient wears the SoPhy socks and performs exercises that they would do in a face-to-face session such as raising onto their tip-toes, squats and toe curls.In Ms Aggarwal’s trial at the Royal Children’s Hospital, SoPhy was found to increase the physiotherapists’ confidence in their assessments by providing movement related information that wasn’t visible in the video. Patients on the other hand, received real-time feedback on the little changes in their movements that were difficult to understand otherwise. “They got a better understanding of what they should be doing instead of what they were doing, which made the therapy goals simpler and more achievable for them,” says Ms Aggarwal.The information also helped physiotherapists to correct their assessment when the visual cues were misleading, allowing them to adapt the exercises based on the patient’s condition.“Often, without realising it, patients will apply different tricks to not bear weight on the injured leg, such as pushing through their toes or heels,” says Ms Aggarwal. “These movements are so subtle that they can be missed by the naked eye, even in a face-to-face consultation. The SoPhy visualisation clearly highlights whether the patient is bearing any weight on the injured leg and in which parts, such as in the front, side or on the heels of the foot.”Royal Children’s Hospital physiotherapist Mark Bradford, who was involved in the trial, says SoPhy became a shared language to discuss patients’ recovery over time and to plan new therapy goals, enhancing the physiotherapist-patient communication.“SoPhy makes my intervention more accurate and specific,” says Mr Bradford.“It gives me more clarity about what’s happening with the patient right now and helps me to decide the best treatment – showing patients exactly what to do, and how.”Ms Aggarwal stresses that technologies like SoPhy are not a replacement for face-to-face consultations; rather they’re the next-best solution to support remote patients in critical situations such as those with severe pain and mobility issues.“They can also enhance face-to-face consultations by providing another source of clinical information to help physios make the best assessment of the patient’s needs, and provide the most effective treatment plan.” Ms Aggarwal is planning to make video consultations smart and effective in other areas where care is limited, such as for pregnant women who can’t regularly travel for face-to-face appointments. This would involve development of other sensing technologies that are currently not available.“Through SoPhy, we hope to inspire design thinking towards making novel systems for video consultations that sufficiently meet the needs of both patients and clinicians,” she says.Ms Aggarwal was the 2017 Victorian Fresh Science winner, a national program that helps early-career researchers find and share their stories of discovery. Fresh Science Victoria is supported by the Royal Society of Victoria, the University of Melbourne, Monash University, CSIRO, Deakin University, RMIT University and La Trobe University.Banner image: Getty Images
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyPhysiotherapyWearable TechnologyRehabilitationExerciseBioengineeringShare Link copied 
+
+
+
+Featured individualDeepti AggarwalPhD candidate, Microsoft Research Centre for SocialNUI, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Health & Medicine Previous slideNext slideHealth & MedicineWhy antibiotics give you thrush and other microbiome mishapsAntibiotics cause an imbalance between fungi and bacteria in our microbiome. New ways of understanding this imbalance can help protect against serious diseaseHealth & MedicineIs rising inequality fuelling our moral outrage?Moral outrage is on the rise – and it’s creating polarisation and division in democracies around the world in a vital election yearHealth & MedicineThe biomechanics of going really, really fastFrom swimming to shot put, biomechanics can identify key physiological traits that contribute to athletic success in Olympic sportsView more Health & Medicine  storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

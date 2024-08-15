@@ -1,0 +1,317 @@
+URL: https://handbook.unimelb.edu.au/subjects/SWEN90016
+Software Processes and Management (SWEN90016) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software Processes and ManagementSubjectsHandbook
+HandbookSubjectsSoftware Processes and Management
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Software Processes and Management (SWEN90016)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Rajesh Chittor Sundaramc.s@unimelb.edu.auSemester 2 Rajesh Chittor Sundaramc.s@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+The aim of this subject is to introduce students to the software engineering principles, processes, tools and techniques for analysing and managing complex software projects.
+INDICATIVE CONTENT
+Topics covered include: software engineering processes; project management; planning and scheduling; estimation and metrics; quality assurance; risk; configuration management; individuals and teams; ethics; change management; and project management tools.Intended learning outcomesOn completion of the subject, students should be able to:Critically evaluate, analyze, and apply established software engineering processes and practices to successfully manage software engineering projects.Apply established principles of navigating team dynamics and proficiently communicating in a professional context.Strategize and execute project planning and project management initiatives. Evaluate and address potential risks inherent in software projects, adapting activities accordingly to mitigate these risks, based on established frameworks.Manage software project activities to ensure a quality product.Evaluate and employ established software project management processes, principles, and techniques to ensure the delivery of high-quality software products.Generic skillsHave in-depth knowledge of a specialist area through exposure and study of project management areas of knowledgeReach a high level of achievement in writing, research or project activities problem-solving and communication through the writing of project analysesThe ability to function effectively as an individual or in a multidisciplinary and multi-cultural team as a leader, manager or effective team-memberProfound respect for ethics and intellectual integrityWriting and communication skillsNext: Eligibility and requirementsLast updated: 3 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

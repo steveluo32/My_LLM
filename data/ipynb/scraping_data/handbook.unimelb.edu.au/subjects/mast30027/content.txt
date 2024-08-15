@@ -1,0 +1,314 @@
+URL: https://handbook.unimelb.edu.au/subjects/mast30027
+Modern Applied Statistics (MAST30027) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modern Applied StatisticsSubjectsHandbook
+HandbookSubjectsModern Applied Statistics
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Modern Applied Statistics (MAST30027)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 heejung.shim@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesModern applied statistics combines the power of modern computing and theoretical statistics. This subject considers the computational techniques required for the practical implementation of statistical theory, and includes Bayes and Monte-Carlo methods. The subject focuses on the application of these techniques to generalised linear models, which are commonly used in the analysis of categorical data.Intended learning outcomesAt the completion of the subject, students should:Explain the theory and applications of various mainstream applied statistical methods;Apply appropriate statistical methods to develop effective models or inferential procedures and provide sound interpretations for real-world data analysis;Perform statistical computation and data analysis using a computer package.Generic skillsIn addition to learning specific skills that will assist students in their future careers in science, they will have the opportunity to develop generic skills that will assist them in any future career path. These includeproblem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;analytical skills: the ability to construct andexpress logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;collaborative skills: the ability to work in a team;time management skills: the ability to meet regular deadlines while balancing competing commitments;computer skills: the ability to use statistical computing packages.Next: Eligibility and requirementsLast updated: 6 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

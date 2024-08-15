@@ -1,0 +1,11 @@
+URL: http://search.unimelb.edu.au/search.html?collection=global&query=*+site%3Acis.unimelb.edu.au&sort=adate
+
+
+Error 404 Not Found
+
+HTTP ERROR 404
+Problem accessing /search.html. Reason:
+    Not Found
+
+====================================================================================================
+

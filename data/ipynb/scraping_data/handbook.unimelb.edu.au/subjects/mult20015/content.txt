@@ -1,0 +1,314 @@
+URL: https://handbook.unimelb.edu.au/subjects/mult20015/
+Elements of Quantum Computing (MULT20015) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elements of Quantum ComputingSubjectsHandbook
+HandbookSubjectsElements of Quantum Computing
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Elements of Quantum Computing (MULT20015)Undergraduate level 2Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationOverviewAvailabilitySemester 2FeesLook up feesThis subject provides an introduction to quantum computing for students from a range of backgrounds that will position students for further studies in quantum computing and programming. The syllabus will cover basic principles of quantum bits (qubits) and quantum logic operations, through to applications in communication, security, optimisation, finance and machine learning. In computer-based tutorials, students will learn quantum computer programming using a state-of-the-art simulation environment, and access online quantum computer systems where available. This subject will be taught by a multi-disciplinary teaching team from physics, mathematics, computer science and finance.Intended learning outcomesOn completion of this subject, students will be able to:Demonstrate  basic knowledge of quantum bits, quantum logic, and quantum algorithms underpinning further study in quantum computing and quantum programming.Demonstrate an ability to program quantum computers to perform simple logic tasks.Explain how quantum computers can be applied to problems in the context of mathematics, computing and finance.Describe at a high level the status of current quantum computer technology.Generic skillsProblem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies.Analytical skills: the ability to construct and express logical arguments and to work in abstract or general.Collaborative skills: the ability to work in a team in a computer-tutorial based environment.Time-management skills: the ability to meet regular deadlines.Next: Eligibility and requirementsLast updated: 28 May 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

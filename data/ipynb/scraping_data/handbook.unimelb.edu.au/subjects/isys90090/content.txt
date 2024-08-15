@@ -1,0 +1,323 @@
+URL: https://handbook.unimelb.edu.au/subjects/isys90090/
+Cyber Security Management (ISYS90090) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyber Security ManagementSubjectsHandbook
+HandbookSubjectsCyber Security Management
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Cyber Security Management (ISYS90090)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 atif@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+This subject introduces a range of information security management services implemented in industry. The subject will cover the fundamental principles and practice of security risk assessment, incident response and disaster recovery, knowledge leakage, systems and network security, and policy and culture. Students will develop an appreciation for the kinds of security practices that exist in industry in each of these areas.
+This subject supports course-level objectives by allowing students to have in-depth knowledge of the specialist area of information security management. The subject’s assessment tasks include the writing of a comprehensive consulting proposal and research into critical security issues faced by organisations. These tasks will encourage students to work in a team to develop a high-level of achievement in writing, research activities, and presentation skills.
+INDICATIVE CONTENT
+Security principles and techniques discussed are: Models for understanding knowledge leakage, Security Risk Assessment Methods, Firewall and virtual private network (VPN) security scenarios, and Incident Response Methodology. Real world cases will be drawn from a range of organization types including critical infrastructure installations in Australia.Intended learning outcomesOn completion of this subject, students should be able to:Apply skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of information systems security concepts and theories to real-world practiceApply skills related to business communication suited to the application of information systems security concepts and theories to real-world practiceDemonstrate a sound knowledge and understanding of the practice of business information systems security in organisationsIndependently research and argue disparate beliefs/theories of information systems securityApply the professional codes of conduct and ethical standards as they pertain to information systems security in practiceGeneric skillsOn completion of this subject, students should have developed the following generic skills:
+Have in-depth knowledge of a specialist area through exposure and study of information security areas of knowledge
+Reach a high level of achievement in writing, research or project activities problem-solving and communication through the writing of a comprehensive consulting proposal
+Report-writing skills
+Presentation skills
+Next: Eligibility and requirementsLast updated: 2 July 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

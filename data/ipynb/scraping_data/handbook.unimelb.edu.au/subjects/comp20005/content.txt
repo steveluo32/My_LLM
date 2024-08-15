@@ -1,0 +1,334 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp20005
+Intro. to Numerical Computation in C (COMP20005) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intro. to Numerical Computation in CSubjectsHandbook
+HandbookSubjectsIntro. to Numerical Computation in C
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Intro. to Numerical Computation in C (COMP20005)Undergraduate level 2Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Professor Alistair Moffat
+email: ammoffat@unimelb.edu.auSemester 2 Dr Jianzhong Qi
+email: jianzhong.qi@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+Many engineering disciplines make use of numerical solutions to computational problems. In this subject students will be introduced to the key elements of programming in a high level language, and will then use that skill to explore methods for solving numerical problems in a range of discipline areas.
+INDICATIVE CONTENT
+
+Algorithmic problem solving
+Fundamental data types: numbers and characters
+Approximation and errors in numerical computation
+Fundamental program structures: sequencing, selection, repetition, functions
+Simple data storage structures, variables, arrays, and structures
+Roots of equations and of linear algebraic equations
+Curve fitting and splines
+Interpolation and extrapolation
+Numerical differentiation and integration
+Intended learning outcomesOn completion of this subject the student is expected to:Read and write typical small-scale numerical programs in a high-level programming languageTest and debug such programsArgue for the correctness of such programs, from both a logical point of view and a numeric-soundness point of viewDescribe the range of techniques available for creating computational solutions to scientific and engineering problems, and be able to evaluate and choose between alternative approachesDescribe and employ the general concepts that apply when computers are used to solve numerical problemsDemonstrate familiarity with the underlying theory behind a range of numerical algorithms used in scientific and engineering software packagesGeneric skillsOn completion of this subject students should have developed the following skills:
+The ability to undertake problem identification, formulation and solution
+Capacity for independent critical thought, rational inquiry and self-directed learning
+Profound respect for truth and intellectual integrity, and for the ethics of scholarship
+An ability to apply knowledge of basic science and engineering fundamentals
+Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

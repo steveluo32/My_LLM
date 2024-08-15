@@ -1,0 +1,242 @@
+URL: http://safety.unimelb.edu.au/emergency
+
+
+
+
+
+Emergency management 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+ 
+
+Health & SafetyStudentsStaffAlumniLibraryLMSHandbookContact and maps About uschevron-down About uschevron-rightHealth and Safety ServicesContact us Skip to main contentBusiness Partners chevron-rightWant to get involved? chevron-rightBecome a warden, first aider or a Health and Safety Respresentative (HSR) Incident / hazard reporting & checklistschevron-down Incident / hazard reporting & checklistschevron-rightERMS Access and guideChecklists and inspections with UoM Riskware PlatformHow to report an incident or hazardSkip to main contentEnterprise Risk Management System (ERMS) chevron-rightIncident and hazard reporting.Health and Safety Checklists chevron-rightWorkplace Inspection and Computer Workstation Assessment Checklists Emergency and Business Resilience (E&BR)chevron-down Emergency and Business Resilience (E&BR)chevron-rightEmergency wardensEmergency apps Skip to main contentEmergency Management (EM) chevron-rightEmergency preparedness, response and management information, including resources, templates and key contact details.Critical Incident Management (CIM) chevron-rightHow the University prepares for, responds to and recovers from critical incidents through its Critical Incident Management Team (CIMT), the University of Melbourne Incident Management System (UMIMS), and Critical Incident Management Framework.Business Continuity Management (BCM) chevron-rightHow the University prepares for and responds to the effects of disruptive events, incidents and emergencies through business continuity impact assessment, planning and management. Workplace accessibility and injury support (WAIS) chevron-down Workplace accessibility and injury support (WAIS) chevron-rightInjury prevention Return to workSkip to main contentWorker’s compensation chevron-rightThe University of Melbourne aims to assist employees to remain at work or make a safe and suitable return to work at the earliest opportunity following an injury or illness.Accessibility and Reasonable Adjustments chevron-rightThe University of Melbourne is committed to establishing a universal design framework that paves the way for an equitable, accessible and inclusive work environment.Early support services chevron-rightThe University of Melbourne has developed a new initiative called Early Support Services, to support employees with work-related injuries sustained out of or in the course of their employment. Policieschevron-down Policieschevron-rightAlcohol Policy Appropriate Workplace Behaviour PolicySexual Misconduct Prevention and Response Policy Smoke-Free and Tobacco-Free Campuses PolicySkip to main contentOHS Management System Documented Information chevron-rightA summary of all health and safety requirements and processes as they relate to the National Audit Tool (NAT) version 3, including links to relevant Safety Topic pages, are outlined in the following page links.Health and Safety Policy chevron-rightFramework for maintaining a safe and healthy work environment, outlining responsibilities, procedures, and standards to prevent accidents, injuries, and illnesses among employees.searchSearchhomeHealth & Safetychevron-rightEmergency and Business Resilience chevron-rightEmergency management
+
+
+
+
+
+
+Health & Safety
+
+
+
+Emergency and Business Resilience 
+
+
+
+Emergency management
+
+
+
+
+
+
+
+Emergency management 
+In a life threatening emergency dial 000,then call University Security on 03 834 46666 or via SafeZone app.PreparednessThe University places a high importance in emergency prevention and preparedness processes to maximise the safety of its people and the optimal functioning of the University. Separating these two functions allows us to focus more clearly on activities and support them effectively.RequirementsHealth & Safety: Emergency preparedness and response requirements
+
+
+
+
+
+Building Emergency Management Plan (EMP)
+
+Emergency Management Plan (EMP) should be reviewed due to the changes in occupancy in the building. EMPs need to take into account changes in availability of Emergency Control Organisations (e.g. Chief Warden, first aiders, etc.) where the building remains in use but occupancy has changed.The documentation of emergency arrangements for a campus, precinct or building which includes preparedness, prevention and response activities. It includes agreed emergency roles, responsibilities, plans and localised emergency response procedures additional to the University’s emergency response procedures.The Building Emergency Management Plan template can be used and easily adapted for all buildings, precincts and campuses. The Emergency Management Plan Parkville campus is available for reference. For buildings with laboratories, hazardous materials, machinery, and other high-risk activities, it is recommended to establish their individual EMP. For most buildings at Parkville with teaching and office activities, the EMP for Parkville campus can be implemented directly.The Chief Warden (or other designated agreed person) is responsible for developing and maintaining the emergency management plan. The Chief Warden (or other designated agreed person) will work in conjunction with an Emergency Control Organisation where applicable.All EMPs should be forwarded for review to the Emergency & Business Resilience Team. A copy of the EMP should be stored in the Emergency Management Community SharePoint under the specific building folder.
+
+
+
+Emergency personnel and training requirements
+
+Being an Emergency Warden is a specialist role with specific requirements and procedures that all wardens should be aware of. Detailed information on training, equipment, responsibilities and what to do in an emergency can be found on the Emergency Warden page.Personnel Training requiredResources
+         Visitor 
+      
+         None 
+      
+         Visitor Information Guide (Physical card)**
+         Staff, contractors, relevant students 
+      
+         Health and Safety - Roles and Responsibilities 
+      
+         Enrol in TrainME*
+      
+         Local induction 
+      
+         Direct Supervisor 
+      
+         Participate in yearly evacuation drill 
+      
+         Chief Warden 
+      
+         Customer facing (e.g. reception, library staff, Health Services) 
+      
+         Suspicious packages 
+      
+         Enrol in TrainME*
+      
+         Handling unhappy and angry customers 
+      
+         Enrol in TrainME*
+      
+         Chief Warden, Deputy Chief Warden, Warden 
+      
+         Conduct yearly evacuation drill 
+      
+         Local area responsibility 
+      
+         Fire extinguisher training (elective) 
+      
+         Enrol in TrainME*
+      
+         Suspicious packages (elective) 
+      
+         Enrol in TrainME*
+      
+         First Aiders 
+      
+         Provide First Aid (Level 2) - HLTAID003 
+      
+         Enrol in TrainME*
+      
+         Provide Cardiopulmonary Resuscitation (CPR) – HLTAID001 (elective) 
+      
+         Enrol in TrainME*
+      *You can search for Health and Safety training in the TrainME Course Catalog under the Health and Safety category.** Visitor Information Guide is a physical card that contains key emergency contacts and emergency responses that are specific to the campus. They are designed for visitors who may not be familiar with the campus. Request the card with the Emergency & Business Resilience Team.
+
+
+
+Evacuation diagrams
+
+Each University of Melbourne building is equipped with a suite of evacuation diagrams in addition to a range of other emergency information and equipment based on building size, use, occupancy and location.Building evacuation diagrams are located at emergency exists and other key locations throughout building levels and spaces. They provide information specific to each building in which they are installed including:location of emergency response equipment (fire extinguishers, fire blankets, first aid kits etc.)location of emergency communications and alerting equipment (Fire Indicator Panel – FIP, Warden Intercommunication Phones – WIP, loudhailers/megaphones etc.)location of evacuation pathways, emergency exits, and emergency assembly areasguidance on fire order, evacuation, and shelter-in-place emergency response arrangementsinformation on the Occupant Warning System (OWS) in place for the building: Emergency Warning Intercommunication System (EWIS – ‘BEEP BEEP/WOOP WOOP’), siren, bells, loudhailers/megaphone, Public Address (PA) system etc.Upon entry to any building at a University of Melbourne campus or site, occupants including staff, students and visitors are strongly encouraged to review the evacuation diagrams provided. Those who regularly frequent one or more building as their primary place of work or study should make a habit of regularly reviewing relevant evacuation diagrams to ensure they have a strong understanding of the emergency response arrangements in place for the buildings in which they are spending the most time.All staff with IT Access can request access to view evacuation diagrams on the Emergency Management Community SharePoint Site. Evacuation diagrams are no longer stored in Meridian. We work hard to ensure this repository is a current and accurate representation of all evacuation diagrams in place across all campuses and sites – so if you identify any evacuation diagrams that are missing from the site or that may need to be updated, please get in touch as soon as practicable.If you have a general evacuation diagram enquiry or would like to initiate an evacuation diagram service request to create, update or amend evacuation diagrams, please raise a ticket with Fire Services Team within Campus Management.If you have a question about emergency preparedness for a building or site, please contact the Emergency & Business Resilience Team.
+
+
+
+Emergency drills
+
+All buildings should complete at least one emergency drill including evacuation every year (except Childcare centres which require drills quarterly). The drill scenario can be further developed to include shelter in place, suspicious package, dangerous person, gas leak, medical emergency, etc. depending on the building's risk profile. Contact Emergency and Business Resilience Team for advice and assistance.Emergency drills ensure that your building and its occupants are prepared and ready to respond to emergencies. Detailed requirements for emergency drills are outlined in the Health & Safety - Emergency preparedness and response requirements.To book a building emergency drill, Chief Wardens are asked to review the Emergency Drill SharePoint calendar for an available time and then book a building drill via Staff Services specifying building name and number in the subject line. A calendar invite will be sent from Emergency & Business Resilience to confirm the drill booking.For all buildings with Fire Indicator Panel, once the drill is confirmed, technicians will arrive at the building's fire panel at the designated time to trigger the evacuation alarm.Following an emergency drill, the Chief Warden (or an appropriate delegate) and/or the fire technician (if present) completes the Building Emergency Drill Report (via Qualtrics) which will be sent to Emergency & Business Resilience Team directly for review and retention.
+
+
+
+Emergency Event Reporting (including drills)
+
+After an emergency event or an emergency drill, a report must be completed to ensure proper documentation is in place to capture key information, actions and learnings during the emergency/incident.The Chief Warden (or an appropriate delegate) can use the Building emergency event checklist to note down the key details which will be reported through the reporting channel below.Following an emergency including emergency drill, the Chief Warden (or an appropriate delegate) completes Building Emergency Event Report via UoM Riskware Platform - Health and Safety Checklists.For individuals who do not have a UoM profile and want to report an emergency, complete the Building Emergency Drill Report (via Qualtrics) which will be sent to Emergency & Business Resilience Team directly for review and retention.
+
+
+
+ResponseThe University publishes emergency preparedness and response information including:processesinformation, including training and responsibilitiesguidance, andforms and templates
+
+
+
+
+
+Emergency response procedures flipchart
+
+The University’s Emergency response procedures flipchart contains guidance on evacuation and shelter in place procedures, and hazard-specific instructions for response to a range of scenarios including active threats, electrical outages, suspicious packages.Hard copies of the flipchart are installed across all University owned and occupied buildings at Fire Indicator Panels (FIPs), main entrances to buildings, lifts and at key locations such as libraries, receptions, lecture halls and other teaching spaces.It is expected that where possible University staff, students, contractors and visitors will follow these University wide emergency response procedures. Where local area procedures are more detailed or contain site specific instructions, this information can be captured in Building emergency plans and local areas are responsible for making those procedures known to building occupants.For more information on the flipchart or their physical installation across the University, please contact the Emergency & Business Resilience Team.
+
+
+
+Advice for specific emergencies and hazards
+
+Earthquakes - Victoria State Emergency Service (SES) websiteBushfires & Grassfires - Country Fire Authority (CFA) websiteFlooding - Victoria State Emergency Service (SES) websiteStorms - Victoria State Emergency Service (SES) websiteExtreme heat and heatwaves - Victorian Department of Health websiteEpidemic thunderstorm asthma - Victorian Department of Health website
+
+
+
+Special evacuations
+
+Special instructions for lecture theatres, laboratories and classrooms.The person in charge of the class shall maintain control of the class, and take direction from Wardens or Security staff if attending.Upon hearing the alarm signal or becoming aware of an emergency, the person in charge of the class should direct students to:Stand and push chairs, large bags, etc under desks or benches.Turn off electrical devices and laboratory operations that are not safe to be left unattended.In controlled sequence, move along gangways to main aisles and exit in an orderly manner through the nearest appropriate exit.On leaving the building, stay together as a group until contacted by the emergency services or University Security.When directed to do so, recover any effects left in the building.
+
+
+
+Emergency apps
+
+Using apps on your phone to plan and respond to emergency situations is a good way to enhance your emergency preparedness. It can be challenging to know which app to download that best suits your situation.We have shortlisted several apps on our Emergency apps page that we believe everyone should have on their phone.
+
+
+
+Security contacts
+
+University Security provides a 24-hour emergency response. If you have called emergency services, please call Security immediately afterwards so that access to the campus can be provided.Security can be contacted at each campus on:Parkville: (03) 834 46666 or 1800 246 066 (free call)Burnley: (03) 834 46666Creswick: (03) 5321 4333 / After hours: 0425 700 042Dookie (: (03) 5833 9200Southbank: (03) 834 46666Werribee: (03) 834 46666 Emergency Services activation is vital for events that are beyond the local capacity to respond effectively. If in doubt ring the appropriate emergency service and also inform University Security on (03) 834 46666 or by requesting urgent help through the ‘Emergency’ button on the SafeZone app.If due to the nature of the incident you wish to speak directly with the rostered Duty Officer, this request can also be made via University Security.Critical Incident Management
+
+
+
+Emergency contacts and support
+
+Internal Emergency ServicesHealth & Safety Business Partner for general health and safety advice.Building emergency information spreadsheet for Chief Warden, drills, evacuation diagram, etc..Security for crime prevention, access and security issues.Transport and Parking for parking and traffic guidelines.Facilities for building and grounds maintenance, fire protection equipment, and exit signage.The Health & Safety Services team offer a variety of emergency management training sessions for staff.First Aid for information, training, first aid kits and automated external defibrillator locations.Emergency & Business Resilience Team for assistance or questions regarding training, drills, warden equipment, publications and general emergency management matters.External Emergency ServicesNational emergency number for fire, police or ambulance: 000State Emergency Service (SES) for storm or flooding emergencies: 132 500Poisons Information Centre: 131 126
+
+
+
+
+
+
+
+FormsBomb/substance and phone threat checklistBuilding emergency event checklistEmergency contacts poster templateBuilding Emergency Management Plan templatePersonal Emergency Plan (PEP) templateGuidanceAutomated external defibrillators campus locationsAutomated external defibrillator (AED) - standard operating procedureBuilding emergency fittings visual guideBuilding emergency information spreadsheet (include Chief Warden list)Emergency response procedures (flip chart)Fire extinguisher types and their usesManaging spillsVisitor Information guide - email the Health and Safety Services for physical copiesRequirements and ProcessesHealth & Safety: Spill management requirementsHealth & Safety: Emergency preparedness and response requirements
+
+
+
+
+
+
+      Site footer   We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated   Read about our commitment to reconciliation        About us     Careers at Melbourne     Safety and respect     Newsroom     Contact        Phone: 13 MELB (13 6352)  International: +61 3 9035 5511   Address:  The University of Melbourne  Grattan Street, Parkville  Victoria, 3010, Australia   View all Campus locations                  Facebook 
+
+ Share on Facebook      LinkedIn 
+
+ Share on LinkedIn      Instagram 
+
+ Share on Instagram      Twitter 
+
+ Share on Twitter                 Emergency     Terms & privacy     Accessibility     Privacy       The University of Melbourne  (Australian University): PRV12150    CRICOS number: 00116K   ABN: 84 002 705 224      
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

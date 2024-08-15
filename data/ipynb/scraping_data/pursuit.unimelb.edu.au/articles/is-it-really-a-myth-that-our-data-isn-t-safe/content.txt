@@ -1,0 +1,119 @@
+URL: https://pursuit.unimelb.edu.au/articles/is-it-really-a-myth-that-our-data-isn-t-safe
+
+Is it really a myth that our data isn’t safe?  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Politics & Society
+            
+
+
+Is it really a myth that our data isn’t safe?
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+New legislation aims to expose the communications of serious criminals, but it might undermine our security tooBy  Associate Professor Vanessa Teague, University of Melbourne Published 11 February 2019
+8 min read
+Late last year, the Australian parliament hurriedly passed the TOLA Act (commonly known as the AA Bill).The Act aims to give law enforcement access to information, especially end-to-end encrypted services, for which the company providing the service normally wouldn’t have the cryptographic keys necessary to read the information.In 2018, Apple turned off the group chat feature on its end-to-end encrypted FaceTime service. Picture: Getty ImagesMaybe the timing is coincidental, but two interesting things also happened this summer.The first was that the UK’s intelligence agency published a specific mechanism for reading end-to-end encrypted communications. Their proposal is to add themselves silently to group chats.Then Apple turned off the group chat feature on its end-to-end encrypted FaceTime service, to close a security hole that allowed a caller to eavesdrop on another’s phone.Politics & SocietyThe key to unlocking your privacy The similarity between the issues shows us an unavoidable truth: that security features that enable criminals to hide their illegal activities are also trusted by millions of ordinary people to protect their private information.In 2016, when the FBI demanded that Apple forcibly open the iPhone owned by San Bernardino gunman Syed Farook, Apple argued, convincingly I thought, that the security of other iPhone users would be undermined if they complied.And it takes us to the heart of the debate over the balance between security and privacy.Australian authorities haven’t provided a single example of a technical proposal that would work, let alone a convincing argument that there will be safeguards against exploitation by bad actors. And the TOLA Act provides no way for a targeted company to argue that undermining the security of one user won’t jeopardise others.Australian data has already been breached on the My Health Record system. Picture: Getty ImagesMike Burgess, Director-General Australian Signals Directorate (ASD) recently published a statement attempting to dismiss and dispel some of areas he described as “myths” and “inaccurate commentary” about the TOLA Act.I love myth-busting. In the past, my research group has demonstrated serious security problems in a supposedly-secure Internet voting system and the easy re-identification of doctors and patients in a supposedly de-identified health data set.But I’m disappointed Mr Burgess didn’t detail any of his reasons for dismissing the concerns expressed by so many Australian scientists and businesspeople. His statement seems to confuse the way he would like the TOLA Act to be used, with the powers that it actually gives.Sciences & TechnologyThe simple process of re-identifying patients in public health records So, let’s consider the evidence. Mr Burgess says the following are myths:# Your information is no longer safe# The security of the internet is under threat# There is no way to be sure that the communications of Australians won’t be jeopardisedThese three “myths” derive from the long history of law enforcement efforts that have, in fact, undermined the security of ordinary users of the Internet.If we look at recent history, the FREAK attack was caused by cryptography export controls; the Dual-EC-DRBG backdoor seems to have been rekeyed, and the Wannacry ransomware was reportedly a modified version of leaked NSA spyware.The Wannacry ransomware was reportedly a modified version of leaked NSA spyware. Picture: Getty ImagesClearly not all our information is safe. Australians have had our identifiable Medicare Benefits Schedule and Pharmaceutical Benefits Schedule records posted online and our Medicare numbers for sale on the dark web. Our data has been breached on Facebook, Google, the My Health Record System, as well as numerous other examples.The key question is whether the TOLA Act makes our information even less safe, given that software systems already fail frequently.Mr Burgess claims that “If you are using a messaging app for a lawful purpose the legislation does not affect you.” This isn’t true.Sciences & TechnologyQ&A: The ransomware cyber-attack fallout If you programmed or administer that app, or are suspected of “activities that are prejudicial to security”, the legislation specifically provides for you to be ordered to “assist” and jailed if you refuse – that’s under 34AAA of the ASIO Act or 64A of the Surveillance Devices Act.And ordinary people might be accidentally affected by a weakness introduced to target someone else.Mr Burgess also says “agencies cannot use the legislation to ask or require companies to create systemic weaknesses which would jeopardise the communications of other users.”The legislation defines a systemic weakness as “a weakness that affects a whole class of technology.” This restrictive definition leaves open the possibility of widespread damage to security, as long as something less than “a whole class of technology” is undermined.The key question is whether the TOLA Act makes our information even less safe. Picture: Getty ImagesSection 317ZG of the TOLA Act sets out the bar on requiring the introduction of a systemic weakness. It briefly mentions jeopardising the communications of others, but it’s not clear whether this changes the definition. I fully support amending the definition to provide the protection Mr Burgess wants, rather than the ambiguous protection currently given.“The authority the police would get under the Act is the equivalent of being able to ask the hotel for access to the room,” says Mr Burgess.But this analogy is inaccurate. A demand like this makes use of a capability the hotel already has.Sciences & TechnologyFacebook, the Government and revenge porn It’s more like a Technical Assistance Notice, which requires a company to give assistance if they can. For example, if they have the ability to decrypt a specific communication, they must or face fines. And I agree that (with a warrant) this sort of demand is reasonable.But with a Technical Capability Notice (TCN), which says a company must build a new function so it can assist police, as long as it doesn’t force encryption to be broken, that company could be forced to re-engineer their system to access data they would not otherwise have.This applies to end-to-end encrypted communications or hardware-encrypted devices, for which the company does not hold the decryption key.The company’s inability to access the data is a valuable security feature that their ordinary users rely on (and often pay for). A TCN is like demanding that a deadlock company invent a way of unlocking deadlocks, without the key, from the outside. And this capability itself may jeopardise the security of other people.Ordinary people might be accidentally affected by a weakness introduced to target someone else. Picture: Getty ImagesMr Burgess goes onto say “...the notices that legally require industry’s assistance can also be subject to review from technical assessors and former judicial officials, who are specifically appointed to provide an additional level of reassurance that the capability does not introduce a ‘systemic weakness’.”But there is no responsible definition of “systemic weakness”, no opportunity for a targeted company to bring in their own experts and no obligation for the Attorney General to accept the advice of the assessors who are hand-picked to “provide reassurance”.Mr Burgess says it’s a myth that agencies get unfettered power, flagging that “there are significant checks and balances in the legislation.“Sciences & TechnologyHow small details can create a big problem But there is no judicial oversight for Technical Assistance Notices, Technical Capability Notices or compelled assistance by a person with knowledge of a computer system.Mr Burgess rejects some myths on the grounds that the UK already has similar legislation.According to British Prime Minister Theresa May, the UK’s Investigatory Powers Act (known as the Snoopers Charter), aims to “deprive the extremists of their safe spaces online”.But the only myth this busts is the belief that this law will stop terrorism. The Snoopers Charter passed in 2016. In 2017, the UK had 42 deaths from terrorism. Australia had four.The Charter has already faced criticism in the UK. A recent report by the Investigatory Powers Commissioner detailed 24 “serious errors” throughout 2017, including arrests of innocent people. In one case a family was visited three times, their computers seized, and a “safeguarding protocol” was enacted on their children, all because of a mix-up in IP addresses.In 2016, the FBI demanded that Apple forcibly open an iPhone and the company refused. Picture: Getty ImagesMr Burgess points out that ASD’s powers under the Act are limited to requesting assistance from industry. But this misses the point: the Australian Security Intelligence Organisation and other agencies can compel assistance from industry.And it’s the foreign intelligence agencies that threaten our national security. The Australian Government has credibly accused the Chinese Government of electronic spying. A new intrusion into federal parliament was reported only last week. Any further weaknesses introduced under the TOLA Act could make us even more vulnerable.Sciences & TechnologyWhat kind of rear window into encryption do the Five Eyes want? He also denies that the reputation of Australian tech companies will suffer, but clearly it already has. This recent report highlighted the fact that if a company like Apple was to include a back door for phones sold here in Australia, authorities in other countries could force the company to use that same tool there.Mr Burgess concludes that “many of the claims about the “dangerous” nature of the Act are hyperbolic, inaccurate and influenced by self-interest, rather than the national interest.”That’s like claiming that giving Australian authorities vast new invasive powers will save us from terrorists while magically not undermining the security of ordinary Australians.What remains to be seen is whether our government addresses any of these concerns when the legislation is debated in Parliament this week.Banner: Getty Images
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyDataEncryption CybersecurityLawPrivacyShare Link copied 
+
+
+
+Featured individualAssociate Professor Vanessa TeagueAdjunct Associate Professor, College of Engineering and Computer Science,
+Australian National University College of Engineering, Computing and Cybernetics
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+Content Card SliderPrevious slideNext slideView more Politics & Society storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

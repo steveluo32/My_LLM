@@ -1,0 +1,181 @@
+URL: http://www.asap.unimelb.edu.au/pubs/articles/asa97/CSIRAC.htm
+
+ASAP Articles - ASA97 - ASAP Presentations - CSIRAC
+
+
+
+
+
+
+
+
+
+
+CSIRAC Computer Archives
+
+
+
+
+
+
+The first project we will look at (most appropriately as our focus is on technology in this presentation) is the CSIRAC Computer Archives.  CSIRAC was the first stored memory electronic computer in Australia, only the fourth in the world, and possibly the only complete surviving 1st generation computer.  A research group at the CSIR (now CSIRO)in the Radiophysics Laboratory, designed and built the CSIRAC Computer.  The first program was run in 1949 and the machine came into full operation in the same year.  It contained many features novel at the time, and was able to operate more than 1000 times faster than the best mechanical calculators.  In 1955 CSIRAC was transferred to Melbourne University where it continued in operation from 1956 until 1964.
+
+After it was decommissioned in 1964, CSIRAC was donated to the State Science Museum of Victoria.  It was stored by the Museum at its Abbotsford warehouse until loaned to the Caulfield Institute of Technology, now Monash University, Caulfield Campus.  CSIRAC is currently housed at ScienceWorks.  Ultimately, it will be housed at Victoria's new Museum of Science.
+
+
+
+
+
+Scientists grouped around console of CSIRAC machine
+View of internal circuitry
+
+
+
+
+
+
+
+
+The CSIRAC records, held by the Computer Science Department at the University of Melbourne, although not a large collection, contain a variety of material relating to the design, programming and operation of the CSIRAC computer, the transfer of the computer to the University of Melbourne and the establishment of the University's Computer project at the University of Melbourne Computational Laboratory.  The records also contain material relating to computational developments in Australia during the 1950's.  
+
+ASAP's involvement came from a request to view the records at the Computer Sciences Department.  From this initial meeting, an archival project was established.  An oral history project also sprang from our involvement  - Doug McCann from Voices of Australian Science and Technology - or VAST as it is know,  has been compiling oral histories based on interviews with surviving members of the CSIRO and The University of Melbourne CSIRAC groups.  
+
+The timing of the ASAP project had significance because 1996 was the 40th anniversary of CSIRAC's establishment at the University of Melbourne.  The custodians of the records wanted to ensure the records were preserved and some sort of publication produced in time for the planned celebrations.
+
+
+
+
+
+
+ 
+CSIRAC 40th Anniversary flyer
+
+
+
+
+
+
+
+
+In conjunction with the Dean of the School of Computer Science, Doug McCann organised a computer exhibition to commemorate the 40th anniversary, a conference, and a tour of the computer exhibition.  CSIRAC was reassembled and was put on display alongside other early computing devices.  The anniversary celebrations brought together many of the original scientists that worked on CSIRAC, and generated a lot of interest in the history of CSIRAC and the history of computing in Australia.
+
+ASAP Archivist Christopher Jack documented the records in detail using the ADS and from this, an electronic Guide to the records was produced in time for the celebrations.
+
+
+
+
+
+
+ 
+Promotional material for CSIRAC Guide
+
+
+
+
+
+
+
+
+Like most of our projects, there is never really an end to our involvement in them and CSIRAC is no different.  Another group of records relating to CSIRAC has now been located and brought to Computer Sciences.  These 
+records include some of the original paper tape programs, electronic circuits and diagrams which were left behind at Caulfield and thought to be lost.
+
+
+
+
+
+
+CSIRAC paper tape programs
+
+
+
+
+Program Library
+
+
+
+
+
+
+
+
+Example of paper tape
+program as used in
+CSIRAC Computer
+
+
+
+
+These records, once documented, will allow researchers and computer scientists alike to actually see what the programs did, and how the circuits worked.  Thanks to the Computer Sciences department, the paper tape programs have been migrated to floppy disks, and a CSIRAC simulator created, so the programs can now be run on modern computers.  
+
+The incredible level of documentation currently going ahead, could not be done without one of the scientists that originally worked on CSIRAC - Jurij Semkiw.  He and various other interested individuals are currently volunteering their services to document these records at the Computer Science Department, and some material identified in other locations - under the guidance of ASAP.  Jurij has developed a table in Microsoft Access for the electronic circuits.  It contains the appropriate fields, accompanying forms and underlying code that will best allow them to document these records.   
+
+
+
+
+
+ 
+Jurij Semkiw
+
+
+
+
+
+
+
+Jurij working on 
+CSIRAC in the 1950's
+Jurij in 1997 working on
+CSIRAC archives at the 
+University of Melbourne
+
+
+
+
+
+
+
+This specifically relates to the versatility of the ADS because once complete, this table will be incorporated into the ADS as a Sub-Inventory level listing.   It should be mentioned here that we could never have done this level of description without Jurij  - his knowledge has been invaluable.  And we are very lucky that we have been able to capture this knowledge now before it is lost. 
+
+Once this documentation of the records is complete, the Guide on ASAPWeb will be updated to include the new material.  The point here is that we can make additions and amendments so easily with databases and web sites.  Even our printed guides are only printed on demand, so we can amend or update them at any time which among other things, means that less trees will suffer from our actions.
+
+We currently use Microsoft Access reports and macros to generate the HTML (Hyper-Text Markup Language) tags which produce the web pages.  Eventually we envisage that the ADS itself will contain the programming to generate HTML on call.  At present this process still involves using Microsoft Word to tidy up the report output, and also involves editing, adding extra links and scanning in of images to create the web site, although creating electronic Guides is getting easier and easier.
+
+The images which are used in the Guide have been taken from the CSIRAC records.  Once scanned onto the computer hard disk, they can be saved within the ADS, or linked to the ADS.  Another possibility we are considering is to link the migrated programs and simulator to the ADS, or to the Guide on ASAPWeb so that you can search for a particular program, and then click on a button and see how a program was run on CSIRAC.
+
+A similar thing can be done with the oral histories recorded by VAST.  The magnetic tapes will be listed in the ADS as CSIRAC records,  and can then be recorded digitally.  Once they are in digital format, they can be put onto a server or CD ROM and linked to the Inventory in the ADS.  Sound bytes can also be taken and put on the web to accompany the electronic Guide.
+
+The electronic archival finding aid or Guide can really become a multi-media publication.  Audio and Video players for internet browsers such as Netscape are either included in the software or are incredibly easy to get access to these days.  
+
+What ASAP is doing with electronic Guides is not in conflict with the development of standards for electronic finding aids.  At the moment, something like SGML (Standard General Markup Language) - an ISO standard, is not really popular because few people have SGML capable browsers.  With future developments, these standards may become quite common.  Because data for the electronic Guide is in the ADS, we can very easily generate Guides that comply with standards like SGML in much the same way we already generate the HTML Guides at present.  The data is already captured in the ADS and this only has to be done once.  But the output is not limited to one particular format.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search | 
+Site Index | 
+ASAPWeb
+
+Top of page | 
+ASAP Articles Home
+
+Published by the Australian Science Archives Project on ASAPWeb, 
+August 1997.
+
+Prepared by: Lisa Cianci and Helen Morgan
+
+Updated by: Elissa Tenkate
+
+Date modified: 25 February 1998
+
+
+====================================================================================================
+

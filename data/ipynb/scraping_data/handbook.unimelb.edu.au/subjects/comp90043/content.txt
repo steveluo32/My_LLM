@@ -1,0 +1,345 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90043/
+Cryptography and Security (COMP90043) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptography and SecuritySubjectsHandbook
+HandbookSubjectsCryptography and Security
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Cryptography and Security (COMP90043)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 A/Prof Udaya Parampalli
+email: udaya@unimelb.edu.au
+ OverviewAvailabilitySemester 2FeesLook up feesAIMS
+The subject will explore foundational knowledge in the area of cryptography and information security. The overall aim is to gain an understanding of fundamental cryptographic concepts like encryption and signatures and use it to build and analyse security in computers, communications and networks. This subject covers fundamental concepts in information security on the basis of methods of modern cryptography, including encryption, signatures and hash functions.
+This subject is an elective subject in the Master of Engineering (Software). It can also be taken as an advanced elective in Master of Information Technology.
+INDICATIVE CONTENT
+The subject will be made up of three parts:
+
+Cryptography: the essentials of public and private key cryptography, stream ciphers, digital signatures and cryptographic hash functions
+Access Control: the essential elements of authentication and authorization; and
+Secure Protocols; which are obtained through cryptographic techniques.
+
+A particular emphasis will be placed on real-life protocols such as Secure Socket Layer (SSL) and Kerberos. 
+Topics drawn from:
+
+Symmetric key crypto systems
+Public key cryptosystems
+Hash functions
+Authentication
+Secret sharing
+Protocols
+Key Management.
+Intended learning outcomesINTENDED LEARNING OUTCOMES (ILO)
+ 
+On completion of this subject the student is expected to:
+
+ Identify security issues and objectives in computer systems and networksApply various security mechanisms derived from cryptography to computers and computer networksExplain the workings of fundamental public key and symmetric key cryptographic algorithms including RSA, ElGamal, Diffie-Hellman schemes and stream ciphersExplain the protocols which ensure security in contemporary networked computer systemsDescribe the interaction between the underlying theory and working computer security infrastructureAnalyse security of network protocols and systemsGeneric skills On completion of this subject, students should have the following skills:
+Ability to undertake problem identification, formulation, and solution.
+Ability to utilise a systems approach to solving complex problems and to design for operational performance
+Ability to manage information and documentation
+Capacity for creativity and innovation
+Ability to communicate effectively, with the engineering team and with the community at large.
+ Next: Eligibility and requirementsLast updated: 31 January 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

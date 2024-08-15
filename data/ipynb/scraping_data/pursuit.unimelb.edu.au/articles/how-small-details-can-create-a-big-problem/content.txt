@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/how-small-details-can-create-a-big-problem
+
+How small details can create a big problem   | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+How small details can create a big problem
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+A cyber-security analysis of a British government agency reveals subtle but important flaws in its system, highlighting a global lesson in the protection of informationBy Dr Chris Culnane, Dr Vanessa Teague and Dr Ben Rubinstein, University of MelbournePublished 13 December 2017
+6 min read
+As the quantity of data being collected by government agencies grows ever larger, so too does the pressure to link those datasets to create comprehensive and searchable records.But linking these different datasets, especially if they contain information about individuals, presents both a technical and privacy challenge.Vulnerabilities are sometimes missed during the design phase of a security system. Picture: iStockOn the one hand, you want accurate linking between these records for that person; this is best achieved by using values like the person’s name and address. But on the other hand, you want to protect their privacy by not revealing too much information. Techniques that try to solve this problem are known as Privacy Preserving Record Linkage.Evaluating the security of these techniques is particularly challenging, and problems arise when vulnerabilities are missed during the design phase and only come to light once they are used in practice.Our recent research has revealed just such a vulnerability in a technique used by the UK’s Office for National Statistics (ONS), which was previously thought to be secure. The ONS is the UK’s largest independent producer of official statistics and its recognised national statistical agency, but our research found that one of its techniques is vulnerable to attacks, allowing the recovery of names.The ONS reported their approach used for census data “...is designed to resist all currently-feasible attacks on the basis that the same approach may be used in future (and/or elsewhere) in less controlled environments”, but had only used the technique inside a secure Statistical Research Environment (SRE).An SRE is an isolated computer lab, with physical and procedural security – for example, researchers must pass a vetting procedure before being granted access, and there are restrictions on what can be taken in and out, greatly reducing the risk of wholesale recovery of names.It was thought the system was secure enough for use outside these environments, but our analysis shows this is not the case. And this vulnerability is a good example of how a small detail can invalidate what’s assumed to be a secure approach.The ONS did the right thing in making the details of their algorithm available online – this openness enables correction before vulnerable techniques are used in any future open data release by the ONS or others.Finding the flaws The ONS used a technique known as a similarity table, which provides a way of determining how alike two hidden values are, without revealing their true values. Or at least that is the intention.A small detail can invalidate what's assumed to be a secure approach. Picture: iStock.A good way to understand this process is to imagine placing names of people inside a locked and numbered box. The similarity table tells you how similar the contents of two boxes are, by giving scores. The lowest score is zero which means the contents are identical.Each name is always assigned to the same numbered box, so when you want to link two records, you look for another box which has the lowest similarity score – a correct match is usually zero, but might be larger because of typos, transcription errors, etc.In practice, the ONS uses secure message authentication codes (HMAC), which provide a unique mapping between a name and an ID in a way that cannot be reversed.The security of the HMAC remains good, but the problem was the provision of the similarity scores in plain sight leaked sufficient information that allowed the recovery of hidden names.An example of a similarity table is shown in the image below. It consists of three columns - the first and second contain the protected names, and the third contains the similarity score between them.The vulnerability we discovered works as follows:Construct a list of names that are likely to appear in the table which could come from the phone bookCalculate the similarity scores between all the collected namesTake the names and similarity scores and construct a graph from them. Each name is represented by a node, and each similarity score is a link between two nodes (known as an edge) with a weight equal to the similarity score. This is called an “Attack Subgraph”, an example of which is given in the image below.Construct a second graph from the protected similarity table dataThe names are recovered by mapping the graph constructed from the known names to the graph constructed from the protected similarity data. This matching process is known as graph isomorphism, or in this case, sub-graph isomorphism because we match on portions of the larger graph.It turns out that this problem can be solved approximately with modern consumer-grade computers.An attack subgraph which illustrates the link between two nodes with a similarity score. Picture: University of MelbourneMany eyes and an adversarial mindset The problem of small details making bigger solutions insecure is nothing new.One of the key challenges in spotting those small details is that if they are used as intended, they are not a problem. It is only when they are used or combined with additional data, in ways the original designers never contemplated, that the vulnerability is revealed.In much the same way that in proof-reading our own work we all tend to miss errors, so does evaluating our own security. What is required is someone to look at it with an adversarial mindset; to look at it not with a view of how it was intended to be used, but how it could be used.This kind of adversarial approach is used increasingly in testing cyber security; particularly what’s known as red and blue team testing. In this kind of testing, two teams are pitted against each other with one team trying to protect the system, while the other tries to break in. Unfortunately, these kind of tests are expensive and time consuming, and performing them for every system is impractical.But one way to mitigate this is to make details of the protocol or system public, allowing researchers and security professionals to analyse and potentially spot security flaws. Any discovery of a vulnerability shouldn’t be considered a failure, but rather evidence this many-eyes approach is working.Looking ahead What matters now is how the ONS responds to the vulnerability.As it stands the reports that detail the protocol, which also contain a number of security analysis errors, remain uncorrected and publicly available.It is vital these are corrected and the vulnerability highlighted, otherwise, another organisation somewhere in the world is likely to repeat the mistake, believing they are following best practice.In this case, correcting the record is more important than modifying the actual protocol. This is because the ONS protocol is run within a secure statistical research environment, so the risk of someone exploiting it is fairly low. However, the analysis in the reports overstates the security of the approach, and suggests it could be used safely outside a secure environment, which it absolutely cannot.Explaining these vulnerabilities can help other organisations from repeating the same mistake. Picture: iStockSoftware contains bugs, protocols contain errors, people make mistakes, this is never truer than in information security.No country or agency is immune from these types of privacy or security problems. The ONS deserves credit for making the details of what they were doing public, and other agencies should follow suit. Finding a vulnerability before it has been exploited should be a cause for celebration.Each vulnerability we fix, or mistake we correct, makes us collectively more secure.Conflict of Interest statement: The authors have done consulting work about privacy-preserving record linkage for Australian public sector agencies.Disclosure: The vulnerability was responsibly disclosed to the ONS on 22nd June 2017, with further analysis provided on the 13th October 2017.
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyCybersecurityInformation technologyBig DataInternetPrivacyShare Link copied 
+
+
+
+Featured individualsDr Chris CulnaneHonorary Fellow, School of Computing and Information Systems, Melbourne School of Engineering, University Melbourne; Visiting Lecturer, Department of Computing, University of SurreyAssociate Professor Vanessa TeagueAdjunct Associate Professor, College of Engineering and Computer Science,
+Australian National University College of Engineering, Computing and CyberneticsAssociate Professor Benjamin RubinsteinSenior Lecturer, School of Computing and Information Systems, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+Content Card SliderPrevious slideNext slideView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

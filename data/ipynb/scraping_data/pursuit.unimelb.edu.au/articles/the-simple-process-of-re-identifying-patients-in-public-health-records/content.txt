@@ -1,0 +1,119 @@
+URL: https://pursuit.unimelb.edu.au/articles/the-simple-process-of-re-identifying-patients-in-public-health-records
+
+The simple process of re-identifying patients in public health records   | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+The simple process of re-identifying patients in public health records 
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+In late 2016, doctors’ identities were decrypted in an open dataset of Australian medical billing records. Now patients’ records have also been re-identified - and we should be talking about it By Dr Vanessa Teague, Dr Chris Culnane and Dr Ben Rubinstein, University of MelbournePublished 18 December 2017
+5 min read
+In August 2016, Australia’s federal Department of Health published medical billing records of about 2.9 million Australians online. These records came from the Medicare Benefits Scheme (MBS) and the Pharmaceutical Benefits Scheme (PBS) containing 1 billion lines of historical health data from the records of around 10 per cent of the population.These longitudinal records were de-identified, a process intended to prevent a person’s identity from being connected with information, and were made public on the government’s open data website as part of its policy on accessible public data.The health data were published to contribute to “research, community information, policy development and policy evaluation”. Picture: iStockNow, we find that patients can be re-identified, using known information about the person to find their record. This was disclosed to the Department in December 2016.Data sharing and privacyThe health data was published to contribute to “research, community information, policy development and policy evaluation”. And it’s extensive – it included all publicly-reimbursed medical and pharmaceutical bills for selected patients, spanning the thirty years from 1984 to 2014.This is the second phase of our analysis of the MBS/PBS sample dataset. In September 2016, we found that the encryption of supplier IDs was easily reversed. We immediately informed the department and the dataset was then taken offline.Sciences & TechnologyHow small details can create a big problem Our motive is to inform government policy with a demonstration of the surprising ease with which de-identification can fail. Access to high-quality, and sometimes sensitive, data is a modern necessity for many areas of research, but we now face the challenge of how to deliver that access, while protecting the privacy of the people in those datasets.This example highlights the risky balance between data sharing and privacy.But there are a range of alternative solutions that should be considered, including the use of differential privacy for published data, and secure, controlled access to sensitive data for researchers.Re-identifying patientsWe found that patients can be re-identified, without decryption, through a process of linking the unencrypted parts of the record with known information about the individual.Our findings replicate those of similar studies of other de-identified datasets:A few mundane facts taken together often suffice to isolate an individual.Some patients can be identified by name from publicly available information.Decreasing the precision of the data, or perturbing it statistically, makes re-identification gradually harder at a substantial cost to utility.A few facts taken together can isolate an individual’s identity. Picture: iStockThe first step is examining a patient’s uniqueness according to medical procedures such as childbirth. Some individuals are unique given public information, and many patients are unique given a few basic facts, such as year of birth or the date a baby was delivered.We found unique records matching online public information about seven prominent Australians, including three (former or current) MPs and an AFL footballer.A unique match may not be an accurate re-identification, because only 10 per cent of Australians are included in this sample data. Some apparent re-identifications might be wrong, because there is a coincidental resemblance to someone who actually isn’t in that 10 per cent. However, we can cross-reference, using a second dataset of population-wide billing frequencies, which can sometimes reveal that this patient is unique in the whole population.Health & MedicineHow death by numbers promotes global health The second step is examining uniqueness according to the characteristics of commercial datasets we know of but cannot access directly. There are high uniqueness rates that would allow linking with a commercial pharmaceutical dataset, and with the billing data available to a bank. This means that ordinary people, not just the prominent ones, may be easily re-identifiable by their bank or insurance company.This contributes to the debate over the relationship between re-identification, uniqueness and confidence. While uniqueness does not imply re-identification - particular data that is known to be held by certain parties, does imply the opportunity for re-identification.What to do with data?These de-identification methods were bound to fail, because they were trying to achieve two inconsistent aims: the protection of individual privacy and publication of detailed individual records. De-identification is very unlikely to work for other rich datasets in the government’s care, like census data, tax records, mental health records, penal information and Centrelink data.While the ambition of making more data more easily available to facilitate research, innovation and sound public policy is a good one, there is an important technical and procedural problem to solve: there is no good solution for publishing sensitive complex individual records that protects privacy without substantially degrading the usefulness of the data.Some data can be safely published online, such as information about government, aggregations of large collections of material, or data that is differentially private. For sensitive, complex data about individuals, a much more controlled release in a secure research environment is a better solution. The Productivity Commission recommends a “trusted user” model, and techniques like dynamic consent also give patients greater control and visibility over their personal information.Patients can be re-identified, without decryption, by linking the unencrypted parts of the record with known information. Picture: iStockThe re-identification amendmentEarlier this year, the Australian government announced plans to amend the Privacy Act to criminalise re-identification of published government data. The proposed criminal offences would apply if “the information was published on the basis that it was de-identified personal information”.The proposed amendment has not (yet) passed, though half of the relevant Senate committee recommended that it should, despite noting, “concerns that have been expressed about aspects of this Bill by submitters, including the introduction of criminal offences, the reversed burden of proof and the retrospective application of the Bill”.Sciences & TechnologyIs digital connectivity threatening your privacy? A dissenting report stated, “the bill adopts a punitive approach towards information security researchers and research conducted in the public interest. In contrast, government agencies that publish poorly de-identified information do not face criminal offences and are not held responsible... the Bill discourages research conducted in the public interest as well as open discussion of issues which may have been identified.”We agree.Algorithms for protecting online security and privacy need careful scrutiny in order to be improved and strengthened. The technical issues are challenging and complex. Legislating against re-identification will hide, not solve, mathematical problems, and have a chilling effect on both scientific research and wider public discourse.Our hope is that this research contributes to a fair, open, scientific and constructive discussion about open data sharing and patient privacy.Banner image: iStock
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyBig DataHealthcareCybersecurityInformation technologyInternetShare Link copied 
+
+
+
+Featured individualsAssociate Professor Vanessa TeagueAdjunct Associate Professor, College of Engineering and Computer Science,
+Australian National University College of Engineering, Computing and CyberneticsDr Chris CulnaneHonorary Fellow, School of Computing and Information Systems, Melbourne School of Engineering, University Melbourne; Visiting Lecturer, Department of Computing, University of SurreyAssociate Professor Benjamin RubinsteinSenior Lecturer, School of Computing and Information Systems, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+Content Card SliderPrevious slideNext slideView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

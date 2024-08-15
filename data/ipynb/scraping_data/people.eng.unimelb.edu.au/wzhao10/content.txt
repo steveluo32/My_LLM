@@ -1,0 +1,622 @@
+URL: https://people.eng.unimelb.edu.au/wzhao10
+
+
+
+Wei Zhao - The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01_about
+02_projects
+03_publications
+04_education
+05_experience
+06_teaching
+07_contacts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wei Zhao
+PhD Student in Human-computer Interaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello! I’m a PhD student in the Human-Computer Interaction
+                                    Group at the University of Melbourne. I'm supervised by Associate Professor Jenny
+                                    Waycott,
+                                Dr Ryan Kelly,
+                                and Dr Melissa Rogerson.
+                                My current research topic is about designing digital systems for
+                                supporting older adults' engagement in meaningful activities. Research Interests:
+                                Human-computer Interaction, Computer-supported Cooperative Work, Social Computing,
+                                Ageing and Technology, Digital Health, Mixed Reality.
+download
+                            cv
+Featured publications:
+
+Zhao, W., Kelly, R., Rogerson, M., & Waycott, J. (2023). Older Adults
+                                Using Technology for Meaningful Activities During COVID-19: An Analysis Through the Lens
+                                of Self-Determination Theory. In Proceedings of the 2023 CHI Conference on Human Factors
+                                in Computing Systems.
+                            
+
+
+Zhao, W., Kelly, R., Rogerson, M., & Waycott, J. (2022). Understanding
+                                Older Adults’ Participation in Online Social Activities: Lessons from the COVID-19
+                                Pandemic. In Proceedings of the ACM on Human-Computer Interaction (CSCW 2022).
+                            
+
+
+View all
+                                publications
+
+
+
+
+
+
+
+
+
+
+
+
+Projects.
+
+
+
+
+
+
+
+
+
+
+Improving the Design of Video Calling Applications for Older Adults: A Field Trial of Dossy
+
+This project aims to improve the design of video calling systems for older adults living independently in the community. While there are commercial video calling systems that have widespread societal take-up (e.g., Zoom), these systems are not designed to meet the needs of older people living independently. To understand how video calling systems should be designed for older people, we conduct a field trial to evaluate Dossy, a video calling app that has been designed with the needs and capabilities of older adults in mind. By studying participants’ experiences of using Dossy, the project produces new knowledge about how video calling applications can support social connectedness for older adults. 
+
+View project details
+
+
+
+
+
+
+
+
+Designing Digital Technologies for Older Adults’ Online Social
+                                Engagement in Personally Meaningful Activities
+
+The aim of this research is to understand how digital
+                                technologies should be designed to support older adults' online social engagement in
+                                personally meaningful activities. We will use a Research through Design approach to
+                                explore the research questions, which employs the methods and processes of design
+                                practices with the intention of generating new knowledge. The results of the research
+                                will include the design and evaluation of a prototype of a system for older adults’
+                                online social engagement in personally meaningful activities. It will also reveal design
+                                opportunities and considerations for older adults’ future online engagement in social
+                                activities. 
+
+View project details
+
+
+
+
+
+
+
+
+Using digital technologies to maintain the social engagement
+                                of older adults living independently: experiences from COVID-19
+
+This study aims to investigate how older adults have been using
+                                technologies to maintain social engagement, especially during COVID-19 lockdowns, and to
+                                understand their experiences and perceptions of technology-mediated social
+                                engagement. COVID-19 has created opportunities for activities to be organised in digital
+                                forms. To inform the design of future tools to support older adults’ social engagement,
+                                it is crucial to understand the innovative
+                                practices that enabled older adults to stay socially engaged, and to gain insight into
+                                older adults’ experiences with online social activities.
+
+View project details
+
+
+
+
+
+
+
+
+Emerging Technologies for Enrichment in Old Age: A Critical
+                                Perspective
+
+The overall goal of this project is to generate knowledge about
+                                older adults’ experiences with emerging technologies used for social and emotional
+                                enrichment. Through in-depth investigations, this research program seeks to
+                                identify empirically informed strategies for good practice in the design and deployment
+                                of emerging technologies for enrichment in old age. Here is a recent news article
+                                published on Australian Ageing Agenda about this
+                                project: Tech Design Needs to Focus on Residents.
+
+View Project Details
+
+
+
+
+
+
+
+
+Challenges of Deploying VR in Aged Care: A Two-Phase
+                                Exploration Study
+                            
+OzCHI '20: 32nd Australian Conference on Human-Computer
+                                Interaction
+This is a master project that aimed to explore the challenges of
+                                deploying VR technology in aged care settings. Phase one involved a thematic analysis of
+                                video recordings of 14 VR sessions, during which five residents of an
+                                aged care facility were invited to experience and interact with VR systems. Phase two
+                                aimed to explore the challenges further by analyzing semi-structured interviews with 11
+                                staff members who had experience in coordinating
+                                VR activities in aged care homes. The results revealed a range of issues that need to be
+                                considered when deploying VR systems in aged care settings.
+
+Read the
+                                    article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publications.
+
+
+
+Please see my  Google Scholar profile  for citations.
+
+2024
+
+
+
+Wei Zhao, Ryan M. Kelly, Melissa J. Rogerson, and Jenny Waycott. 2024.  Older Adults
+                                        Imagining Future Technologies in Participatory Design Workshops: Supporting Continuity in the Pursuit of Meaningful Activities. In Proceedings of the 2024 CHI
+                                        Conference on Human Factors in Computing Systems (CHI '24).
+
+2023
+
+
+
+Wei Zhao, Ryan M. Kelly, Melissa J. Rogerson, and Jenny Waycott. 2023.  Older Adults
+                                        Using Technology for Meaningful Activities During COVID-19: An Analysis Through
+                                        the Lens of Self-Determination Theory. In Proceedings of the 2023 CHI
+                                        Conference on Human Factors in Computing Systems (CHI '23).
+
+
+Wei Zhao, Ryan M. Kelly, and Jenny Waycott. 2023. Technology Deployment for
+                                        Social Connection in Residential Aged Care: Care and Technology Providers'
+                                        Experiences During the COVID-19 Pandemic. In Extended Abstracts of the
+                                        2023 CHI
+                                        Conference on Human Factors in Computing Systems (CHI '23).
+
+2022
+
+
+Wei Zhao, Ryan M. Kelly, Melissa J. Rogerson, and Jenny Waycott. 2022. 
+                                        Understanding older adults' participation in online social activities: lessons
+                                        from
+                                        the COVID-19 pandemic. In Proceedings of the ACM on Human-Computer
+                                        Interaction (CSCW). ACM, New York, NY, USA. Honorable Mention for Best Paper Award (Top 4% of
+                                        Submissions)
+
+
+Jenny Waycott, Wei Zhao, Ryan M. Kelly, and Elena Robertson. 2022. Technology-mediated enrichment in
+                                        aged
+                                        care: survey and interview study. Journal of Medical Internet Research:
+                                        Aging. 5(2):e31162. DOI: https://doi.org/10.2196/31162 
+
+2021
+
+
+Wei Zhao. 2021. Ubiquitous Music-making:
+                                        A Critical Review.  In Proceedings of the 16th International Conference
+                                        on Audio Mostly (AM ’21). https://dl.acm.org/doi/10.1145/3478384.3478391
+
+2020
+
+
+Wei Zhao, Steven Baker, and Jenny Waycott. 2020. Challenges of Deploying VR in Aged
+                                    Care: A Two-Phase Exploration Study. In proceedings of the 32nd Australian
+                                    Conference on Human-Computer Interaction (OzCHI '20).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education.
+
+
+
+
+
+
+
+2021-2024
+
+Doctor of Philosophy (Engineering and IT), The University of Melbourne, Australia
+                            
+
+My PhD research is in the field of Human-computer Interaction. understanding human behaviour through quantitative and qualitative techniques and applying user-centred approaches to the engineering and design process of computer systems and products.
+        
+
+
+
+2018-2020
+
+Master of Information Technology with Distinction, The University of Melbourne, Australia
+
+Core Subjects: Evaluating the User Experience, Fieldwork for Design, Designing Novel Interactions, Mobile Application Development, Web Information Technologies, Java Programming, Algorithm, Database Management, Computer Network, Distributed
+                System, HCI project.
+
+
+
+2014-2018
+
+Bachelor of Public Relations, Communication and Media Studies, Sun Yat-sen University, China
+
+Core Subjects: Social Psychology, Digital Media Technology, Communication Theory, VI Design, Advertising, Interpersonal Communication, Marketing, Corporate Crisis Management, Social Science Research Methods, Big Data Analysis, Visual
+                Cultural Studies.
+                 Academic Performance: Top 5% / 2016-2017 Outstanding Student Scholarship.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experience.
+
+
+
+
+
+
+
+
+
+
+Research Assistant
+
+I'm working as a research assistant in a research project that explores the use of digital technologies for social enrichment and connection in aged care.
+
+
+I'm working as a research assistant in a research project that explores the use of digital technologies for social enrichment and connection in aged care. The overall goal of this project is to generate knowledge about
+                                    older adults’ experiences with emerging technologies used for social and emotional enrichment. Through in-depth investigations, this research program seeks to identify empirically informed strategies for good practice
+                                    in the design and deployment of emerging technologies for enrichment in old age. Knowledge generated will inform the future ethical design and use of emerging technologies to benefit the social and emotional wellbeing
+                                    of older adults, particularly those in advanced old age.
+Check the project detail:
+Emerging
+                                            Technologies for Enrichment in Old Age: A Critical Perspective
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Peer Review
+
+I have experience in reviewing papers for a number of conferences and journals in the field of human-computer interaction, including CHI, CSCW, ToCHI, OzCHI, and Australasian Journal on Ageing (AJA).
+
+
+I have experience in reviewing papers for a number of conferences and journals in the field of human-computer interaction. I'm particuarly experienced in reviewing HCI research papers using qualitative methods, such as interview or ethnographic studies.
+                                
+Check my reviewing history:
+Proceedings of the ACM on Human-Computer Interaction (CSCW)
+Australian Conference on Human-Computer Interaction (OZCHI)
+The ACM CHI Conference on Human Factors in Computing Systems (CHI)
+The Australasian Journal on Ageing (AJA) 
+Social Sciences & Humanities 
+Transactions on Computer-Human Interaction (TOCHI)
+
+
+
+
+
+
+
+
+
+
+
+
+Student Volunteer
+
+I'm actively participating in student volunteering at academic conferences. I have participated in student volunteering of HCI major conferences, including CHI and CSCW.
+
+
+I'm actively participating in student volunteering at academic conferences. I volunteered in the accessibility support group at CHI 2021 conference. The CHI 2021 was organised online and reached the highest number of audience
+                                    (5000+) in its history. My main responsibilities included accessibility standby, accessibility session support and quick response. I was also a student volunteer of the CSCW 2021 conference. My main job duty includes
+                                    sesson support and quick responses.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+UX/UI Design
+
+I have internship experience as a UX/UI designer. I'm familiar with mainstream tools used in the industry, including Adobe XD, Sketch, and Adobe PS.
+
+
+I was involved in the design and development process of LitFitness, a fitness mobile app. I was mainly responsible for competitor research and analysis, product function design, UI interface design and product usability
+                                    optimization. My product deliveries included competitor analysis report and UI design proposal.
+
+
+
+
+
+
+
+
+
+
+
+Research Interests: Human-computer Interaction, Computer-supported Cooperative Work, Social Computing, Ageing and Technology, Mixed Reality.
+
+
+
+
+
+
+
+
+
+Digital Marketing
+
+I have work experience in the field of digital marketing. My role included management of social media accounts, creation of video and texual promotional content, and competitor analysis.
+
+
+I was responsible for managing several digital marketing platforms including WeChat and YouTube. I built a WeChat public account from scratch and gained 3000+ followers and over 100,000 views. The YouTube Channel I created
+                                    gained more than 10,000 views and 2,000 followers. The marketing platforms generated numerous high-quality business consultations that contributed to sales numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teaching.
+
+
+
+
+
+
+Graduate Coursework Tutoring
+
+
+
+INFO90004 Evaluating the User Experience
+This subject concerns the methods and techniques that are used to identify what characterises UX and how you can recognise, measure and evaluate it in a variety of contexts. This entails a deep understanding of the
+                                        psychological and social theories underlying UX, combined with practical knowledge of the various industry methods and tools currently in use. In terms of practice, an emphasis is placed on learning the skills needed
+                                        to design, justify and conduct appropriate evaluations, and the interpretation of findings.
+
+
+INFO90006 Fieldwork for Design
+This subject introduces students to the theories and methods used to understand people and settings for designing technical systems. The subject will equip students with the knowledge and skills needed to gather information
+                                        about people and activities, to understand the intended users of the systems, and to use the insights gained from this process to identify design requirements.
+                                    
+
+
+INFO900010 Technology Innovation Project
+This subject involves an in-depth innovation investigation under the supervision of a member of the academic staff and in the context of the University's engagement initiatives. Students working in groups will be required
+                                        to perform research, customer and problem discovery, ideation, concept creation and validation, and technical implementation for a real-world challenge. The subject also provides students with skills and knowledge
+                                        for improving written and oral communication.
+
+
+
+
+
+
+
+Undergraduate Coursework Tutoring
+
+
+
+INFO10003 Fundamentals of Interaction Design
+How do you design interactive technologies that are useful, usable and satisfying? How can we better understand user needs in order to inform the design of new technologies? Fundamentals of Interaction Design addresses
+                                        these questions, and students will learn about the key theories, concepts and industry methods that are crucial to the user-centred design process.
+
+
+INFO20004 Usability Evaluation Methods
+In this subject, students will build on the foundational material from the prerequisite subject Fundamentals of Interaction Design to learn the key industry methods and tools used to conduct usability evaluations and
+                                        develop understanding about when these methods should be applied and how to interpret their findings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact.
+
+
+
+wzhao10@student.unimelb.edu.au
+Google Scholar Page
+ORCID:
+                    0000-0002-4025-6639
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Level 5, Melbourne Connect
+700 Swanston Street, Carlton, 3053
+The University of Melbourne, Australia
+
+
+
+
+Your name
+
+Your e-mail
+
+Message text
+
+
+send a
+                            message
+
+
+
+
+
+
+
+
+
+* Papers listed on this site are the author's version of the work.It is posted here for personal use. Not for redistribution.
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

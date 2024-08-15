@@ -1,0 +1,334 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp30019/
+Graphics and Interaction (COMP30019) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graphics and InteractionSubjectsHandbook
+HandbookSubjectsGraphics and Interaction
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Graphics and Interaction (COMP30019)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 email: jorge.goncalves@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+This subject introduces the technologies of computer graphics and human-computer interaction along with the biological, psychological and social aspects of human perception and action that inform the application of those technologies. The emphasis is on 2D and 3D computer graphics and the geometric modelling techniques used for representing and interacting with objects in dynamic scenes. Techniques considered include transformation geometry, illumination models and the real-time rendering (shading) models. The subject is centred on developing Apps for tablet computers based on natural user interfaces (NUIs), a term used by developers of human-machine interfaces that effectively become invisible to their users through successive learned interactions. Technologies likely to be considered are: virtual reality, computer games, augmented reality, tele-presence, or other modalities such as interaction through the sense of touch, audio or image processing and analysis. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of developing real-world computer graphics and interaction applications.
+ 
+INDICATIVE CONTENT
+Topics are drawn from computational geometry and human-computer interaction including:
+
+2D and 3D computer graphics
+Colour and illumination models
+Raster and vector graphics
+Geometric modelling
+Rendering (shading) and visualisation
+Geometric transformations (including projection)
+Computational matrix geometry and/or animation (kinematics)
+Interaction categories and styles (particularly graphical user interfaces)
+Usability and accessibility (including interaction for people with disabilities).
+Intended learning outcomesOn completion of this subject the student is expected to:Understand the theoretical concepts of computational geometry and human-computer interactionBe able to evaluate, design, and implement software for computer graphics and human-computer interactionUnderstand the strengths and weaknesses of different technological approaches to computer graphics and interactionBe able to use of computer graphics and other appropriate technologies for developing applicationsApply principles of computer graphics to specific problems in a variety of domains.Generic skillsOn completion of this subject students should have developed the following skills:
+Analytical and interpretative skills, through the conceptualization of classes of technology and through the analysis and development of real world cases
+Design skills, through proposing new uses of technology to support engineering tasks
+Team-work, through working on a group project
+Presentation skills.
+Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

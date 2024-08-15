@@ -1,0 +1,325 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90051
+Statistical Machine Learning (COMP90051) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statistical Machine LearningSubjectsHandbook
+HandbookSubjectsStatistical Machine Learning
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Statistical Machine Learning (COMP90051)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Feng Liufeng.liu1@unimelb.edu.auSemester 2 Jean Honorio Carrillojean.honorio@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+With exponential increases in the amount of data becoming available in fields such as finance and biology, and on the web, there is an ever-greater need for methods to detect interesting patterns in that data, and classify novel data points based on curated data sets. Learning techniques provide the means to perform this analysis automatically, and in doing so to enhance understanding of general processes or to predict future events.
+Topics covered will include: supervised learning, semi-supervised and active learning, unsupervised learning, kernel methods, probabilistic graphical models, classifier combination, neural networks.
+This subject is intended to introduce graduate students to machine learning though a mixture of theoretical methods and hands-on practical experience in applying those methods to real-world problems.
+INDICATIVE CONTENT 
+Topics covered will include: linear models, support vector machines, random forests, AdaBoost, stacking, query-by-committee, multiview learning, deep neural networks, un/directed probabilistic graphical models (Bayes nets and Markov random fields), hidden Markov models, principal components analysis, kernel methods.Intended learning outcomesOn completion of this subject the student is expected to:
+Describe a range of machine learning algorithmsDesign, implement and evaluate learning systems to solve real-world problems, based on an appreciation of their relative suitability to different tasksGeneric skillsOn completion of the subject students should have the following skills:
+Ability to undertake problem identification, formulation, and solution
+Ability to utilise a systems approach to complex problems and to design and operational performance ability to manage information and documentation
+Capacity for creativity and innovation
+Ability to communicate effectively both with the engineering team and the community at large
+Next: Eligibility and requirementsLast updated: 8 April 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

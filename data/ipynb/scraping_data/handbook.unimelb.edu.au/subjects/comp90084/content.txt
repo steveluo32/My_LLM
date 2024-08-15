@@ -1,0 +1,321 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90084/
+Quantum Software Fundamentals (COMP90084) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum Software FundamentalsSubjectsHandbook
+HandbookSubjectsQuantum Software Fundamentals
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Quantum Software Fundamentals (COMP90084)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Udaya Parampalli
+udaya@unimelb.edu.auOverviewAvailability(Quotas apply)Semester 2FeesLook up feesThis subject will explore the fundamentals of quantum programming and quantum algorithm design. The subject will introduce students to a range of different quantum programming platforms and languages, and will include hands-on modules. The students will be prepared to write quantum programs, implement a range of simple quantum algorithms, such as Grover’s and Shor’s algorithms, and to execute quantum programs on a quantum computer through a cloud access.
+This subject will be made up of three parts:
+
+Fundamentals of quantum computing and quantum programming, including running quantum programs on actual cloud-based quantum computers.
+Programming fundamental quantum algorithms, such as the Deutsch–Jozsa, Grover, Shor and HHL algorithms.
+Quantum programming for cutting edge research topics, such as quantum error correction, variational quantum circuits and quantum machine learning.
+Intended learning outcomes On the completion of this subject, students should be able to:1. Develop and understand the fundamental aspects of quantum computing.2. Design and implement simple quantum algorithms on multiple quantum hardware architectures.3. Construct programs for fundamental quantum algorithms on a cloud-based quantum language/architecture.4. Identify the basic building blocks for the fundamental quantum algorithms and understand how/when they can be used in new algorithms.5. Analyse and describe modern quantum algorithms, including quantum error correction, VQE, QAOA and quantum machine learning.Generic skillsAbility to undertake problem identification, formulation and solution.Ability to utilise a systems approach to solving complex problems and to design for operational performance.Ability to manage information and documentation.Capacity for creativity and innovations.Ability to communicate effectively, with the CIS team and with the community at large.Next: Eligibility and requirementsLast updated: 11 June 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

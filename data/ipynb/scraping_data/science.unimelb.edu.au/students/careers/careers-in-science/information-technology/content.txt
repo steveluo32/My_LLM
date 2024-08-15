@@ -1,0 +1,162 @@
+URL: https://science.unimelb.edu.au/students/careers/careers-in-science/information-technology
+
+
+
+
+
+Careers in Information Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+ 
+
+Faculty of ScienceStudentsStaffAlumniLibraryLMSHandbookContact and maps About uschevron-down About uschevron-rightFaculty news and announcementsOur leadership teamLocations and facilitiesContact usIndigenous research, engagement and inclusionchevron-rightIndigenous research and teachingIndigenous students in scienceIndigenous inclusionSkip to main contentDiversity and inclusionOur schoolschevron-rightBioSciencesChemistryGeography, Earth and Atmospheric SciencesAgriculture, Food and Ecosystem SciencesMathematics and StatisticsPhysicsVeterinary ScienceSkip to main contentIndigenous research, engagement and inclusion chevron-rightWe are committed to making the University a more inclusive place for Indigenous people through research partnerships and community engagement.Diversity and inclusion chevron-rightWe are committed to providing a supportive, inclusive, and equitable environment for all staff, students and visitors. Our researchchevron-down Our researchchevron-rightResearch areaschevron-rightLife and peopleA healthy planetFoundational sciencesTechnology and dataResearch partnershipsFacilities, resources and capabilitiesSkip to main contentScience Matters on Pursuit chevron-rightAccess cutting-edge research and insightful commentary from the world-leading researchers at the Faculty of Science.Find a researcher chevron-rightSearch our academic staff directory to find a supervisor, collaborator or expert. Study with uschevron-down Study with uschevron-rightUndergraduate studiesGraduate studiesGraduate researchScience and mathematics as breadthMeet our students and alumniCareers in scienceSkip to main contentAwards, scholarships and prizes chevron-rightWe are committed to recognising and supporting the academic achievement of students, and offer some of the most generous scholarships in Australia. Engage with uschevron-down Engage with uschevron-rightIndustry engagement with sciencechevron-rightScience and technology student internshipsStudent professional projectsConnecting industry and studentsIndustry research collaboration and linkagesScience at Melbourne Public LecturesScience in schoolsGlobal engagementSkip to main contentScience AlumniUpcoming eventsGiving to scienceSkip to main contentWhat’s on in the Faculty of Science chevron-rightFind out about upcoming seminars, workshops, exhibitions, launches and more.Work with our graduate students chevron-rightGet access to Australia’s best and brightest minds for your organisation –while inspiring the next generation of emerging talent. Current studentschevron-down Current studentschevron-rightCourse guideschevron-rightBachelor of Agriculture (BAg)Bachelor of Science (BSc)Diploma in General Studies (DiGS)Graduate coursework degreesGraduate research degreesAwards, prizes and scholarshipsEnrich your studiesSkip to main contentStudent lifeCareers and future studiesSupport and contacts for studentsSkip to main contentImportant contacts for students chevron-rightIf you’re a current or prospective student, find contact information for a range of teams and services.searchSearchhomeFaculty of Sciencechevron-rightStudy with uschevron-rightCareers in Sciencechevron-rightInformation technology
+
+
+
+
+
+
+Faculty of Science
+
+
+
+Study with us
+
+
+
+Careers in Science
+
+
+
+Information technology
+
+
+
+
+
+
+
+Careers in information technology
+
+
+
+
+
+
+                    Job Titles
+                
+
+                        Companies
+                
+
+                    Industries
+                
+
+                        Study options
+                
+
+
+Potential job titles for graduates include:Application developerBioinformaticianBusiness AnalystBusiness Development ManagerBusiness systems specialistData Analytics ConsultantData ScientistDatabase managerGames DeveloperHardware engineerInfrastructure architectIT consultantNetwork systems engineerPolicy analystProject managerQuantitative AnalystQuantitative analystRisk modelling specialistSales executiveSoftware EngineerSoftware programmerSolutions architectStrategy AnalystSystems analystTeacher or educatorWeb developerSources include: LinkedIn profiles of University of Melbourne graduates.
+
+
+Our graduates are employed at companies including:AccentureANZAppleBureau of MeteorologyCapgeminiCode CampCommonwealth BankCSIROCSLDeloitteEYGoogleGSKIBMKPMGMicrosoftMonash UniversityQuantiumRoyal Melbourne HospitalTelstraThalesThe University of MelbourneWEHISources include the LinkedIn profiles of University of Melbourne graduates.
+
+
+IT graduates work in fields such as:AgricultureAviationChemicalConstructionConsultingDefenceEducationEnergyGovernmentHealth-careITManufacturingMiningNatural resource managementProgram and Project ManagementResearchSoftwareTelecommunicationsTransport
+
+
+Bachelor of Science majors:Computing and Software SystemsData ScienceSome graduate study options include:Master of Data ScienceMaster of Engineering (Software)Master of Engineering (Software with Business)Master of Information TechnologyMaster of Information SystemsMaster of Science (Computer Science)Doctor of Philosophy (Science)
+
+
+
+
+
+
+
+Job title: Scientific programmer, Free University of AmsterdamDrew completed his studies in Applied Mathematics and uses his knowledge in mathematics, software development, data processing and chemistry to write scientific software.“After graduating with first class honours in Applied Mathematics, I completed a PhD in Chemical Physics at the University of Melbourne. I accepted a Post-Doctoral position in Leiden, The Netherlands and spent 3 years performing research into the dynamics of chemical reactions at surfaces. This research involved writing software to solve the equations of Quantum Mechanics on supercomputers. The research was loosely related to the field of catalysis, and led to better understanding of how the reaction site on a surface could be influenced by controlling the dynamical state of the reactant molecules. After leaving Leiden, I spent around 6 months writing software in a Space company. The software was for processing the data sent back to Earth by a satellite measuring the thickness of the Earth’s Ozone Layer, and was in collaboration with NASA and ESA.I currently work as a Scientific Programmer in the Department of Theoretical Chemistry, at the Free University in Amsterdam, The Netherlands. It is not a research position but I am given the opportunity to carry out research in collaboration with, and in support of others. I spend a lot of time developing software for solving scientific problems. This involves programming Quantum Chemistry software sold commercially by our Department through a split-off company. This software, called Amsterdam Density Functional (ADF), makes use of Density Functional Theory (DFT) to solve the electronic structure of molecules from first principles.I spend most of my day writing scientific software. My mathematical skills are very important for this. Quantum Chemistry makes extensive use of various fields of mathematics, from group theory, to perturbation theory, linear algebra and differential equations. To solve the equations of Quantum Chemistry, I need to be able to understand the mathematics involved, and formulate my own solutions. Writing the software itself also requires that I draw heavily upon my mathematical training. Solving differential equations and the like numerically formed the basis of my Applied Mathematics degree, and still forms the pillar of my work.”
+
+
+
+
+
+
+Science Facebook
+Science Twitter
+Science Instagram
+Contact Us
+Staff Intranet
+
+
+Give to Science
+
+
+
+      Site footer   We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated   Read about our commitment to reconciliation        About us     Careers at Melbourne     Safety and respect     Newsroom     Contact        Phone: 13 MELB (13 6352)  International: +61 3 9035 5511   Address:  The University of Melbourne  Grattan Street, Parkville  Victoria, 3010, Australia   View all Campus locations                  Facebook 
+
+ Share on Facebook      LinkedIn 
+
+ Share on LinkedIn      Instagram 
+
+ Share on Instagram      Twitter 
+
+ Share on Twitter                 Emergency     Terms & privacy     Accessibility     Privacy       The University of Melbourne  (Australian University): PRV12150    CRICOS number: 00116K   ABN: 84 002 705 224      
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

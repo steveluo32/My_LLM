@@ -1,0 +1,321 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90073/
+Security Analytics (COMP90073) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security AnalyticsSubjectsHandbook
+HandbookSubjectsSecurity Analytics
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Security Analytics (COMP90073)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Sarah Monazam Erfanisarah.erfani@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+As we become more dependent on data in every aspect of our lives the task of protecting it and applications dependant on it becomes harder. The sheer quantity of data and sophistication of the attacks is rapidly making manual analysis infeasible. Security Analytics will examine how we can protect data and automate the analysis of data to better detect, predict and prevent privacy and security vulnerabilities. 
+INDICATIVE CONTENT
+
+The subject will first introduce the types of information leakage that can occur under several threat models and explore methods for protecting sensitive content during data analysis. The second part of the subject will introduce methods from machine learning that are widely used for cyber security analysis. Specific unsupervised machine learning techniques will be covered in more detail, which include methods for anomaly detection, alarm correlation and intrusion detection. The third part of the subject will introduce some of the theoretical challenges and emerging issues for security analytics research, based on recent trends in the evolution of security threats. 
+
+
+Indicative examples of the emerging challenges and issues that will be studied are privacy‐preserving analytics, adversarial machine learning, concept drift and new applications in monitoring critical infrastructure. 
+Intended learning outcomesOn completion of the subject, students should be able to:Evaluate the suitability of different types ofmonitoring data for detecting security incidentsDescribe and implement a range of pattern recognition and machine learning algorithms for use in security analyticsSelect algorithms appropriate to a given security analysis taskApply pattern recognition and machine learning techniques to non‐trivial security analysis tasksEvaluate computational techniques for security analytics to solve real‐world problems, based on their accuracy and efficiencyDiscuss theoretical challenges and emerging trends for security analytics researchGeneric skillsAbility to undertake problem identification, formulation and solutionAbility to utilise a systems approach to complex problemsCapacity for creativity and innovationAbility to communicate the results of complex analysis effectively to both technical audiences and the community at largeNext: Eligibility and requirementsLast updated: 12 June 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

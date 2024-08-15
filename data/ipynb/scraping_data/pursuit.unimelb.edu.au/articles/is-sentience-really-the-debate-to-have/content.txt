@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/is-sentience-really-the-debate-to-have
+
+Is sentience really the debate to have?  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+Is sentience really the debate to have?
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+While debate over the alleged sentience of the LaMDA chatbot continues, there are bigger questions about AI’s overall lack of transparencyBy  Liam Harding, Carmelina Contarino, Dr Simon Coghlan, Dr Yvette Maker, Professor Reeva Lederman, and Professor Jeannie Paterson, University of MelbournePublished 16 June 2022
+6 min read
+The recent claims that Google’s chatbot LamDA had an existential discussion with a senior software engineer has grabbed the world’s attention.Google employee Blake Lemoine claimed that talking with LaMDA is like talking to an “8-year-old kid that happens to know physics”. Lemoine is convinced that LaMDA is a sentient, human-like intelligence.Google has put Blake Lemoine (pictured) on leave after he claimed a computer chatbot had become sentient. Picture: Getty ImagesThis isn’t the first time a chatbot has caused such a dramatic debate.The first ever chatbot, created in 1966 by computer scientist Professor Joseph Weizenbaum at Massachusetts Institute of Technology (MIT), was comparatively simple by today’s standards. But to users like Professor Weizenbaum’s secretary, the bot, named ELIZA, seemed to “understand” them.Almost 60 years later, chatbots are now widely used.Sciences & TechnologyThe AI pretenders You may have encountered them in communicating online with telecommunication companies, banks, airlines and shopping sites. They are usually found in a little box-shaped icon that pops up in the lower right-hand corner of the screen, asking you to type a question. And some of the answers can feel quite human.So how do these chatbots engage with us in human-like ways?The technology underpinning chatbots has evolved since the 1960s. The seminal advancement was the invention of data-driven algorithms – otherwise known as machine learning algorithms or artificial intelligence (AI). AI enables the kind of ‘conversations’ that LamDA has had with humans.Chatbots are essentially computer programs that interpret written or spoken language and provide appropriate responses. Many programming languages and technologies can be used to build them. Regardless of approach, chatbots are of two basic types: ‘rules-based’ chatbots, like ELIZA, and ‘smart’ chatbots, like LaMDA.Chatbots are essentially computer programs that interpret written or spoken language. Picture: ShutterstockRules-based chatbotsRules-based chatbots are the simplest kind. They are easy to build, predictable in output and relatively simple to maintain. This makes them a good choice for many practical purposes, like online banking.Rules-based chatbots detect certain words or word combinations and pattern match them to a response or class of responses. They do this by following a pre-determined rule.Sciences & TechnologyTikTok captures your face For example, the program may detect the word ‘hello’ in the user’s input “Hello there!” and match it to an appropriate greeting like, “Hi, my name is ChatBot!”.The difficulty is that the range of possible inputs (things that can be said to or asked of the chatbot) is practically infinite. Any sequence of letters can be used to address the chatbot, but the chatbot can only respond to patterns that it ‘recognises’ with a corresponding ‘rule’.And this is the key disadvantage of the simpler pattern matching chatbots.‘smart’ chatbots‘Smart’ chatbots using more advanced techniques can overcome this limitation. They employ machine learning algorithms that perform Natural Language Processing (NLP). The complex type of algorithm they typically employ is a ‘neural network’.Google says its AI chatbot system LaMDA isn’t sentient. Picture: ShutterstockA ‘neural network’ is a type of algorithm that has connections that are very roughly like biological neurons. The neural network must be ‘trained’ on sample data – meaning the algorithm iteratively compares its predictions to what the ‘correct’ output should be and then performs complex calculations, adjusting its parameters to improve its predictions over time.The AI in smart chatbots is still performing pattern recognition, but unlike simple rules-based chatbots that rely on pre-programmed instructions, smart chatbots decipher the ‘rules’ or ‘patterns’ for themselves.It means that smart chatbots can respond to a wider range of inputs. But it also means that this flexibility can be accompanied by greater unpredictability and less control.Sciences & TechnologyChallenging decisions made by algorithm A now infamous example of this problem was Microsoft’s chatbot Tay. Tay learned its responses from human posts on Twitter. In less than 24 hours, Tay began mimicking Twitter users with its own racist and antisemitic statements.Microsoft quickly shut it down.This example highlights the difficulty operators face when it comes to controlling chatbots with AI neural networks. They are far less predictable and harder to maintain.This is why chatbots in customer service roles currently use simple, pre-determined rules which are sufficient for most purposes.Ongoing concernsAll of this however doesn’t mean customer service chatbots are free from risk.Smart chatbots decipher the ‘rules’ or ‘patterns’ for themselves which can mean greater unpredictability and less control. Picture: Getty ImagesWe are currently analysing our findings in a project funded by the Australian Communications Consumers Action Network on the use of chatbots providing customer support in Australian telcos.Some of our concerns are around an overall lack of transparency when it comes chatbot use – as opposed to a problem of sentience.Particularly, service chatbots may introduce themselves as a ‘virtual bot’, but if consumers don’t know what a virtual bot is they won’t know when they are talking to AI as opposed to a person.Politics & SocietyWhat is the law when AI makes the ‘decisions’? This is problematic because some research suggests that this incorrect assumption makes consumers more trusting of the bot.Additionally, most service chatbots don’t tell consumers what happens to the transcript of the conversation afterwards – raising further privacy concerns. And it’s simply unclear whether service chatbots are accessible or equitable in who can use them.Intelligent, sentient or just capable?These pressing privacy concerns aside, ultimately, all chatbots are just computer programs designed by humans and used to interpret and respond to written language.Understanding how chatbots work means we can better see their benefits and limitations. They can both be very useful as well as producing unpredictable or even offensive responses.There’s an overall lack of transparency when it comes chatbot use – as opposed to a problem of sentience. Picture: Getty ImagesChatbots, even the simpler ones like ELIZA, can respond in a way that is uncannily human. Smarter bots with very sophisticated neural networks take this to the next level.But even smart chatbots like LamDA are just performing pattern recognition. So, we can exercise a healthy scepticism about claims that chatbots are sentient or virtually human.That said, these discussion about the sentience of a chatbot or an AI are good debates to have – partly because the issue causes such confusion and partly because it helps us to reflect on what it is to be human – not because Lemoine may be right about LamDA or some future AI.More importantly, it’s worth pausing to reflect on whether service chatbots are transparent, fair and effective for everyone – particularly when used as support for essential services like telecommunications.Banner: Getty Images
+
+
+ Republish this Article Terms of use  First published in LawArtificial IntelligencePrivacyTechnologyDigital EthicsPublic DiscourseShare Link copied 
+
+
+
+Featured individualsLiam HardingResearch Associate, Centre for AI and Digital Ethics, Melbourne Law School, University of MelbourneCarmelina ContarinoResearch Associate, Centre for AI and Digital Ethics, Faculty of Arts, University of MelbourneDr Simon CoghlanSenior Lecturer in Digital Ethics, Centre for AI and Digital Ethics, and School of Computing & Information Systems, Faculty of Engineering and Information Technology, University of MelbourneDr Yvette MakerSenior Lecturer, Faculty of Law, College of Arts, Law and Education, University of Tasmania; Honorary Senior Fellow, Melbourne Law School, University of MelbourneProfessor Reeva LedermanSchool of Computing and Information Systems, Melbourne School of Engineering, University of MelbourneProfessor Jeannie Marie PatersonCo-director, Centre for Artificial Intelligence and Digital Ethics (CAIDE); Co-director, Digital Access and Equity Research Program, Melbourne Social Equity Institute; Professor, Melbourne Law School, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Law
+
+
+
+More stories from Sciences & TechnologyPrevious slideNext slideSciences & TechnologyClimate change is supercharging the world’s wildfiresA new annual global assessment of wildfires warns that climate change has increased the risk of extreme fire weather by about 20 times in some parts of the worldSciences & TechnologyThe vaccine improving the health of Australia's chickensA new vaccine is protecting one-day-old chicks from a pneumonia-like illness that costs the poultry industry millions of dollars each yearSciences & TechnologyWe now know what causes the Buruli ulcer, so what are we doing about it?Knowing that mosquitoes are involved in the transmission of the Buruli ulcer in Victoria is a breakthrough, but we need to work out what happens next to tackle the diseaseView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

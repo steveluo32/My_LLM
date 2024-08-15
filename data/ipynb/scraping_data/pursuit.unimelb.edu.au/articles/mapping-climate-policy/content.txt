@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/mapping-climate-policy
+
+Mapping climate policy  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Environment
+            
+
+
+Mapping climate policy
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+Climate policy across Australia is fragmented, but researchers are aiming to use big data to make better sense of itBy Dr Kathryn Davidson and Kirsten Doert Eccles, University of MelbournePublished 4 May 2022
+4 min read
+As the need to cut greenhouse gas emissions becomes increasingly urgent, governments of all levels, as well as private businesses and non-government organisations across Australia, are developing and adapting their own separate policies.But the danger of all this fragmented activity is that the planning becomes incoherent with little scope for integration to make individual actions more effective. What’s needed is a system of data collection and analysis so that policy makers know what is going on and be in a position to identify ways to harmonise action.Governments of all levels as well as businesses and non-government organisations all have climate plans, but the risk of this fragmentation is a lack of coherence. Picture: Getty ImagesAt the Melbourne Centre for Data Science and Melbourne Climate Futures, we are using data science to try to better understand the climate policy landscape in Australia.One of the aims of our project is to harness the capacity of automated, large-scale policy text analysis , utilising a form of artificial intelligence – known as Natural Language Processing (NLP) – to map the multitude of climate policies and their performance in Australia.EnvironmentAustralians more concerned about climate change than COVID-19 However, in order to do this comprehensively, we first need to build a national dataset of all the climate-related policy documents that are being developed by significant actors in Australia – whether that’s government, business or non-government agencies.Existing open repositories on climate policies are global. For instance, although the Carbon Disclosure Project (CDP) records annual climate actions of cities, companies and regions, many Australian cities are missed because of the project’s priority of broad, global coverage over completeness.Our first step in this new research then is to urgently collect all the significant and current climate policies in Australia and develop this database.Our goal is to include everyone’s efforts in this project and we need your help to do so. If you, your business, your city, state or regional government, your charity has developed a climate policy, we ask you to please send us a copy of all plans you developed since 2011.After establishing this dataset, our research intends to map out areas that overlap and conflict in climate governance across the diverse range of actors in Australia. We intend to set up, respectively, a longitudinal study to tracking changes in policy trends since 2011 (in-line with the Intergovernmental Panel on Climate Change), and identify new policy opportunities.The technology of big data and artificial intelligence can be harnessed to make sense of fragmented climate policy. Picture: ShutterstockThe need for this work was underlined last year by a global study published in Nature Communication that used NLP to analyse nearly 10,000 climate strategy documents across countries, regions, cities and companies to assess how well they were aligned.The study warned that while there was some synergies in how actors were self-organising on climate policy, “there may also be missed opportunities for deeper coordination that could result in more ambitious action”.While this study starts to provide some insight into the global landscape, there’s still much work needed to better understand this quickly evolving landscape.EnvironmentOur window is closing on a liveable future For example, there’s a lack of time-series data, which is why in our Australian study we plan to undertake a longitudinal analysis of data on performance and effectiveness, as well as interactions between actors, to better illuminate how climate actions are evolving, converging or diverging.Over the last decade, there have been significant advances in the field of data science and big data analysis, which have been underexploited in the context of climate policy analysis to date.Considering the urgency of the need to reach net zero emissions by 2050, it is high time to better utilise this expertise to help understand the dynamic policy landscape in climate policy. Big data approaches can provides us with an opportunity to complement expert analyses with data-driven policy exploration.In this way, we hope to identify policy gaps and new opportunities, which will be critical to delivering on net zero carbon by 2050.To submit climate plans as part of Melbourne Centre for Data Science and Melbourne Climate Futures’ research, please visit the project website.Banner: Shutterstock
+
+
+ Republish this Article Terms of use  First published in ScienceClimate ChangePolicyBig DataArtificial IntelligenceCarbon EmissionsShare Link copied 
+
+
+
+Featured individualsDr Kathryn DavidsonSenior Lecturer, Urban Planning, Architecture, Building and Planning, Melbourne School of Design, University of MelbourneKirsten Doert EcclesExecutive Officer, Melbourne Centre for Data Science, Faculty of Science, University of MelbourneStory Producer: Andrew Trounson
+
+
+
+
+
+Find out more about research in this faculty
+Science
+
+
+
+Content Card SliderPrevious slideNext slideView more Environment storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

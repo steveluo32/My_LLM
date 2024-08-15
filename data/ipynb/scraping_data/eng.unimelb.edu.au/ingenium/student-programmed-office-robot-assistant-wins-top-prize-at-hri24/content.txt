@@ -1,0 +1,182 @@
+URL: https://eng.unimelb.edu.au/ingenium/student-programmed-office-robot-assistant-wins-top-prize-at-hri24
+
+
+
+
+
+Student-programmed office robot assistant wins top prize at HRI24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+ 
+
+Faculty of Engineering and Information TechnologyStudentsStaffAlumniLibraryLMSHandbookContact and maps About uschevron-down About uschevron-rightDean’s welcomeDiversity and inclusionFacts and figuresHistory of the SchoolIndustry Advisory GroupsSchools, departments and research centresOur valuesFEIT Sustainability portfolioSkip to main contentTeaching and Learning LabContact usSkip to main contentGraduate Research Showcase chevron-rightMeet potential supervisors, discover our research projects and get all of your application questions answered on 31 October at Melbourne Connect.Telstra Creator Space chevron-rightThis accessible fabrication lab is the future of creating for today’s learners. Located in the Melbourne Connect innovation precinct, you’ll find students, academics and staff working alongside each other to design, experiment and innovate with industry-grade tools. Studychevron-down Studychevron-rightAccreditationAlternative degree entry optionsEngineering courses and careersEngineering and IT career pathways brochuresEngineering degreesIT degreesSpecialisations in Engineering and ITProfessional developmentSkip to main contentStudy abroad and exchangeFuture Student FAQsSkip to main content Researchchevron-down Researchchevron-rightAreas of research focusDisciplinesSchools / DepartmentsGraduate researchResearch centres and institutesSector-facing PlatformsSkip to main content Partnershipschevron-down Partnershipschevron-rightTeam up with our studentsDevelop your workforce capabilityUse our facilities and infrastructureCollaborate with our researcherschevron-rightArtificial IntelligenceDefenceEnergyFood and AgribusinessSkip to main contentInfrastructureMedTechSustainable ResourcesTransportWater, Environment and AgricultureSkip to main content Engage with uschevron-down Engage with uschevron-rightAlumni and friendsSchoolsIndigenous Engineering & IT UnitSupport usTeam up with our studentsEndeavourSkip to main content Current studentschevron-down Current studentschevron-rightENG and IT calendarCoursework studentsGraduate researchersEngineering and IT CommunitySkip to main contentStudent advice and support chevron-rightAdvice and support for students affected by coronavirus (COVID-19).searchSearchhomeFaculty of Engineering and Information Technologychevron-rightStudent-programmed office robot assistant wins top prize at HRI24
+
+
+
+
+
+
+Faculty of Engineering and Information Technology
+
+
+
+Student-programmed office robot assistant wins top prize at HRI24
+
+
+
+
+
+
+
+Student-programmed office robot assistant wins top prize at HRI24
+A group of students from the Faculty of Engineering and Information Technology (FEIT) captured the spotlight at the Association for Computing Machinery and Institute of Electrical and Electronics Engineers’ International Conference in Human-Robot Interaction (HRI24) competition in Boulder, Colorado, with their robot assistant, ‘OfficeMate.’The HRI24 Robot Challenge's Office Assistant Robot competition challenged contestants to create social robot applications built on the Tiago Platform that would provide valuable assistance and companionship to office workers.Aptly named Team Melbourne, the team includes School of Computing and Information Systems (CIS) students Yan Zhang, Jiahe (Michael) Pan, Sarah Schombs, Muhammad Bilal and Ramtin Tabatabaei. Dr Wafa Johal, senior lecturer in CIS, supervised the students.Team Melbourne received the Robot Competition Winner award, which acknowledges the top entry to the HRI24 robot competition.From left: Dr Wafa Johal, Ramtin Tabatabaei, Jiahe (Michael) Pan, Muhammad Bilal, Sarah Schombs and Yan Zhang.The team’s journey began in January 2024, when they received the Tiago robot manipulator from PAL Robotics. This acquisition was made possible through the generous funding of FEIT’s Collaborative Equipment Grant, in collaboration with the Departments of Mechanical Engineering (Dr Denny Oetomo) and Electrical Engineering (Dr Ye Pu).With a clear objective in mind, the team set out to create, program and demonstrate an office assistant robot capable of navigating complicated surroundings, interacting socially with humans, and executing a variety of office activities with ease and efficiency.To prepare for the competition, the team underwent a rigorous one-week boot camp in February. During this period, they honed their skills in programming Tiago’s basic functionalities, laying the groundwork for the advanced capabilities they would later showcase. These skills encompassed mapping, simultaneous localisation and mapping, object manipulation, follow-me behaviour and speech interaction using Large-Language Models.Team Melbourne working on OfficeMate in the IxT Lab.The HRI24 competition presented an unexpected challenge when a snowstorm forced the closure of the campus on the second day of the conference. Undeterred by the adversity, the competition organisers swiftly moved the event online. The team seized this opportunity to demonstrate the impressive capabilities of OfficeMate in a virtual format.OfficeMate autonomously performed a series of complex tasks designed to simulate the role of an office assistant using large language models, which are advanced artificial intelligence systems trained on vast amounts of text data to understand and generate human-like language.From conducting breathing exercises to booking rooms and calendars, guiding visitors, and even fetching snacks, the robot's performance showcased its practical assistance, social interaction and innovative user experience capabilities, perfectly aligning with the competition's criteria. Jiahe (Michael) Pan and Ramtin Tabatabaei debugging OfficeMate’s navigation.Dr Johal said the team’s success at HRI24 is a testament to their collaborative efforts and the transformative potential of robotics in enhancing human experiences.“We are thrilled to have demonstrated the capabilities of OfficeMate and look forward to pushing the boundaries of innovation even further,” Dr Johal said.The contestants were evaluated on various criteria, including practical assistance, social interaction, navigation and environment interaction, and innovation and user experience.The triumph of Team Melbourne at the HRI24 competition not only exemplifies the dedication and ingenuity of its members but also underscores the remarkable progress being made in the field of robotics and human-robot interaction.Watch a demo video of OfficeMate here: https://www.youtube.com/watch?v=FzSA27W1sek
+
+
+
+27 Mar 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Information
+
+Dr Wafa Johal
+wafa.johal@unimelb.edu.au
+
+
+
+
+
+
+
+
+
+
+
+      FEIT Facebook
+
+
+
+
+      FEIT LinkedIn
+
+
+
+
+      FEIT Twitter
+
+
+
+
+      FEIT Instagram
+
+
+
+
+      Contact us
+
+
+
+
+      FEIT Current Students
+
+
+
+
+      FEIT Intranet
+
+
+
+Support the Faculty of Engineering and Information Technology
+Make a Gift
+
+
+
+
+
+      Site footer   We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated   Read about our commitment to reconciliation        About us     Careers at Melbourne     Safety and respect     Newsroom     Contact        Phone: 13 MELB (13 6352)  International: +61 3 9035 5511   Address:  The University of Melbourne  Grattan Street, Parkville  Victoria, 3010, Australia   View all Campus locations                  Facebook 
+
+ Share on Facebook      LinkedIn 
+
+ Share on LinkedIn      Instagram 
+
+ Share on Instagram      Twitter 
+
+ Share on Twitter                 Emergency     Terms & privacy     Accessibility     Privacy       The University of Melbourne  (Australian University): PRV12150    CRICOS number: 00116K   ABN: 84 002 705 224      
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

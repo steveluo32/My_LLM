@@ -1,0 +1,106 @@
+URL: https://pursuit.unimelb.edu.au/articles/sounds-like-science-fiction
+
+Sounds like science fiction  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+Sounds like science fiction
+
+
+
+
+
+
+
+
+
+
+
+
+Some of the technological innovations of 2017 sound more like sci-fi, but according to the brains behind a few of them, the future is still full of surprisesBy Kate Stanton, University of MelbournePublished 27 December 2017
+
+It is the work of science fiction writers to imagine future worlds and expand the scope of what we think is possible. It’s no wonder then that so much of the technology available today was first created in science fiction.Jules Verne’s 1865 novel From the Earth to the Moon tells the story of three men who use a space gun to shoot themselves to the moon. The crew on Star Trek: The Next Generation used an electronic tablet called a PADD. The Jetsons, the 1960s cartoon family, even had a little robot vacuum cleaner, not unlike today’s Roomba.Science fiction has often blurred the line between robot and human. Picture: Shutterstock“So many ideas have actually come from science fiction,” says Steven Prawer, Professor of Physics at the University of Melbourne and chief technology officer of iBIONICS, a company developing a diamond-based bionic eye.“Arthur C. Clarke talking about satellites or Jules Verne’s trip the moon – these things have been very influential in imagining what might be,” Professor Prawer says.“The job of a scientist – my job now – is to turn these ideas into reality.”Sciences & TechnologyThree ways we’re ‘making friends’ with robots Here are five ways researchers are pushing the boundaries of scientific discovery – turning science fiction into science fact.Bionic visionIn presentations on the the bionic eye, Professor Prawer, a self-described sci-fi fan, uses the story of Geordi La Forge, the blind character played by Levar Burton in Star Trek: The Next Generation.“Geordi wears a visor and that picks up all sorts of signals, from visible light to exotic particles,” Professor Prawer says. “Those signals are communicated to his brain by neural implants he has on either side of his head on his temples.“That’s what we’re trying to do, in a sense, with the bionic eye.”Originally funded through a AU$50 million research grant from the Australian Research Council, and led by Bionic Vision Australia, the bionic vision system includes a pair of special glasses that send signals or images to a device placed on the retina. The electric signals stimulate the optic nerve and communicate information to the brain.What is special about the approach used by Professor Prawer’s team is the use of diamonds to restore high acuity vision to blind patients.The bionic visions system sends electric signals that stimulate the optic nerve and communicates information to the brain. Picture: Getty ImagesDevelopment of the diamond eye has now been taken up by University of Melbourne researchers in collaboration with iBIONICS, a Canada-based company commercialising the diamond technology.The company plans to start clinical trials on patients with a common form of inherited blindness in the hope of restoring their vision to be better than the limit of legal blindness.“The immediate stage is to make devices that help people be able to see again,” Professor Prawer says. But the eye is also the gateway to the mind, and the next phase is to use such devices to better understand the brain from a scientific point of view, and to be able to ‘talk’ directly to the brain.Health & MedicineThe ethical future of bionic vision “Deciphering the code that the brain uses to store and communicate information; that is one of the great remaining mysteries of our age,” he adds.Microchip superpowersKayla Heffernan, a PhD student in the Department of Computing and Information Systems, can unlock her front door with a wave of her hand.That’s because the microchip inserted into the side of her hand has been programmed to work with the card reader lock she has installed at her house. Another microchip in the webbing between her thumb and forefinger can be scanned with a smartphone to open her website.Ms Heffernan is studying biohackers, people like her who choose to wear what she calls “insertables” – devices, such as microchips or magnets, implanted inside the body for non-medical purposes. They are using insertable technology to pay for lunch or sense faraway earthquakes.It almost sounds like a form of telekinesis, like the character ‘Eleven’ in the tele-series Stranger Things, who can control objects with her mind.But the technology is very basic, she says. It isn’t much different from the MyKi card people use on Melbourne transport, it’s just that rather than carried in your wallet it’s implanted in your hand.Some biohackers are experimenting with ways that insertable technology can make their lives more convenient. Picture: Getty Images“It’s not as fun or as sexy as it sounds,” she says. “I can open my front door. That’s not really a superpower.”Ms Heffernan is also studying public discourse about insertable technology, especially misconceptions about the ways microchips can be used, largely because people only understand them in the context of science-fiction films.She says she regularly reads online criticism from people who see microchips as a sign of some dystopian future, based on the tracking chips they have seen in Total Recall or other films.“People are just terrified and the reason that they’re terrified is sci-fi,” Ms Heffernan says.Sciences & TechnologySuperhuman abilities could lurk under your skin “They don’t understand how the technology works, so they fall back to what they’ve seen in sci-fi. They think the government’s going to microchip us and track us.”Many biohackers are experimenting with ways that insertable technology can make their lives more interesting or convenient, such as paying for a coffee with a swipe of your thumb.But Ms Heffernan says the concept has real benefits for people with disabilities or other medical conditions.“If you have severe arthritis and you cannot physically operate a key to open your door, this could change your life,” she says.Intelligent transportEngineers have yet to invent talking cars or flying taxis like the ones you might remember from Batman, Knight Rider or The Fifth Element. But in recent years, major technology companies from Tesla to Uber have promised a near-future in which driverless cars revolutionise our transportation networks.That doesn’t necessarily mean your kids won’t need driver’s licences, says Professor Majid Sarvi, the chair in Transport Engineering at the University of Melbourne.“There’s a lot of hype and hope about automated vehicles,” says Professor Sarvi. “But a lot of it needs time to be realised.”Driverless cars will be an important part of the future, but there’s further research to be done. Picture: ShutterstockProfessor Sarvi, who led a team this year that tested an autonomous mini-bus in Melbourne’s inner north, describes the technology as very useful and a great step forward “but still a long way to becoming part of our everyday life”.Creating a driverless car is one thing, but the real trick is in creating an infrastructure where driverless cars can co-exist with traditional vehicles and pedestrians.Professor Sarvi’s autonomous bus test was part of an ambitious research project, the Australian Integrated Multimodal EcoSystem (AIMES), which will collect information about a 4.5 square-kilometre section of Melbourne’s inner north over 10 years. Researchers will place sensors on traffic lights, light poles, cars and more to study ways to make transport safer, cleaner and more sustainable.Sciences & TechnologyWorking in an autonomous world Driverless cars will be an important part of the future. But the research has other immediate and short-to-medium term implications too.Professor Sarvi and his team want to help governments create an intelligent transportation system, one that connects buses, trains, trams, pedestrians and cars into an integrated network that accounts for real-time variables, such as the weather or crowds.“Today, when you’re using public transport, you don’t know how many people are going to be on the bus, whether you’re going to get a seat, whether you should walk instead,” he says.“So this will project will dig into lots of data and allow you to get the kind of information that currently is not possible.”Robots and cyborgsAssociate Professor Denny Oetomo’s work with the Melbourne Robotics Laboratory focuses mainly on humans’ physical interaction with robots, rather than the emotional or psychological human-robot relationships so often portrayed in film and television.“Sometimes, it’s hard to impress the public because they look at robots in the movies and they go, ‘What’s so fancy about this? iRobot did that 10 years ago. C3PO could do it’.”One ambition is to restore the sense of touch for people who have lost limbs. Picture: Getty ImagesProfessor Oetomo’s work on understanding the role of tactile - or touch - information in realising the highly dexterous skills we see in human hands is part of a larger, ambitious vision to restore the sense of touch to people who have lost limbs. Various University of Melbourne teams are working on the technology that can send signals – such as pressure, contact, texture or temperature – back to the brain.Another Robotics Laboratory project will see clinical therapy robots helping stroke survivors with their rehabilitation. Some stroke patients need thousands of hours worth of physical therapy that human therapists simply can’t provide, though a robot can. It also provides other previously unavailable capabilities, such as keeping pertinent information on the patient’s progress.“It’s slightly less blue sky than neuroprosthetics, which tends to capture the imagination because of the computer-brain interfacing, and people think of that as very high-tech, whereas with physiotherapy, they go, ‘Oh yeah, massages’.Sciences & TechnologyRise of the robots “But to me, this is where the real contributions are being made.”Bionic spineScience fiction has long toyed with the line between robot and machine, and with ways that technology can be used to change and augment the human body. The 1987 film RoboCop tells the story of a murdered police officer who is revived as a superhuman cyborg. In the 1970s, US television series The Six Million Dollar Man and The Bionic Woman portrayed people whose bionic implants gave them superpowers.Today, Australian researchers are working on what has been described as the “holy grail” of bionic technology.Professor David Grayden, of the Department of Biomedical Engineering, is part of a team of scientists at the University of Melbourne, Royal Melbourne Hospital, the Florey Institute for Neuroscience and Mental Health, and other partners, to develop “the bionic spine”.It’s based on a device called a Stentrode, which is a small stent with electrodes attached to it. The Stentrode can be inserted into a blood vessel next to the brain’s motor cortex and would help paralysed patients control robotic limbs with their thoughts.The Stentrode is inserted into a blood vessel next to the brain’s motor cortex. Picture: SuppliedThe Stentrode is currently being developed for its first in-human trials, while researchers are designing algorithms to decode neural signals from the brain.It’s amazing technology that could see paralysed patients walk again. But Professor Grayden says real-life bionic implants still pale in comparison to their fictional counterparts.“I think that the sci-fi genre shows what may be possible, but usually it results in people thinking that some developments will happen faster than they do and better than they do,” he says.“The Six Million Dollar Man and The Bionic Woman had super hearing, vision and strength provided by their implants. So far, bionic devices have certainly been of benefit to those who use them, but they have provided poor replacements for normal hearing, vision and strength, and they need ongoing research and development.”Banner image: The Jetsons/Hanna-Barbera
+
+
+ Republish this pageShare
+
+
+
+Featured individualsProfessor Steven PrawerDirector, Melbourne Materials Institute, Faculty of Science, University of MelbourneKayla HeffernanDepartment of Computing and Information Systems, Melbourne School of Engineering, University of MelbourneProfessor Majid SarviChair, Transport Engineering, Melbourne School of Engineering;  Program director, Transport Technologies; Professor, Transport for Smart Cities, University of Melbourne, and founder and a director of the AIMES (Australian Integrated Multimodal EcoSystem)Associate Professor Denny OetomoDepartment of Mechanical Engineering, Melbourne School of Engineering, University of MelbourneProfessor David B. GraydenDepartment of Biomedical Engineering, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Science
+
+
+
+Content Card SliderPrevious slideNext slideContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of use    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

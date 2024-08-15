@@ -4,7 +4,7 @@ from langchain.docstore.document import Document
 from components.model_initializer import chat_gpt, gemini, llama
 from components.utils import read_files, check_text_completeness
 from components.text_splitter import recursive_character_splitter, semantic_splitter
-from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, contextualcompression_retriever, \
+from components.vectorstore_retriever import faiss_vectorstore, top_k_retriever, contextualcompression_retriever, \
     ensemble_retriever_2, historical_messages_retriever, ensemble_retriever_1
 from components.question_answering_chain import create_history, execute_chain_without_memory, execute_chain_with_memory, \
     create_document_chain_answer_giving_with_memory, create_document_chain_answer_giving_without_memory
@@ -57,7 +57,7 @@ class AnswerGiver:
 
 
 def vector_store(data):
-    vectorstore = chroma_vectorstore(data)
+    vectorstore = faiss_vectorstore(data)
     return vectorstore
 
 

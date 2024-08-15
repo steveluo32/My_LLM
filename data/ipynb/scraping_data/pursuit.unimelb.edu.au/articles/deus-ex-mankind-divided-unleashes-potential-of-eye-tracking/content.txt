@@ -1,0 +1,120 @@
+URL: https://pursuit.unimelb.edu.au/articles/deus-ex-mankind-divided-unleashes-potential-of-eye-tracking
+
+Deus Ex: Mankind Divided unleashes potential of eye tracking   | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+Deus Ex: Mankind Divided unleashes potential of eye tracking 
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+The next instalment of the popular franchise shows the infinite possibilities for eye mechanics in gaming and real life By Dr Eduardo Velloso, Research Fellow, Microsoft Research Centre for Social Natural User Interfaces, University of MelbournePublished 23 August 2016
+4 min read
+Adam Jensen is a security guard whose body is fused with machines that enhance his capabilities: prosthetic arms and legs that make him stronger and faster and eyes that see at night.He’s the central figure in the Deus Ex: Mankind Divided, the highly-anticipated next instalment of the Deus Ex franchise, which brings players into the dystopian future where human augmentation is a reality.But what makes Mankind Divided unique is that it’s not only Jensen’s eyes that are augmented, but also the player’s. It makes this game one of the first big titles to support eye tracking game mechanics.In the game, players who have an eye tracker can aim with their eyes to fire or punch enemies. Looking at the edges of the screen causes the camera to pan, giving players a natural way of exploring this fantastic universe. Eye tracking also allows the game interface (e.g. health bar) to disappear into the background and only appear when players look at the corresponding area of the screen. This removal of elements that do not belong in the game world can create a more immersive gameplay experience.Mankind Divided was released in Australia on August 23.Traditionally, eye trackers have been used to monitor a player’s gaze as a way for the developers to know whether players are looking at the right things at the right times. Now they can also be used as a game controller. Previously confined to research labs, eye trackers once cost tens of thousands of dollars, but can now be purchased for a few hundred dollars. Under the bonnet, these devices are little more than a combination of infra-red LEDs and cameras, but they offer a huge potential for creating novel game experiences.Our research has been exploring exactly what these experiences can be. In October, we will present a conference paper at the Annual Symposium on Computer-Human Interaction in Play (CHI Play) where we catalogue the eye-enabled game mechanics that have been explored in industry and academia so far.We identified five big categories of mechanics.Navigation (e.g. using your eyes to determine where your character moves to)Aiming & Shooting (e.g. aiming your weapon with your eyes and shooting by clicking with the mouse)Selection & Commands (e.g. using your eyes to pick up objects in the game)Implicit Interaction (e.g. adapting the artificial intelligence of the game depending on where you look), andVisual Effects (e.g. changing how the game world looks according to how you observe it).Arts & CultureGaming more than a Space Oddity Our research also found the kinds of mechanics that take input from the eyes are evolving with time. In the beginning, due to the high cost of the eye tracking equipment, games often just used the gaze position as a substitute for the mouse.Now, we are starting to see a second wave of games, where eye tracking is an optional feature, not essential to the core gameplay, but that offer additional features to players who own an eye tracker.As eye tracking gains popularity, we expect to see a third wave of games in which the eyes play a central role in the game, with mechanics that could not have been achieved with a different body part.Eye tracking is also particularly interesting for Virtual Reality. Many eye tracking manufacturers already offer ways of incorporating their devices into current VR headsets and the upcoming FOVE VR headset will ship with eye tracking by default.Recent projects have shown how eye tracking can create a more immersive social VR experience that leverages the non-verbal communicative power of the eyes.Our eyes offer a very powerful way of interacting with the world around us. Video games offer a fantastic opportunity for exploring these possibilities, pushing the boundaries for what can be achieved with eye tracking.However, the technology has further applications beyond games. For example, our previous research has explored how gaze can enable seamless interaction with smart watches, with smart homes and for 3D design tasks.As eye tracking matures, we expect to see a wider range of devices augmented with eye tracking by default.Samsung has already demonstrated basic eye tracking capabilities in their phones and MSI has recently released a gaming laptop that ships with an integrated Tobii eye tracker. Also, the JINS MEME eye tracking glasses look just like your typical pair of Ray Bans, offering exciting opportunities for tracking the eyes throughout the day.Banner Image: Artist unknown/Wallpaperswide.com
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyComputer GamingGamingHuman-Computer InteractionVideo GamesVirtual RealityShare Link copied 
+
+
+
+Featured individualDr Eduardo VellosoSenior Lecturer, Human-Computer Interaction, School of Computing and Information Systems, Faculty of Engineering and Information Technology, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Sciences & TechnologyPrevious slideNext slideSciences & TechnologyClimate change is supercharging the world’s wildfiresA new annual global assessment of wildfires warns that climate change has increased the risk of extreme fire weather by about 20 times in some parts of the worldSciences & TechnologyThe vaccine improving the health of Australia's chickensA new vaccine is protecting one-day-old chicks from a pneumonia-like illness that costs the poultry industry millions of dollars each yearSciences & TechnologyWe now know what causes the Buruli ulcer, so what are we doing about it?Knowing that mosquitoes are involved in the transmission of the Buruli ulcer in Victoria is a breakthrough, but we need to work out what happens next to tackle the diseaseView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

@@ -1,0 +1,313 @@
+URL: https://handbook.unimelb.edu.au/subjects/info90005/
+Information Architecture (INFO90005) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information ArchitectureSubjectsHandbook
+HandbookSubjectsInformation Architecture
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Information Architecture (INFO90005)Graduate courseworkPoints: 12.5Not available in 2024You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationOverviewFeesLook up feesInformation architecture encompasses the processes for investigating and designing the interfaces for large-scale information systems. It involves planning and creating the search methods and browsing mechanisms that users will exploit to discover the information that they need. This subject will introduce a range of methods for discovering the ways in which users conceptualize the structure of the information that they are trying to navigate and discover, as well as theories on how information is organised. The subject explains how to analyse data about an information system’s use and from that analysis create concrete models of both cognitive and information behaviour. These models will be used to inform effective designs for discovery tools. Evaluation methods for testing the effectiveness of information discovery tools will also be taught. Good information architecture is the lynch-pin for modern information systems, from corporate websites to online libraries and public services. Throughout the subject, theory and practice will be closely interconnected, and design decisions will have to be justified with both empirical evidence and fundamental principles from information theory and science.Intended learning outcomesOn successful completion of this subject, students should be able to:Demonstrate through practical assessment an understanding of the different mechanisms for supporting information discoveryAbility to apply different approaches to modelling cognitive processes and information structures that are used in creating information architectures and evaluating information seekingThe ability to apply information theories to create information access tools for real-world settings The ability to evaluate an existing information discovery tool (e.g. search engine), and create improvements through evidence-based and theory-based methodsNext: Eligibility and requirementsLast updated: 2 July 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

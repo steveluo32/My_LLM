@@ -1,0 +1,425 @@
+URL: https://people.eng.unimelb.edu.au/vkostakos/covid19/
+
+
+
+
+ Covid-19 mobility and movement analysis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The University of Melbourne
+
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+
+
+
+
+
+
+        Covid-19 mobility and movement analysis
+      
+
+
+
+About
+This page contains analyses of the mobility data released by Facebook during the Covid-19 crisis.
+This analysis uses data provided by Facebook, under the Facebook Data For Good initiative. This document contains all the code necessary to repeat this analysis. However, you will need to have access to the Facebook Data For Good. More information is available here.
+
+
+Please click on a country to see the analysis.
+
+
+
+Contact: 
+Prof. Vassilis Kostakos
+University of Melbourne, Australia
+vassilis.kostakos@unimelb.edu.au
+Back to my: homepage
+
+
+
+
+
+
+Global statistics
+
+ArgentinaAustraliaBangladeshBrazilFinlandFranceGermanyGreeceIndonesiaItalyJapanMexicoNew ZealandPakistanPhilippinesPolandPortugalSingaporeSouth AfricaSouth KoreaSpainSwedenTaiwanUK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University Search
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+Current students
+
+Staff
+Alumni
+
+
+
+
+
+
+
+Faculty
+
+Faculties & graduate schools
+
+
+
+
+Location
+
+Maps
+
+
+
+
+Library
+
+Library
+
+
+
+
+Campaign
+
+Support the campaign
+
+
+
+
+Phone
+
+Contact us
+
+
+
+
+Jobs
+
+Jobs
+
+
+
+
+Follow us on:
+
+
+
+
+Facebook
+
+Facebook
+
+
+
+
+Twitter
+
+Twitter
+
+
+
+
+Linkedin
+
+LinkedIn
+
+
+
+Phone:
+13 MELB
+              
+                (13 6352)
+              
+
+International:
+
++61 3 9035 5511
+
+ABN:
+84 002 705 224
+CRICOS Provider Code:
+
+              00116K
+              
+                (visa information)
+              
+
+
+
+
+
+Emergency information
+|
+Disclaimer and copyright
+|
+Accessibility
+|
+Privacy
+
+
+
+
+
+
+
+
+
+Site Map
+
+
+
+
+Study at Melbourne
+
+
+Find a course
+
+
+Admissions, fees & applications
+
+
+International students
+
+
+Campus tour
+
+
+Connect with us
+
+
+Accommodation
+
+
+
+
+About us
+
+
+Strategy and governance
+
+
+Tradition of excellence
+
+
+International connections
+
+
+Campuses and facilities
+
+
+Structure and governance
+
+
+Policy and publications
+
+
+Careers at Melbourne
+
+
+Supplying to the University
+
+
+
+
+Contact & Maps
+
+
+Enquiries
+
+
+Media
+
+
+Find an expert
+
+
+Campus maps
+
+
+Traffic, parking & bicycles
+
+
+Find a staff member
+
+
+
+
+Alumni & friends
+
+
+Benefits & services
+
+
+Give
+
+
+Volunteer
+
+
+3010: alumni magazine
+
+
+
+
+Research
+
+
+Research institutes
+
+
+Find an expert or supervisor
+
+
+Graduate researchers
+
+
+Pursuit: our research showcase
+
+
+
+
+Engagement
+
+
+Events
+
+
+Sports facilities
+
+
+Shop
+
+
+
+
+Close panel
+
+
+
+
+We acknowledge and pay respect to the Traditional Owners of the
+            lands upon which our campuses are situated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

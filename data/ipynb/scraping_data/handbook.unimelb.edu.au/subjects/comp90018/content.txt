@@ -1,0 +1,319 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90018
+Mobile Computing Systems Programming (COMP90018) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobile Computing Systems ProgrammingSubjectsHandbook
+HandbookSubjectsMobile Computing Systems Programming
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Mobile Computing Systems Programming (COMP90018)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Andrew Irlittiandrew.irlitti@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+Mobile devices are ubiquitous nowadays. Mobile computing encompasses technologies, devices and software that enable (wireless) access to services anyplace, anytime, and anywhere. This subject will cover fundamental mobile computing techniques and technologies, and explain challenges that are unique to the design, implementation, and evaluation of mobile computing. In particular, this subject will enable students to develop mobile phone applications that take advantage of the unique sensing capabilities of mobile devices, their multi-modal interaction capabilities, and their ability to sense and respond to context.Intended learning outcomesHaving completed this unit the student is expected to:Develop a deeper understanding of mobile systems, their challenges, and their programmingBe able to develop applications for mobile devices that include the integration of sensed informationLearn to work in small effective teamsDiscuss and present new mobile research topics and technologies in oral and written formGeneric skillsOn completion of this subject students should have the following skills:
+Ability to undertake problem identification, formulation and solution
+Capacity for independent critical thought, rational inquiry and self-directed learning
+Profound respect for truth and intellectual integrity, and for the ethics of scholarship
+  Next: Eligibility and requirementsLast updated: 19 April 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

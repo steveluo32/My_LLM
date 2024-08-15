@@ -1,0 +1,330 @@
+URL: https://handbook.unimelb.edu.au/subjects/info30005
+Advanced Interface Prototyping (INFO30005) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Interface PrototypingSubjectsHandbook
+HandbookSubjectsAdvanced Interface Prototyping
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Advanced Interface Prototyping (INFO30005)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 s.webber@unimelb.edu.auOverviewAvailabilitySemester 1FeesLook up fees
+When designing for today’s devices, we still focus on smartphone and web applications. But what about the devices of tomorrow? This subject will explore design techniques and technologies for future devices, which are increasingly moving away from traditional screen-based interaction. We will consider design strategies and implications for novel technology settings, such as virtual and augmented reality, smart homes, autonomous vehicles, and voice interfaces. Students will learn to extend their current design practices to cover off-screen interaction, while also learning modern prototyping techniques to envision future interactive technologies. 
+
+
+This is a practical, project-based subject, in which students will follow an iterative design process for designing a new user experience. Lectures and workshops will offer practical tools, techniques, and processes for prototyping these experiences. 
+Intended learning outcomesOn completion of this subject the student is expected to:Apply cutting-edge tools to prototype varied styles of interactive devicesIteratively design a novel user experience that leverages novel and emerging technologiesEvaluate and communicate design ideas to relevant stakeholders Critique the opportunities and limitations of different interactive technologiesGeneric skillsOn completion of this subject, students should have developed the following generic skills:
+An ability to undertake problem identification, formulation and develop a solution
+
+The capacity for critical and independent thought and reflection
+
+An expectation of the need to undertake lifelong learning, and the capacity to do so
+
+The ability to work effectively as a member of a small team
+
+The ability to develop appropriate presentation skills 
+
+Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

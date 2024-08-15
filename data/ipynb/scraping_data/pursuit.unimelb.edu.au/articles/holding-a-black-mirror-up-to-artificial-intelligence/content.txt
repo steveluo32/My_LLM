@@ -1,0 +1,105 @@
+URL: https://pursuit.unimelb.edu.au/articles/holding-a-black-mirror-up-to-artificial-intelligence
+
+Holding a black mirror up to artificial intelligence  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+Politics & SocietyHolding a black mirror up to artificial intelligence00m 00s% buffered00:00PausePlay Link copied 
+Biometric Mirror is an interactive application that shows how you may be perceived by others. But it’s flawed and teaches us an important lesson about the ethics of AIBy Dr Niels Wouters and Professor Frank Vetere, University of MelbournePublished 23 July 2018
+5 min read
+In 2002, the sci-fi thriller Minority Report gave us a fictionalised glimpse of life in 2054. Initially, the movie evokes a perfect utopian society where artificial intelligence (AI) is blended with surveillance technology for the wellbeing of humanity.The AI supposedly prevents crime using the predictions from three precogs – these psychics visualise murders before they happen and police act on the information.WATCH: Biometric Mirror is an interactive application that shows how you may be perceived by others. Video: Sarah Fisher/University of Melbourne“The precogs are never wrong. But occasionally, they do disagree.”So says the movie’s lead scientist and these disagreements result in minority reports; accounts of alternate futures, often where the crime doesn’t actually occur. But these reports are conveniently disposed of, and as the story unfolds, innocent lives are put at stake.Ultimately, the film shows us a future where predictions are inherently unreliable and ineffective and that is worth keeping in mind as we grapple with the ongoing advances in artificial intelligence.Sciences & TechnologyThriving amid the rise of the machines Minority Report may be fiction, but the fast-evolving technology of AI isn’t. And although there are no psychics involved in the real world, the film highlights a key challenge for AI and algorithms: what if they produce false or doubtful results? And what if these results have irreversible consequences?Transparent artificial intelligenceIndustry and government authorities already maintain and analyse large collections of interrelated datasets containing personal information.For instance, insurance companies collate health data and track driving behaviours to personalise insurance fees. Law enforcement use driver’s licence photos to identify criminals and suspected criminals, and shopping centres analyse people’s facial features to better target advertising.While collecting personal information to tailor an individual service may seem harmless, these datasets are typically analysed by ‘black box’ algorithms, where the logic and justification of the predictions are opaque. Plus, it’s very difficult to know whether a prediction is based on incorrect data or data that has been collected illegally or unethically, or data that contains erroneous assumptions.Minority Report shows us a future where the predictions are inherently unreliable and ineffective. Picture: Twentieth Century FoxWhat if a traffic camera incorrectly detects you speeding and automatically triggers a licence cancellation? What if a surveillance camera mistakes a handshake for a drug deal? What if an algorithm assumes you look similar to a wanted criminal? And imagine having no control over an algorithm that wrongfully decides you’re ineligible for a university degree?Even if the underlying data is accurate, the opacity of AI processes make it difficult to redress algorithmic bias, as is found in some AI systems that are sexist, racist, or discriminate against the poor.How do you appeal against poor decisions if the underlying data or the rationale for the decision is unavailable?Sciences & TechnologyThree ways we’re ‘making friends’ with robots One response is to create explainable AI, which is part of an ongoing research progam led by University of Melbourne’s Associate Professor Tim Miller, where the underlying justification of an AI decision is explained in a manner that can be easily understood by everyone.A mirror to artificial intelligenceAnother response is to create human-computer interfaces that are open and transparent about the assumptions made by AI. Clear, open and transparent representations of AI capabilities can contribute to a broader discussion of its possible societal impacts and more informed debate about the ethical implications of human-tracking technologies.In order to stimulate this discussion, we created Biometric Mirror.Biometric Mirror is an interactive application that takes your photo and analyses it to identify your demographic and personality characteristics. These include traits such as your level of attractiveness, aggression, emotional stability and even your ‘weirdness’.The AI uses an open dataset of thousands of facial images and crowd-sourced evaluations – where a large pool of people have previously rated the perceived personality traits for each of those faces. The AI uses this dataset to compare your photo to the crowd-sourced dataset.Biometric Mirror uses an open dataset of thousands of facial images and crowd-sourced evaluations. Picture: Sarah Fisher/University of MelbourneBiometric Mirror then assesses and displays your individual personality traits. One of your traits is then chosen – say, your level of responsibility – and Biometric Mirror asks you to imagine that this information is now being shared with someone, like your insurer or future employer.Biometric Mirror can be confronting. It starkly demonstrates the possible consequences of AI and algorithmic bias, and it encourages us reflect on a landscape where government and business increasingly rely on AI to inform their decisions.Approaching ethical boundariesBusiness & EconomicsWill a robot take your job? Despite its appearance, Biometric Mirror is not a tool for psychological analysis – it only calculates the estimated public perception of personality traits based on facial appearance. So, it wouldn’t be appropriate to draw meaningful conclusions about psychological states.It is a research tool that helps us to understand how people’s attitudes change as more of their data is revealed, while a series of participant interviews go further to reveal people’s ethical, social and cultural concerns.The discussion around ethical use of AI is ongoing, but there’s an urgent need for the public to be involved in the debate about these issues. Our study aims to provoke challenging questions about the boundaries of AI. By encouraging debate about privacy and mass-surveillance, this discussion will contribute to a better understanding of the ethics that sit behind AI.Although Minority Report is just a movie, here in the real world, Biometric Mirror aims to raise awareness about the social implications of unrestricted AI – so a fictional dystopian future, doesn’t become a dark reality.Biometric Mirror is in the Eastern Resource Centre, Parkville campus until early September. A series of interviews and observations will complement the study to reveal people’s ethical, social and cultural concerns. Members of the public aged 16 and over can also take part during Science Gallery Melbourne’s exhibition, Perfection, which runs 12 September - 3 November 2018.Banner: Shutterstock
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyArtificial IntelligenceAlgorithmsEthicsHuman-Computer InteractionEngineeringShare Link copied 
+
+
+
+Featured individualsDr Niels WoutersResearch Fellow, Interaction Design Lab, School of Computing and Information Systems, Melbourne School of Engineering, University of Melbourne; Head, Research and Emerging Practice for Science Gallery MelbourneProfesor Frank VetereDirector, Microsoft Research Centre for Social Natural User Interfaces, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Politics & SocietyPrevious slideNext slidePolitics & SocietyCities must act quickly to challenge disinformation-fuelled violenceRiots and violent unrest in the UK following the murder of children in Southport demonstrates the need for city governments to act quickly against disinformationPolitics & Society‘Labor is a fair-weather friend of unionism’With various Australian elections on the horizon, it shouldn’t be a surprise Labor governments are distancing themselves from the CFMEU. It’s happened throughout their historyPolitics & SocietyIs this summer a moment of truth for France?As we head into the Paris Olympics, has the dream been compromised, even ruined, by other upheavals in France’s fevered summer?View more Politics & Society storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

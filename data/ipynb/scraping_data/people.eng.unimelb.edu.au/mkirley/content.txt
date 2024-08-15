@@ -1,0 +1,380 @@
+URL: https://people.eng.unimelb.edu.au/mkirley/
+
+Michael Kirley | University of Melbourne
+
+
+
+
+
+
+
+
+The University of Melbourne Logo
+
+
+
+
+The University of Melbourne
+
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+
+
+
+
+
+Michael Kirley
+
+
+
+
+
+			I am a Professor in the School of Computing and Information Systems and Co-Director of the Melbourne Centre for Data Science.  
+			
+ Contact details 
+
+Room 8.318, 
+ 				Melbourne Connect, 700 Swanston Street, Carlton
+ Email: mkirley@unimelb.edu.au
+
+ Research Interests 
+
+			My primary area of expertise is positioned at the intersection of artificial intelligence, machine learning and data science, with a strong emphasis on evolutionary computation.  I have made a significant contribution to research focused on the design of data-driven algorithms for optimisation and decision-making. Beyond established boundaries and discipline norms, I collaborate with both industry and university partners to find innovative solutions for complex social-technological problems.
+			
+			
+
+
+			I am an Associate Editor for the leading journal  IEEE Transactions on Evolutionary Computation.
+			
+
+ Current ARC funded projects
+
+ ARC DP240103054	(2024 - 2026). A modelling framework for designing more sustainable urban freight systems. CIs: Thompson, R., Kirley, M., Zhang. L. and Sabri, S. 
+			
+			
+				IH210100051 (2022 - 2027).  ARC Industrial Transformation Research Hub for Digital Bioprocess Development.
+
+ 5-year collaborative program, with contributions from all industry partners (cash and in kind), including  $5 million from the Australian Research Council. 
+
+					The Hub Director is Prof Sally Gras.
+					
+					 I am the lead Chief Investigator (replacement position) for the Digital Processing project with industry partner, Patheon Biologics.  
+					
+
+
+				
+IC200100009 (2021 - 2026).  ARC Industrial Transformation Training Centre in   Optimisation Technologies, Integrated Methodologies, and Applications (OPTIMA).
+
+ 5-year collaborative program, with contributions from all industry partners (cash and in kind), including $4.86 million from the Australian Research Council. 
+					
+				    The Centre Director is Prof Kate Smith-Miles.
+				
+				    I am a Chief Investigator in OPTIMA. 
+				
+
+ Previous ARC funded projects
+
+ ARC DP180101215 (2018 - 2021). A computational theory of strategic deception. CIs: Smith, W., Sonenberg, L. and Kirley, M. (PIs: Dignum, F. and Kuhn, G.)
+				
+				 ARC DP160102231 (2016 - 2019).  Co-evolution of cooperation, mindreading, and morality.  CIs: Kashima,Y.,  Kirley, M., Howes, P. and Laham, S.
+
+ ARC DP130100845 (2013 - 2016).  Co-evolutionary dynamics of cultural and social structure.  CIs: Kashima, Y.,  Robins, G. and  Kirley, M.
+
+ ARC DP0664674 (2006 - 2009).  Evolutionary algorithms for global grids.  CI: Kirley, M.
+				
+			
+ Publications 
+
+ Google Scholar
+  DBLP listing (Computer Science Bibliography) 
+  Recent arXiv papers: arXiv:2203.00868, arXiv:3461.0924, arXiv:2002.02636 
+
+				
+ PhD student supervision 
+ Current students
+
+ Hanan Alsouly. (co-supervisor Dr Mario Andres Munoz Acosta)
+ Helani Wickramaarachchilage. (co-supervisor Dr Fjalar de Haan)
+ Craig Lewis. (co-supervisors A/Prof Jen Overbeck, Prof Geoff Martin)
+ Jalal Abdolahi. (primary supervisor Dr Ellie Hajizadeh)
+ Elle Pattenden. (primary supervisor Prof Yoshi Kashima)
+ Pengyuan Ding. (primary supervisor Dr Ellie Hajizadeh)
+ Yige Song. (co-supervisors Dr Eduardo Oliveira, Dr Pauline Thompson)
+ Behzad Moradi. (co-supervisor Dr Mario Andres Munoz Acosta)
+ Paul Ou. (co-supervisor Dr Abel Armas Cervantes)
+
+ Completed students 
+
+ Dan Herring. (completed 2022).  Dynamic Multi-objective Optimisation using Evolutionary Algorithms 
+ Yuan Sun.  (completed 2018).  Algorithm selection for continuous optimization problems. 
+ Camilo Cruz Gambardella.  (completed 2018).   Evolving Pareto-optimal architectural form. 
+ Burkhard von der Osten. (completed 2017). Intelligent decision-making in coupled socio-ecological systems. 
+ Maryam Varmazyar. (completed  2014).  Response measurement damage identification using Evolutionary Algorithms. 
+ Mario Andres Munoz Acosta. (completed 2013).  Automatic selection of algorithms for continuous optimization problems.
+ Mani Abedini. (completed  2013). Towards high-dimensional classification using genetic based machine learning. 
+ Jens Pfau. (completed 2013).  Computational models of cultural dynamics.
+ Raymond Chiong. (completed 2012).  Promoting cooperation in multi-player evolutionary games.
+ Golriz Rezaei. (completed  2011).    Enhanced social learning via trust and reputation mechanism in multi-agent systems. 
+ Rob Moss. (completed 2008).    A clockwork kidney: hierarchical dynamical networks to model emergent dynamics in the kidney. 
+ Md. Rafiul Hassan. (completed 2007).  Hybrid HMM and soft computing modeling with applications to time series analysis. 
+
+ Links 
+
+ Melbourne Centre for Data Science
+ Digital Bioprocess Development Hub
+OPTIMA
+ 
+	Artificial Intelligence : CIS
+Complex Human Data Hub
+
+
+
+
+
+
+
+
+
+
+Current Students
+
+
+Staff
+
+
+Alumni
+
+
+
+
+ Faculties and Graduate Schools
+
+
+ Library
+
+
+ Contact us
+
+
+ Maps
+
+
+ Support the Campaign
+
+
+ Jobs
+
+
+We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated.
+
+
+Emergency Information
+
+
+Disclaimer & Copyright
+
+
+Accessibility
+
+
+Privacy
+
+
+
+
+ Facebook
+
+
+ Twitter
+
+
+ LinkedIn
+
+
+Phone: 13 MELB (13 6352) | International: +61 3 9035 5511
+The University of Melbourne ABN: 84 002 705 224
+CRICOS Provider Code: 00116K (visa information)
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+
+
+ Faculties and Graduate Schools
+ Current Students
+ Library
+ Contact us
+ Maps
+ Support the Campaign
+
+
+
+
+Study at Melbourne
+
+Undergraduate study
+Graduate study
+Future students
+Admissions, fees & applications
+International students
+Campus tour
+
+
+
+About us
+
+Strategy and leadership
+Tradition of excellence
+International connections
+Campuses and facilities
+Structure and governance
+Policy and publications
+Careers at Melbourne
+Newsroom
+
+
+
+Research
+
+About Research at Melbourne
+Research institutes
+Research Centres
+Find an expert or supervisor
+Graduate researchers
+Pursuit: our research showcase
+
+
+
+
+
+Engagement
+
+Events
+Community
+Global Engagement
+Business & Industry
+Arts & Culture
+Sports Facilities
+
+
+
+Alumni & friends
+
+Benefits & services
+Giving
+Get involved
+Alumni community
+3010: alumni magazine
+News
+Events
+
+
+
+Contact & Maps
+
+Contact us
+Enquiries
+Media
+Find an expert
+Campus maps
+Traffic, parking & bicycles
+Find a staff member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

@@ -1,0 +1,315 @@
+URL: https://handbook.unimelb.edu.au/subjects/info30006/
+Information Security and Privacy (INFO30006) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information Security and PrivacySubjectsHandbook
+HandbookSubjectsInformation Security and Privacy
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Information Security and Privacy (INFO30006)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Suelette Dreyfussuelette@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+Information is a valuable asset that requires protection from increasingly sophisticated and complex security threats. The ease with which information can be collected directly from individuals, or secretly through technologies, presents new challenges for protecting privacy.An effective security strategy requires understanding the risks and how a range of tools and techniques can be applied for protective purposes.In this subject, students will be exposed to a range of issues related to information privacy and security. These issues drive the need for better security tools, technologies and techniques. Students will learn foundational concepts and practical tools that illuminate how security strategy is developed and implemented. Topics include: the security threat landscape, managing security risk exposure, best practices for individual and organisational security, hands-on tools for cybersecurity, and cryptographic techniques to secure information. The subject will also explore technology-based risk to individual privacy, including experimenting with actual tools to defend privacy as well as understanding how this changing threat environment is reshaping society.The subject has a strong industry focus, a hands-on element and a high level of direct insight into industry practices.Intended learning outcomesOn completion of this subject the student is expected to:Identify a range of security and privacy issues and threats that drive the need for securityUnderstand the three security principles Confidentiality, Integrity and Availability (C, I, A) and how they relate to security threats and technologiesIdentify a range of security best practices and understand how they can be deployed in a security strategy to protect information and preserve privacyUnderstand cryptographic technologies and how they can be deployed to protect information and preserve privacyGeneric skillsAn ability to synthesise information and communicate results effectivelyAn ability to work effectively as a member of a project teamIn-depth critical and independent thinking and reflection skillsAn ability to solve problems and communicate solutions both orally and in writingNext: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

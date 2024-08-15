@@ -1,0 +1,330 @@
+URL: https://handbook.unimelb.edu.au/courses/mc-softeng
+Master of Software Engineering (MC-SOFTENG) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Master of Software EngineeringCoursesHandbook
+HandbookCoursesMaster of Software Engineering
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Master of Software Engineering (MC-SOFTENG)Masters (Coursework)Year: 2024 Delivered: On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this course OverviewEntry and participation requirementsAttributes, outcomes and skillsCourse structureMajors, minors and specialisationsContactPatanamon Thongtanunam
+patanamon.t@unimelb.edu.au
+ 
+This course is available in My Course Planner
+My Course Planner
+ OverviewAward titleMaster of Software EngineeringYear & campus2024 — ParkvilleCRICOS code106110BFees informationSubject EFTSL, level, discipline and census dateStudy level & typeGraduate CourseworkAQF level 9Credit points300 credit pointsDuration36 months full-time or 72 months part-timeThe Master of Software Engineering is an entry-to-practice degree that provides students with the necessary knowledge and skills to enter the international workplace as software engineers. Graduates are skilled in software engineering principles and have the ability to apply these skills to complex, open-ended engineering tasks and problems. The degree provides sequential study in the software engineering discipline, building on a solid foundation in mathematics and programming. Within the degree, students acquire core skills in the areas of software processes, project management, requirement analysis, design and architecture, implementation, testing, communication and teamwork. Students may also choose to undertake specialisations in business, artificial intelligence, distributed computing, cyber security and human computer interaction. The degree culminates in a capstone experience in which students will work on a software engineering project involving real-life clients. Students have the opportunity to participate in overseas study, industry-based projects and supervised research.
+Distinction
+Upon completion of the Master of Software Engineering, it is possible for a student to be awarded Master of Software Engineering with Distinction provided a student has achieved a high level of academic performance. Eligibility of the Distinction award is dependent on a calculated distinction score.
+The distinction score will only take into account Level 9 subjects undertaken at the University of Melbourne. This means Study Abroad and Exchange subjects will not be considered. One 12.5 point subject with the lowest mark will be omitted in the calculation of the distinction score. All level 9 subjects with credit points of more than 12.5 points must be included in the calculations. Only marks from the first attempt at a subject will be used. The average mark will be weighted by the credit points of the subjects. A Master of Engineering with Distinction will be awarded if the score is 80 or above.
+Hurdle Requirement
+In order to achieve the Engineering Practice Hurdle requirement, students will need to document the attainment of professional skills at an adequate level. This may include the successful completion of any of the following:
+1. Skills Towards Employment Program (STEP)
+2. ENGR90033 Internship subject
+3. CHEN90028 Industry Project subject
+4. An agreed level of internship at an approved engineering form (without receiving University credit)
+Completion of the degree will not be approved until this requirement has been met.Links to further informationThis course is available in My Course Planner
+My Course Planner is an interactive web application that allows you to explore your study options and decide which subjects and major(s), minors and/or specialisations are right for you.
+ Next: Entry and participation requirementsLast updated: 14 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

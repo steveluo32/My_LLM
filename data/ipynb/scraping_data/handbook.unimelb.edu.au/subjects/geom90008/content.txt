@@ -1,0 +1,329 @@
+URL: https://handbook.unimelb.edu.au/subjects/geom90008
+Spatial Data Management (GEOM90008) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spatial Data ManagementSubjectsHandbook
+HandbookSubjectsSpatial Data Management
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Spatial Data Management (GEOM90008)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Martin Tomko
+email: tomkom@unimelb.edu.auSemester 2 Alan Thomas
+email: alan.thomas@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesThis subject combines practical spatial data management with the underpinning theories of spatial and spatiotemporal data representation and handling from Geographic Information Science. Spatial information is answering ‘where’ and ‘when’ questions – which are fundamental in decision making in complex systems, be it in urban planning, traffic and infrastructure management, environmental management, public health and sustainability, or any other social, economic, and environmental context.
+The subject introduces foundations of effective, efficient, and large-scale spatial data management. This subject will cover the concepts, methods, and approaches that allow for efficient representation, querying, and retrieval of spatial data, in a modern ecosystem of spatial databases interfacing a geographic information system.
+The knowledge acquired is fundamental for subsequent studies in spatial data analytics and visualisation, and is of particular relevance to people wishing to establish a career in the spatial information, the environmental, or the planning industry. It is also suited for every postgraduate student who is looking for solid skills with Geographic Information Systems.
+In this subject, we will discuss the intricacies of computational representation and management of spatial information. The subject takes a spatial database perspective to management of extensive spatial datasets. The subject will cover the modelling, loading, transformation, analysis, and retrieval of spatial data in spatial databases. The subject covers data representations (vector, raster, and network data); spatial operations, including geometric, topological, set-oriented, and network operations; spatial indexes and access methods, including quadtrees and R-trees. The subject exposes the students to the whole lifecycle of spatial data management in a team-based project.Intended learning outcomesOn completion of this subject, students should be able to:Associate the value of spatial information to digital infrastructure management; Evaluate fundamental data structures and analysis procedures associated with spatial information; Apply the database design process to manage information about infrastructure data; Combine advanced skills in the design and use of a spatial database supported by a Geographic Information System on a complex infrastructure project; Demonstrate professional skills in ethics and sustainability, communication, and teamwork.Generic skillsOn successful completion, students will have:
+
+The ability to transfer domain knowledge to fundamental challenges in society 
+
+The ability to undertake problem identification, formulation, and solution
+The ability to communicate effectively, with a project team and with the community at large
+The ability to effectively manage information and documentation
+An understanding of professional and ethical responsibilities, and a commitment to them
+
+A capacity for lifelong learning and professional development.
+Next: Eligibility and requirementsLast updated: 27 May 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

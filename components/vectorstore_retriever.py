@@ -1,4 +1,4 @@
-from langchain_chroma import Chroma
+# from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain.docstore.document import Document
 from langchain_community.document_transformers import LongContextReorder
@@ -17,9 +17,9 @@ from components.question_answering_chain import contextualize_q_prompt
 from langchain_ollama import OllamaEmbeddings
 
 # https://python.langchain.com/v0.1/docs/get_started/introduction
-def chroma_vectorstore(documents):
-    vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
-    return vectorstore_db
+# def chroma_vectorstore(documents):
+#     vectorstore_db = Chroma.from_documents(documents=documents, embedding=OpenAIEmbeddings())
+#     return vectorstore_db
 
 
 def faiss_vectorstore(documents):

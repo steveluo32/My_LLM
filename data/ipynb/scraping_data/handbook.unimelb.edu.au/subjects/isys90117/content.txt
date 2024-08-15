@@ -1,0 +1,326 @@
+URL: https://handbook.unimelb.edu.au/subjects/isys90117/
+Managing Business Analytics (ISYS90117) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managing Business AnalyticsSubjectsHandbook
+HandbookSubjectsManaging Business Analytics
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Managing Business Analytics (ISYS90117)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Ofir Turel
+oturel@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up fees
+Business analytics involves the use of data to support business decision-making. Managing investments in business analytics, initiating business analytics programs, and knowing how to tailor programs and tools for specific business analytics needs are import skills in modern organizations. The course aims at teaching students about key business analytics tools and initiating and supervising business analytics programs from a managerial/consulting perspective.  
+
+
+Indicative Content 
+
+This subject introduces the concepts of business analytics, decision making, data warehouse design, data warehouse modelling, data quality, data warehouse implementation - including the extract-transform-load (ETL) process, and data warehouse use in supporting business analytics – including decision making tools and OLAP. Readings are provided for all topics that introduce real world cases on business analytics and related areas and include the use of business analytics in organisations. 
+
+
+The subject also explores how organisations gather and generate multiple forms of information, and how this information is analysed and converted into useful knowledge via individual judgement and organisational learning processes. In applying empirical and analytical approaches to practical situations, students will develop insights into both the nature of the business problems as well as methods that are used for identifying and evaluating alternative solutions. The subject content will include conceptual foundations, practical tools, and case studies to discuss the costs, benefits and risks of the various analytical methods that will be introduced. 
+
+Intended learning outcomesOn completion of this subject, students should be able to:Construct a sound knowledge of business analytics and decision making in the context of management practice of information systems in organisations Apply skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of business analytics and decision making in the real-world practice of information systems Apply skills related to business communication, interpersonal, and team skills suited to the application of business analytics and decision making in the real-world practice of information systemsDemonstrate professional codes of conduct and ethical standards as they apply to business analytics and decision making in business practiceResearch and argue disparate beliefs/theories of business analytics and decision making Generic skillsA high level of development: collaborative learning; problem solving; team work; interpretation and analysis; critical thinkingModerate level of development: oral communication; written communicationNext: Eligibility and requirementsLast updated: 2 July 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

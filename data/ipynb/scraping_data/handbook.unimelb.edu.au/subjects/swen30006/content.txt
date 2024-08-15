@@ -1,0 +1,329 @@
+URL: https://handbook.unimelb.edu.au/subjects/swen30006
+Software Modelling and Design (SWEN30006) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software Modelling and DesignSubjectsHandbook
+HandbookSubjectsSoftware Modelling and Design
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Software Modelling and Design (SWEN30006)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 patanamon.t@unimelb.edu.auSemester 2 c.chuengsatiansup@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+To construct a software system, requirements must be analysed and modelled, and designs developed and evaluated; this subject teaches knowledge and skills needed for these tasks. This includes the development of static and dynamic models for aspects of both the problem space and the solution space. The emphasis here is on an Agile approach, and on techniques appropriate for object-oriented development.
+INDICATIVE CONTENT
+Topics covered include:
+
+Analysis and modelling requirements
+Developing, modelling and evaluating designs
+Modelling using the Unified Modelling Language (UML)
+Software design processes and principles
+Common design patterns and software architectures
+Tools for design and development
+Intended learning outcomesOn completion of the subject students are expected to be able to: Apply their knowledge of modelling and design to solve computing problems Work as an Individual and in a Team, with effective communication for software engineering tasksEvaluate and apply appropriate choices of software tools in the modelling and design processEngage in Life-long Learning with respect to the evolution of software processesGeneric skillsOn completion of this subject students should have developed the following generic skills
+Ability to undertake problem identification, formulation and solution
+Proficiency in engineering design
+Ability to utilise a systems approach to design and operational performance
+ Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

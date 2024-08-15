@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/four-myths-about-insertable-tech-and-why-they-re-wrong
+
+Four myths about insertable tech and why they’re wrong  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+Four myths about insertable tech and why they’re wrong
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+ As headlines proclaim that microchips injected under the skin could allow employers to track our every move, the reality is very differentBy Kayla Heffernan, University of MelbournePublished 6 April 2017
+5 min read
+When Swedish firm Epicenter offered to inject its staff with insertable technology for free, allowing them to access things like security doors and photocopiers, the media response was to immediately speculate that employers everywhere could soon be using microchips to track employees’ “every move”.But concerns that the technology could or would be used to collect data, on your “health … whereabouts, how often you’re working, how long you’re working, if you’re taking toilet breaks”, as one report put it, is just plain false.The world’s first implantable radio frequency ID microchip for human use from 2002. Picture: Getty ImagesIt relies on misconceptions about how microchips work, often taken from science fiction, rather than the current technology being used. Our research at the University of Melbourne looks at a class of devices called “insertables” that individuals voluntarily place within their bodies, predominately for non-medical, convenience-oriented, purposes.Myth 1: microchips can track your locationThe technology behind the implants that the Epicenter staff are being offered is no different from the dongles or ID tags many employees already wear around their necks or on their belts.It is also similar to the technology inside your public transport payment card, like Myki cards in Melbourne, or Oyster cards in London – but it’s also used in Pay Wave credit card technology.These are passive devices and have no battery inside them. They have no GPS capabilities. You cannot be geo-located from your Myki card, nor can a lost pet be found remotely by pinging the microchip – you cannot be tracked from these cards.Melbourne’s public transport card, Myki. Picture: Sam Churchill/FlickrYour average smartphone with a large battery cannot last 24 hours running GPS. The technological advances needed to make an implantable GPS tracking device, along with a battery, is likely to be decades away.Myth 2: microchips can pinpoint your location inside the officeThe current range of these microchips is very short. This is because the antennas are very small, requiring the chip to be brought directly to the reader, in many cases physically touching it.The access tags and cards we habitually wear, as well as credit cards, are much more powerful as they are larger in size, and so have a much bigger antenna, which can be picked up further away from card readers. But even with these larger antennas the read ranges are quite short – for example you have to touch your credit card very close to the readers at the checkout in supermarkets.Security passes are already worn by many employees to access their office. Picture: PixabayFor an employer to track your location inside your office they would need large readers that could cover every square inch of the office. Or they could perhaps require you to walk with your hand touching the wall, so that the microchip could be picked up. They would be able to track your existing work access card or dongle much more easily than this, but even that is still unlikely given current read ranges.If your office required you to scan in and out of every room in the office, and your ID was tied back to you personally, and someone analysed that data, they could determine which rooms you accessed – whether it’s wearable cards or insertable technology.However, it’s unlikely that your employer would want to pay for this overhead. And this is not the case at Epicenter. I’ve spoken to Hannes Sjob who runs the program at the company in Stockholm who confirmed they do not require staff to swipe to access the bathroom facilities.Myth 3: microchips can track what you are doing, and if you are workingThese microchips are passive, they do not have the ability to record any data.Additionally, they have no sensors to measure any statistics, health or otherwise, to infer if you are working or what you are doing. Much medical research is ongoing into nanotechnologies to develop smaller sensors for diagnosis and treatment of diseases, for example glucose monitoring in diabetes, however they too are plagued with power challenges.It is possible that medical sensors may be made small enough in the future to be inserted.Myth 4: microchips can track health dataSciences & TechnologySuperhuman abilities could lurk under your skin As above, the microchips used at Epicenter have no sensors and cannot track health data.But it is possible to a small extent. As part of our research we have had two participants using bio-therm chips which can give a body temperature reading. The chips, however, are only capable of giving this data off when interrogated with the reader. They have no data storage to record measurements over time and cannot transmit this information.Another participant tracked his body temperature using a deck-of-cards sized avant-garde device that he developed himself. This device included a large battery and used Bluetooth to communicate this data to his cell phone every 30 seconds. This proof-of-concept device shows that measuring body temperature from within the body is possible, however until battery improvements are made it is not commercially viable.Even if we did eventually break these technological barriers, existing microchips in Epicenter staff would never be able to do this — you’d have to upgrade to a new chip.So what can these microchips be used for?Our research has found that individuals are using devices for convenience-driven purposes such as access and authentication, and to share and store data.Health & MedicineBreaking the skin barrier The chips are used to unlock homes, workplaces, cars, motorcycles, phones and computers. Some use the microchips to launch items on their Near Field Communications or NFC-compatible smartphones, either for themselves (apps they use frequently) or to share information with others – for example websites and contact information.As one participant, who used his microchip to launch GPS coordinates, put it: “It made everything easier, I didn’t have to type things in or interact with the interfaces, I just had to run my hand over my phone and I was on my way.”So although the headlines may tell us that insertables are the beginning of the end in terms of Big Brother-style mandated surveillance, this is purely science fiction.Ill-informed, Hollywood-inspired commentary is what keeps this technology immature and the public fearful of progress. Ethical considerations with new and existing technologies should be defined – but this cannot happen until logical, fact-based debates take place.Banner Image: Getty Images
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyHuman-Computer InteractionImplantWearable TechnologySurveillanceHealth DataShare Link copied 
+
+
+
+Featured individualsKayla HeffernanDepartment of Computing and Information Systems, Melbourne School of Engineering, University of MelbourneProfesor Frank VetereDirector, Microsoft Research Centre for Social Natural User Interfaces, Melbourne School of Engineering, University of MelbourneAssociate Professor Shanton ChangAssociate Dean International, School of Computing and Information Systems, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Sciences & TechnologyPrevious slideNext slideSciences & TechnologyClimate change is supercharging the world’s wildfiresA new annual global assessment of wildfires warns that climate change has increased the risk of extreme fire weather by about 20 times in some parts of the worldSciences & TechnologyThe vaccine improving the health of Australia's chickensA new vaccine is protecting one-day-old chicks from a pneumonia-like illness that costs the poultry industry millions of dollars each yearSciences & TechnologyWe now know what causes the Buruli ulcer, so what are we doing about it?Knowing that mosquitoes are involved in the transmission of the Buruli ulcer in Victoria is a breakthrough, but we need to work out what happens next to tackle the diseaseView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

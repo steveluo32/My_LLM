@@ -1,0 +1,335 @@
+URL: https://handbook.unimelb.edu.au/2023/subjects/comp10001
+Foundations of Computing (COMP10001) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foundations of ComputingSubjectsHandbook
+HandbookSubjectsFoundations of Computing
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Foundations of Computing (COMP10001)Undergraduate level 1Points: 12.5On Campus (Parkville) and Dual-Delivery (Parkville)You’re viewing the 2023 Handbook: 20242023202220212020201920182017Or view archived HandbooksYou’re currently viewing the 2023 version of this subjectUndergraduate programs will be delivered on campus. Graduate programs will mainly be delivered on campus, with dual-delivery and online options available to a select number of subjects within some programs.To learn more, visit 2023 Course and subject delivery.View full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable(opens in new window)Contact informationSummer Term Ekaterina Vylomova
+Email: ekaterina.vylomova@unimelb.edu.au
+ Semester 1 Chris Ewin
+comp10001-lecturers@lists.unimelb.edu.auSemester 2 Professor Chris Leckie
+caleckie@unimelb.edu.auOverviewAvailabilitySummer Term - Dual-DeliverySemester 1 - On CampusSemester 2 - On CampusFeesLook up feesAIMS
+Solving problems in areas such as business, biology, physics, chemistry, engineering, humanities, and social sciences often requires manipulating, analysing, and visualising data through computer programming. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills.
+This subject is the first subject in the Computing & Software Systems and the Informatics majors, and introduces students to programming and the basics of algorithmic thinking.
+INDICATIVE CONTENT
+Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving, testing and debugging; introduction to the Web, multimedia and visualisation.
+Examples of projects that students complete are:
+
+A text analytics “library” consisting of a series of independent functions to calculate/extract different things given a document/document collection as input
+A video recommender system, broken down into a series of functions
+An AI player for an online card game, designed such that students play off against each other (and against the class) at the end of semester
+
+Please view this video for further information: Foundations of ComputingIntended learning outcomesOn Completion of this subject,the student is expected to:Use the fundamental programming constructs (sequence, alternation, selection)Use the fundamental data structures (arrays, records, lists, associative arrays)Use abstraction constructs such as functionsUnderstand and employ some basic program structuresUnderstand and employ some basic algorithmic problem-solving techniquesRead, write, and debug simple, small programsGeneric skillsOn completion of this subject, students should have developed the following generic skills:
+An ability to apply knowledge of basic science and engineering fundamentals
+An ability to undertake problem identification, formulation and solution
+The capacity to solve problems, including the collection and evaluation of information
+The capacity for critical and independent thought and reflection
+An expectation of the need to undertake lifelong learning, and the capacity to do so
+   Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

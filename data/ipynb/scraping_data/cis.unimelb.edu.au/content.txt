@@ -1,0 +1,967 @@
+URL: https://cis.unimelb.edu.au
+
+
+
+
+
+School of Computing and Information Systems, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+School of Computing and Information Systems
+
+
+
+
+
+Search
+
+Menu
+
+
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+School of Computing and Information Systems
+Faculty of Engineering and Information Technology
+
+
+
+
+ResearchEngage with usStudyPeopleSchoolsAboutNews and events
+
+
+
+The School of Computing and Information Systems is an international research leader in computer science, information systems and software engineering. We are focused on delivering impact in the following key areas:
+
+
+
+
+Research themes
+
+
+
+
+Artificial intelligence
+Our researchers address many different approaches to AI, encompassing deep learning, data mining, machine learning, natural language processing, and agent-based systems.
+
+
+
+
+
+
+Computer science
+Current areas of excellence include programming languages, algorithms, distributed computing, and cybersecurity and cryptography.
+
+
+
+
+
+
+Human-Computer Interaction
+We study, teach and are fascinated by issues arising from humans interacting with emerging technologies.
+
+
+
+
+
+
+Information systems
+The study of the interplay between information technology, its users (people), and the operations (business processes) through which this technology is used.
+
+
+
+
+
+
+Research centres
+
+
+
+
+Academic Centre of Cyber Security Excellence (ACCSE)
+Our research capability is focused on key challenges, including detecting attacks in large, complex systems, using formal methods to design platforms that are resilient to attack, designing robust controllers for critical infrastructure, and providing a legal framework for the governance of cyber operations that span a range of jurisdictions.
+
+
+
+
+
+
+ARC ITTC in Optimisation Technologies, Integrated Methodologies and Applications (OPTIMA)
+Training a new generation of industry practitioners and young researchers to build a highly skilled workforce, vanguarding the uptake of advanced optimisation technologies to support industrial transformation.
+
+
+
+
+
+
+ARC Training Centre in Cognitive Computing for Medical Technologies
+The Centre is aimed at creating a workforce that is expert in developing, applying and interrogating artificial intelligence applications in data-intensive medical contexts, to facilitate the next generation of data-driven and machine learning-based medical technologies.
+
+
+
+
+
+
+Centre for Artificial Intelligence and Digital Ethics (CAIDE)
+Facilitating cross-disciplinary research, teaching and leadership on the ethical, regulatory and legal issues relating to Artificial Intelligence (AI) and digital technologies.
+
+
+
+
+
+
+Centre for Digital Transformation of Health
+Health informatics and digital health are a recurring theme within all the School’s research areas. We specialise in health data analytics; personal technologies; and IT systems processes and management.
+
+
+
+
+
+
+Centre for Research Excellence in Digital Technology to Transform Chronic Disease Outcomes
+We leverage the ubiquitous availability of smart devices and digital technology to improve the health and wellbeing of the population, particularly those with different chronic conditions.
+
+
+
+
+
+
+Melbourne Centre for Data Science (MCDS)
+At the Melbourne Centre for Data Science, we are forging a vibrant, research rich and engaging interdisciplinary environment to lead advances in data science for the benefit of society.
+
+
+
+
+
+
+ARC Digital Bioprocess Development Hub
+The ARC Digital Bioprocess Development Hub will address key bioprocessing research challenges and develop new process and digital models that can predict and optimise manufacturing processes, resulting in greater yields, faster and more flexible processes and enhanced product stability.
+
+
+
+
+Research projects
+
+
+
+
+
+ 
+
+The School of Computing and Information Systems (CIS) is committed to sharing knowledge and expertise across our diverse community of schools, alumni, industry and government.
+
+
+For more than half a century, CIS at the University of Melbourne has pioneered the way information and computing systems are used and have fundamentally changed human life.Bringing together our passionate and talented people and state-of-the-art facilities, we work with our community partners to explore fundamental research to create solutions for real-world and specific problems.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+CIS in the community
+Our research has featured extensively across the community, answering questions and solving problems that affect us all.From digital health technologies to robotic mining equipment, our academics and students continue to examine how and why computing is at the forefront of worldwide enhancements environmentally, technically and societally.
+Browse CIS research
+
+
+
+
+
+Partnering with industryEveryone at CIS continues to push the boundaries and exceed expectations of what's possible in the ever-evolving digital landscape. However when we're able to partner with industry leaders, we are extremely fortunate to work together to bring our ideas and research to the wider community and make real-world change possible. Two key partnerships CIS has is with Cremorne Digital Hub and Airwallex.
+
+
+
+
+Cremorne Digital Hub
+Cremorne Digital Hub brings together industry, academia and technology to generate pathways for innovation, opportunity and growth in the digital economy.
+
+
+
+
+
+
+Airwallex and University of Melbourne collaboration
+Airwallex, a global financial technology company, has embarked on a pivotal partnership with the University of Melbourne.
+
+
+
+
+Interested in collaborating on our research?We encourage the big thinkers and innovative contributors across all industries to get in touch, as we continue making important and positive societal advancements with our partners.Connect with us today
+
+
+
+Student engagement and internshipsWe recognise the value of a curriculum guided by industry, to reflect the needs and requirements of the wider community. To amplify this initiative, CIS invites all members of industry to be part of and work with the incredible emerging talents in computing.
+
+
+Host a student intern
+Host a student within your organisation, to assist with a specific project or to preview potential future graduate employees.
+Learn more
+
+
+
+
+Mentor our students
+Mentor a group of students on a regular basis, providing them with advice and guidance in your area of expertise.
+Learn more
+
+
+
+
+Collaborate on student projects
+Engage our Masters students to work on a technical project of relevance to your organisation.
+Learn more
+
+
+
+
+Become a guest speaker
+Share your organisation's real-world knowledge with our students.
+Learn more
+
+
+
+
+
+
+ 
+
+Our alumni
+We are proud of the impact the CIS alumni continues to have in shaping the innovation and elevation of the world's digital landscape.Our talented alumni is an integral part of the Faculty of Engineering and Information Technology's (FEIT) alumni cohort, and provides our graduates with a lifelong connection to the CIS community.
+Visit the alumni hub
+
+
+
+
+
+
+
+
+
+
+The school of CIS offers undergraduate, graduate, and research courses in computer science, information systems, and information technology. Information about our courses, including support for current students, can be found at the links below.
+
+
+
+
+
+
+
+
+First Year Centre
+The First Year Centre, located in Level 3 of Melbourne Connect, is a space for first year CIS students to study, socialise, and receive academic support for their CIS subjects.
+
+
+
+
+
+
+Undergraduate programs
+The school of CIS offers undergraduate majors through both the Bachelor of Science and Bachelor of Design. These include Computing and Software Systems, Spatial Systems, Data Science, and User Experience Design.
+
+
+
+
+
+
+Graduate programs
+A wide range of CIS courses are offered at the master's level. Many of these are purely coursework-based, and some involve significant research components. Entry requirements vary between degrees, with some not requiring completion of an undergraduate major in IT.
+
+
+
+
+
+
+Industry based learning
+A unique opportunity to practise technical skills in a real-life work environment, supported by a dedicated workplace and an industry supervisor. Gain practical experience to enhance your employment prospects and networking opportunities.
+
+
+
+
+
+All staff and research student listing
+
+LeadershipProf Uwe AickelinHead of SchoolA/Prof Jenny WaycottDeputy Head, ResearchProf Adrian PearceDeputy Head, EngagementA/Prof Antonette MendozaDeputy Head, AcademicAnnaliese McPharlinOperations ManagerProf Frank VetereSchool Executive MemberProf Reeva LedermanSchool Executive MemberProf Ben RubinsteinSchool Executive MemberA/Prof Olya OhrimenkoSchool Executive MemberProf Ofir TurelSchool Executive MemberProf Shanika KarunasekeraSchool Executive MemberA/Prof Toby MurraySchool Executive MemberDr Wafa JohalSchool Executive MemberDr Kris EhingerSchool Executive MemberProf Wally SmithSchool Executive MemberSchool email 
+
+Email: cis-admin@unimelb.edu.auProgram coordinators Given name Family nameProgramProfileEmailGreg
+         Wadley
+         BDesign (Digital Technologies),  BDesign (User Experience Design)Profile 
+      greg.wadley@unimelb.edu.au
+         Chris 
+      
+         Ewin 
+      
+         BScience (Computing and Software Systems) 
+      Profilecewin@unimelb.edu.au
+         Sarah 
+      
+         Monazam Erfani 
+      
+         Graduate Research Coordinator (Current Students) 
+      Profile
+sarah.erfani@unimelb.edu.auMartinGibbsGraduate Research Coordinator (Current Students)Profilemartin.gibbs@unimelb.edu.au
+        Simon
+      
+        D'Alfonso
+      
+        Graduate Research Coordinator (Current Students)
+      Profiledalfonso@unimelb.edu.au
+         Jianzhong 
+      
+         Qi 
+      
+         Graduate Research Coordinator (Future Students) 
+      Profile
+jianzhong.qi@unimelb.edu.au
+         Ling 
+      
+         Luo 
+      
+         Master of Computer Science, GCert (Computer Science), GDip (Computer Science) & Diploma of Computing / Informatics 
+      Profile
+ling.luo@unimelb.edu.auJeanHonorio
+         Master of Data Science 
+      Profile
+jean.honorio@unimelb.edu.au
+        Libo
+      
+        Liu
+      
+         Master of Information Systems 
+      Profile
+libo.liu@unimelb.edu.au
+         Artem 
+      
+         Polyvyanyy 
+      
+         Master of Information Technology 
+      Profile
+artem.polyvyanyy@unimelb.edu.au
+         Patanamon 
+      
+         Thongtanunam 
+      
+         Master of Software Engineering 
+      Profile
+patanamon.t@unimelb.edu.au
+
+
+
+
+
+Secondary school activitiesInformation on IT activities for high school students is available on the Faculty of Engineering and Information Technology website:
+
+
+
+
+Girl Power in Engineering and IT
+A program for female year 9–12 students. It begins with an on-campus camp and offers mentoring, hands on activities, and work experience. For girls interested in science, technology, engineering, and mathematics.
+
+
+
+
+
+
+Girls’ Programming Network
+Introduce your female students to computer programming with our interactive workshops as part of the Girls’ Programming Network, held on campus.
+
+
+
+
+
+
+Hands On Engineering and IT
+Introduce your Year 10 students to engineering and technology concepts and issues through our one day workshops, offering those with an interest in mathematics, science and technology the opportunity to visit campus and learn through interactive activities.
+
+
+
+
+
+
+National Computer Science School (NCSS) Summer School 
+The National Computer Science School (NCSS) is a ten-day summer school that brings together talented young people from around Australia for an intensive course of computer programming and website development at university.
+
+
+
+
+
+
+
+About the School
+
+
+
+
+About the School
+Computing and Information Systems at the University of Melbourne has been part of the technology revolution for more than fifty years, and is an international leader in both teaching and research.
+
+
+
+
+
+
+The history of computing at the University of Melbourne
+Academic computing has a long history at the University of Melbourne, beginning in 1956 with CSIRAC, the first computer in the country.
+
+
+
+
+
+
+Alumni profiles
+Our alumni work around the world in a diversity of industries and roles. View profiles of some of our recent graduates.
+
+
+
+
+
+
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+Information for prospective casual staff on how to apply for work.
+
+
+
+Join us at CIS
+
+
+
+News and events
+
+
+
+
+
+
+
+Lawyers must adapt to the age of digitalisation
+
+                            Controversial facial recognition technology highlights the need for in-house lawyers who are trained in the legal risks of emerging technologies.
+
+
+                                06 Jul 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+Is sentience really the debate to have?
+
+                            While debate over the alleged sentience of the LaMDA chatbot continues, there are bigger questions about AI’s overall lack of transparency.
+
+
+                                16 Jun 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+New cryptocurrency subject and research opportunities launched with industry partner
+
+                            CIS has partnered with the Algorand Foundation to develop a first-of-its-kind subject in blockchain and cryptocurrency technologies for Masters’ students.
+
+
+                                07 Jun 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+CIS & EEE Seed Funding
+
+                            The School of Computing and Information Systems and the Department of Electrical and Electronic Engineering are calling for applications for a 2022 seed funding round.
+
+
+                                30 May 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+Mapping Climate Policy
+
+                            At the Melbourne Centre for Data Science and Melbourne Climate Futures, we are using data science to try to better understand the climate policy landscape in Australia.
+
+
+                                04 May 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+Prof Justin Zobel inducted into the SIGIR Academy
+
+                            Prof. Justin Zobel has been inducted into the ACM SIGIR Academy.
+
+
+                                04 Mar 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+Technodystopia: Are we heading towards a real-world Blade Runner?
+
+                            In 1982, Blade Runner floored audiences with its technodystopian depiction of the future. Almost 40 years on, some of these projections seem eerily accurate.
+
+
+                                21 Feb 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+Joint Statement on Rankings in Computer Science
+
+                            ACRA Australian Computing Research Alliance Joint Statement on Rankings in Computer Science
+
+
+                                16 Feb 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+How data can prevent overdiagnosis
+
+                            The increasing use of digital technologies in medical screening may lead to a rise in overdiagnosis that could be prevented by a new focus on patient data.
+
+
+                                22 Jan 2022
+                            
+News
+
+
+
+
+
+
+
+
+
+We need to rethink how we manage deathcare
+
+                            Australia’s deathcare system is already showing cracks, but the pressures will only worsen, especially as the baby boomer generation takes us into ‘peak death’
+
+
+                                14 Jan 2022
+                            
+News
+
+
+
+
+Show more
+
+
+Older news2022 2021 2020 2019
+
+
+
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+
+
+Staff only: FEIT Intranet
+
+
+
+      Site footer   We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated   Read about our commitment to reconciliation        About us     Careers at Melbourne     Safety and respect     Newsroom     Contact        Phone: 13 MELB (13 6352)  International: +61 3 9035 5511   Address:  The University of Melbourne  Grattan Street, Parkville  Victoria, 3010, Australia   View all Campus locations                  Facebook 
+
+ Share on Facebook      LinkedIn 
+
+ Share on LinkedIn      Instagram 
+
+ Share on Instagram      Twitter 
+
+ Share on Twitter                 Emergency     Terms & privacy     Accessibility     Privacy       The University of Melbourne  (Australian University): PRV12150    CRICOS number: 00116K   ABN: 84 002 705 224      
+
+CloseSchool of Computing and Information Systems
+About usAbout us
+About the SchoolAbout the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computerCSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of MelbourneThe history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral ColloquiumCIS Doctoral Colloquium
+2024 CIS Doctoral Colloquium2024 CIS Doctoral Colloquium
+Submission Guidelines
+2023 CIS Doctoral Colloquium2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Engage with the School of Computing and Information SystemsEngage with the School of Computing and Information Systems
+Research collaborationResearch collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Student industry projects
+Become a guest speaker
+Cremorne Digital Hub
+NewsNews
+2022 news and events2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+ResearchResearch
+Artificial intelligenceArtificial intelligence
+Graduate Reseachers
+Computer scienceComputer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with usStudy with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year CentreFirst Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programsGraduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy LabAI and Autonomy Lab
+News
+People
+Publications
+ResearchResearch
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance LabArtificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer InteractionHuman-Computer Interaction
+FacilitiesFacilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+PeoplePeople
+Staff
+Graduate researchers
+Alumni
+ProjectsProjects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+ResearchResearch
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human-Robot Interaction
+SeminarsSeminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+StudyStudy
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systemsInformation systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

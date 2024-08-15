@@ -1,0 +1,331 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90042
+Natural Language Processing (COMP90042) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Natural Language ProcessingSubjectsHandbook
+HandbookSubjectsNatural Language Processing
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Natural Language Processing (COMP90042)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Jey Han Lau
+laujh@unimelb.edu.auOverviewAvailabilitySemester 1FeesLook up feesAIMS
+Much of the world's knowledge is stored in the form of text, and accordingly, understanding and harnessing knowledge from text are key challenges. In this subject, students will learn computational methods for working with text, in the form of natural language understanding, and language generation. Students will develop an understanding of the main algorithms used in natural language processing, for use in a diverse range of applications including machine translation, text mining, sentiment analysis, and question answering. The programming language used is Python.
+INDICATIVE CONTENT
+Topics covered may include:
+
+Text classification and unsupervised topic discovery
+Vector space models for natural language semantics
+Structured prediction for tagging
+Syntax models for parsing of sentences and documents
+N-gram language modelling
+Automatic translation, and multilingual methods
+Relation extraction and coreference resolution
+Intended learning outcomesOn completion of this subject the student is expected to:Identify basic challenges associated with the computational modelling of natural languageUnderstand and articulate the mathematical and/or algorithmic basis of common techniques used in natural language processingImplement relevant techniques and/or interface with existing librariesCarry out end-to-end research experiments, including evaluation with text corpora as well as presentation and interpretation of resultsCritically analyse and assess text-processing systems and communicate criticisms constructivelyGeneric skillsOn completing this subject, students should have the following skills:
+Formulate and implement algorithmic solutions to computational problems, with reference to the research literature
+Apply a systems approach to complex problems, and design for operational efficiency
+Design, implement and test programs for small and medium size problems in the Python programming language
+ Next: Eligibility and requirementsLast updated: 31 January 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

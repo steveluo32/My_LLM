@@ -4,8 +4,8 @@ from components.utils import find_key_by_value_content, load_text, load_content_
     load_pdf, get_all_file_paths, load_word_document, check_text_completeness
 from components.model_initializer import chat_gpt, gemini, llama
 from components.text_splitter import split_document_by_newline, recursive_character_splitter
-from components.vectorstore_retriever import chroma_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
-from components.question_answering_chain import create_document_chain_document_retrieval, create_history, \
+from components.vectorstore_retriever import faiss_vectorstore, top_k_retriever, ensemble_retriever_2, bm25_retriever
+from components.question_answering_chain import  create_document_chain_document_retrieval, create_history, \
     execute_chain_without_memory, execute_chain_with_memory, create_document_chain_answer_giving_with_memory, \
     create_document_chain_answer_giving_without_memory
 from components.vectorstore_retriever import historical_messages_retriever
@@ -61,7 +61,7 @@ def load_data(path):
 
 
 def vector_store(data):
-    vectorstore = chroma_vectorstore(data)
+    vectorstore = faiss_vectorstore(data)
     return vectorstore
 
 

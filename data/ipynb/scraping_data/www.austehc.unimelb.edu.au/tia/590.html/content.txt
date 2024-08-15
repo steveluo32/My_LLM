@@ -1,0 +1,97 @@
+URL: http://www.austehc.unimelb.edu.au/tia/590.html
+
+Technology in Australia 1788-1988, Chapter 8, page 590
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page 590
+Technology in Australia 1788-1988
+
+
+
+
+
+Table of Contents
+
+Chapter 8
+I Part 1: Communications
+II Epilogue
+III Part 2: Early Australian Computers And Computing
+i Instruments and calculators
+ii The transition to the computer, 1945 to 1951
+iii The first computers, 1951 to 1956
+iv Concentration on large-scale systems, 1958 to 1963
+v Software and microelectronics, after 1965
+vi Industry, education and the computing fraternity
+IV Acknowledgements
+
+References
+
+Index
+
+Search
+
+Help
+
+
+Contact us
+
+
+
+
+
+The first computers, 1951 to 1956 (continued)
+
+        Technically, the SILLIAC operated in parallel mode, 40 bits at a time with 20-bit instructions, at rates an order or two faster than the CSIRO Mk 1. It used a variant of the CRT secondary emission store invented by F. C. Williams in Manchester. Input and output was via standard 5 hole paper tape with off-line printing of output. Courses of study in computing and programming with the SILLIAC were held regularly and many now in the computing profession were introduced to the field through the SILLIAC. Later, it was augmented by the addition of three magnetic tape drives and electronics designed by B. E. Swire and funded by Sir Adolph Basser. It continued in active use for 12 years when it was de-commissioned in May 1968. By that time most of its work had been taken over by an English Electric KDF9. Between 1966 and 1968, the SILLIAC was used as a resource sharing network to spool printer output from the KDF9; a third machine in the network was a CDC 1700, which provided an interface for a number of keyboards using the KDF9 in a multiprogramming mode. A PDP8/338 graphics computer and an IBM 1401 (for data transfer to industry standard magnetic tapes) were subsequently added to the network (Rowsell, G. B., 1978). The engineering design of this network was carried out by C. S. Wallace, with the assistance of R. Cullen and B. G. Rowswell.
+        
+        
+
+        Concurrently with the start of the SILLIAC project the Director (later Vice-Chancellor) of the New South Wales University of Technology (later the University of New South Wales), J. P. Baxter, who was also Chairman of the Australian Atomic Energy Commission, received in August 1954, a grant of £125,000 from the NSW State Government to support nuclear research. A fast computer was needed for solving problems in reactor design and other matters. The machine selected was the English Electric Company's commercial design based upon Turing's original plans for the ACE at NPL, Teddington, UK. It was appropriately called the DUECE and was a serial, 32-bit word (and instruction) delay storage machine equipped with synchronous magnetic drum secondary storage of 8192 words.
+        
+        
+
+        Some engineering modifications were made to the machine (which was named UTECOM) before installation in the new University Computing Centre, headed by R. Smart. The Centre was formally opened by the Premier of NSW, the Hon. J. J. Cahill, on 11 September 1956. Because of its complex instruction structure the machine was more difficult to program than the SILLIAC or the Mk 1, and, unlike the SILLIAC, tended to be operated on a closed shop basis. Also, whereas the SILLIAC and the Mk 1 used paper tapes for input and output, it used punched cards. It remained in effective service for 10 years until 1966 when it was replaced by an IBM 360/50.
+        
+        
+
+        Possibly as a result of the Myers recommendation and Jaeger's move to ANU, CSIRO proposed as early as 1954 to transfer the Mk 1 to the University of Melbourne, where there was no plan for a computing facility comparable with the SILLIAC or UTECOM. It was 1956 before final acceptance by the University and of the CSIRAC Computing Laboratory there under T. M. Cherry, with its operations managed by F. Hirst. The Laboratory was formally opened by the Chairman of the CSIRO, Sir Ian Clunies-Ross, on 14 June 1956 and the machine was named the CSIRAC, and could thus still be considered the first in Australia! G. W. Hill, who had worked on program development of the Mk 1, moved to the Division of Mathematical Statistics (DMS), seconded to the CSIRAC Laboratory. Pearcey moved back to the Telecommunications Research Establishment (TRE), Gt. Malvern, UK, to work on a fast parallel CRT store machine, TREAC. Both continued to work in different ways on design of problem oriented languages and translating programs. Pearcey returned to Australia early in 1959 as a member of the DMS at the CSIRAC Laboratory. The CSIRAC continued to be used intensively on University research, by CSIRO, government departments, etc. until it was de-commissioned on 24 November 1964, when it was replaced by an IBM 7074/1401 combination. It was presented to the Science Museum of Victoria in toto and is now on loan to the Chisholm Institute of Technology, where it is on display. Before the CSIRAC was moved programming research on it indicated the possible importance to future machine designs of cheap fixed content storage (Pearcey, T., Hill, G. W. and Ryan, R. D., 1954).
+        
+        
+
+Organisations in Australian Science at Work - Chisholm Institute of Technology; Science Museum of Victoria; University of New South Wales. University Computing Centre
+People in Bright Sparcs - Basser, Sir Adolph; Baxter, J. P.; Cherry, T. M; Clunies-Ross, Sir Ian; Cullen, R.; Hill, G. W.; Hirst, F; Ovenstone, John Allen; Pearcey, T; Rowsell, B. G.; Ryan, R. D.; Smart, R.; Swire, B. E.; Wallace, C. S.
+
+
+
+
+Australian Academy of Technological Sciences and Engineering
+
+
+
+© 1988 Print Edition page 619, Online Edition 2000Published by Australian Science and Technology Heritage Centre, using the Web Academic Resource Publisherhttp://www.austehc.unimelb.edu.au/tia/590.html
+
+
+
+
+====================================================================================================
+

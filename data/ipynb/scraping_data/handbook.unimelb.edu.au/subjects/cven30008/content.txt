@@ -1,0 +1,316 @@
+URL: https://handbook.unimelb.edu.au/subjects/cven30008
+Engineering Risk Management (CVEN30008) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Engineering Risk ManagementSubjectsHandbook
+HandbookSubjectsEngineering Risk Management
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Engineering Risk Management (CVEN30008)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Professor Lihai Zhang
+email: lihzhang@unimelb.edu.auOverviewAvailabilitySemester 1FeesLook up feesAIMS  This subject will focus on how risk analysis and management principles and techniques can be applied to engineering projects. The subject introduces a range of risk analysis techniques, which are put in the context of engineering projects and analysed using the framework of the risk standard (AS ISO 31000:2018). Risk is a fundamental concept that is applied to every engineering project, whether it is ascertaining the risk of health impacts of water treatment processes, prevention of loss of life by flood mitigation projects, or catastrophic losses caused by the failure of structure in earthquakes or storms. The subject is of particular relevance to students wishing to establish a career in Engineering management, but is also of relevance to a range of engineering design disciplines where design for the total life cycle of the product or infrastructure should be considered.  INDICATIVE CONTENT  Topics covered include: an introduction to the history of engineering failures; the forms of risk and risk identification; project risk analysis; the sociological implications of acceptable risk; approaches to risk management, monitoring for compliance, risk perception and design implications. 
+ Intended learning outcomesOn completion of this subject the student is expected to:ILO1 - Identify information sources and risks for engineering projects ILO2 - Classify risk in terms of their severity and likelihood ILO3 - Develop a plan for managing risks and opportunities by implementing AS ISO 31000:2018 risk management standards  ILO4 - Conduct comprehensive risk analysis using statistical methods, engineering reliability analysis and advanced simulation techniques, such as Monte Carlo simulation and machine learning, to predict the occurrence of failures of engineering projects ILO5 - Implement risk management techniques for compliance in sustainable operation ILO6 - Apply advanced engineering reliability and digital engineering techniques for maintaining the sustainability of critical infrastructuresGeneric skills Ability to apply knowledge of science and engineering fundamentals 	Ability to undertake problem identification, formulation, and solution 	Understanding of social, cultural, global, and environmental responsibilities and the need to employ principles of sustainable development 	Ability to utilise a systems approach to complex problems and to design and operational performance Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member Ability to communicate effectively, with the engineering team and with the community at large.Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

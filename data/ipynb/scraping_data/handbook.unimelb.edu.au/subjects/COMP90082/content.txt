@@ -1,0 +1,317 @@
+URL: https://handbook.unimelb.edu.au/subjects/COMP90082
+Software Project (COMP90082) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software ProjectSubjectsHandbook
+HandbookSubjectsSoftware Project
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Software Project (COMP90082)Graduate courseworkPoints: 25On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Eduardo Araujo Oliveira
+eduardo.oliveira@unimelb.edu.auSemester 2 lucy.sparrow@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+This subject gives students in the Master of Information Technology experience in analysing, designing, implementing, managing and delivering a software project related to their stream of IT speciality. The aim of the subject is to guide students in being an independent member working within a team over the major phases of IT development, giving hands-on practical application of the topics seen throughout their degree. The subject also gives students a concrete understanding of teamwork processes and tools that underpin the practical aspects of developing software.
+INDICATIVE CONTENT
+Students will work in small teams to conceive, analyse, design, implement, test, and maintain a software product for a group of stakeholders. Workshops are tied closely to the projects and the particular phases of each project and will explore the application of theory to the project, including topics on: requirements analysis, software design, software release, communication, ethical principles, and software project management tools. Students will be required to demonstrate independence while working as part of a team.Intended learning outcomesOn completion of this project, the student is expected to:Design, implement, validate, release, and maintain a software product in their stream of speciality that achieves specific project goals using a repeatable processIndependently research and evaluate technologies for specific problems as part of IT projectsWork with stakeholders to develop IT systems to meet their needs while applying ethical principles and proceduresIntegrate the knowledge gained in other subjects in designing and building applications for a real-world problemDemonstrate effective teamwork and communication skills, including communicating technical outcomes to non‐technical stakeholders and using contemporary professional toolsGeneric skillsHave the ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team memberBe able to undertake problem identification, formulation and solutionHave a capacity for independent critical thought, rational inquiry and self-directed learningHave a profound respect for truth and intellectual integrity, and for the ethics of scholarshipNext: Eligibility and requirementsLast updated: 11 June 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

@@ -1,0 +1,334 @@
+URL: https://people.eng.unimelb.edu.au/tcohn/
+
+
+
+
+
+
+
+    
+       · Trevor Cohn
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Trevor Cohn
+    
+Publications
+Teaching
+Team
+
+
+
+
+
+
+
+
+
+Trevor Cohn
+Professor 
+	      
+		Level 4, Melbourne Connect 
+	      
+
+
+Computing and Information Systems
+The University of Melbourne
+Natural Language Processing group
+
+
+
+
+ Email
+	
+
+ Ph: +61383441732 
+
+
+
+
+  Understanding of human language by computers has been a central goal of
+  Artificial Intelligence since its beginnings, with massive potential to
+  improve communication, provide better information access and automate basic
+  human tasks. My research focuses on technologies for automatic processing of
+  human language, with several applications including automatic translation.
+  My core focus is on probabilistic machine learning modelling
+  of language applications, particularly handling uncertain
+  or partly observed data and structured prediction problems.
+
+News
+
+April 2023-: I now work for Google Research Australia in Sydney. This is a dual appointment, however the majority of my time is at Google, and I will not be taking on new students nor teaching etc.
+October 2022: Thinh Truong awarded AACL award for best paper runner-up
+July 2022: Nitika Mathur awarded CORE dissertation award
+February 2022: Appointed Director of the ITTC on medtech, taking over from Tim Baldwin
+July 2020: Nitika Mathur was awarded a best paper at ACL 2020 (honorable mention), for Tangled Up in BLEU - Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics
+October 2019: I am travelling to Hong Kong for EMNLP, to present two papers in the main conference and two workshop papers.
+September 2019: I will serve as PC chair for EMNLP 2020, alongside Yang Liu and Yulan He.
+July 2019: The group has papers at ICML, WWW, NAACL, ICASSP and ACL (x3).
+July 2018: We hosted ACL 2018 in Melbourne, with Tim Baldwin, Karin Verspoor and myself serving as the local chairs.
+
+Recent Papers
+
+
+      Jun Wang, Qiongkai Xu, Xuanli He, Benjamin Rubinstein and Trevor Cohn
+      (2024).
+      
+Backdoor Attacks on Multilingual Machine Translation.
+      
+      In
+      
+          NAACL 2024.
+        
+      
+      
+
+      Thinh Truong, Yulia Otmakhova, Trevor Cohn, Karin Verspoor and Timothy Baldwin
+      (2024).
+      
+Revisiting subword tokenization: A case study on affixal negation in large language models.
+      
+      In
+      
+          NAACL 2024.
+        
+      
+      
+
+
+
+      Thinh Truong, Timothy Baldwin, Karin Verspoor and Trevor Cohn
+      (2023).
+      
+Language models are not naysayers: an analysis of language models on negation benchmarks.
+      
+      In
+      
+          *SEM@ACL 2023.
+        
+      
+      
+
+      Chunhua Liu, Trevor Cohn and Lea Frermann
+      (2023).
+      
+Seeking Clozure: Robust Hypernym extraction from BERT with Anchored Prompts.
+      
+      In
+      
+          *SEM@ACL 2023.
+        
+      
+      
+
+      Zhuohan Xie, Trevor Cohn and Jey Lau
+      (2023).
+      
+The Next Chapter: A Study of Large Language Models in Storytelling.
+      
+      In
+      
+          INLG 2023.
+        
+      
+      
+
+      Xudong Han, Timothy Baldwin and Trevor Cohn
+      (2023).
+      
+Everybody Needs Good Neighbours: An Unsupervised Locality-based Method for Bias Mitigation.
+      
+      In
+      
+          ICLR 2023.
+        
+      
+      
+
+      Zhuohan Xie, Miao Li, Trevor Cohn and Jey Lau
+      (2023).
+      
+DeltaScore: Fine-Grained Story Evaluation with Perturbations.
+      
+      In
+      
+          EMNLP.
+        
+      
+      
+
+      Fan Jiang, Qiongkai Xu, Tom Drummond and Trevor Cohn
+      (2023).
+      
+Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval.
+      
+      In
+      
+          EMNLP.
+        
+      
+      
+
+      Fan Jiang, Tom Drummond and Trevor Cohn
+      (2023).
+      
+Noisy Self-Training with Synthetic Queries for Dense Retrieval.
+      
+      In
+      
+          EMNLP.
+        
+      
+      
+
+      Xuanli He, Qiongkai Xu, Jun Wang, Benjamin Rubinstein and Trevor Cohn
+      (2023).
+      
+Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation.
+      
+      In
+      
+          EMNLP 2023.
+        
+      
+      
+
+      Biaoyan Fang, Trevor Cohn, Timothy Baldwin and Lea Frermann
+      (2023).
+      
+More than Votes? Voting and Language based Partisanship in the US Supreme Court.
+      
+      In
+      
+          EMNLP.
+        
+      
+      
+
+      Qiongkai Xu, Trevor Cohn and Olga Ohrimenko
+      (2023).
+      
+Fingerprint Attack: Client De-Anonymization in Federated Learning.
+      
+      In
+      
+          ECAI 2023.
+        
+      
+      
+
+      Viktoria Schram, Daniel Beck and Trevor Cohn
+      (2023).
+      
+Performance Prediction via Bayesian Matrix Factorisation for Multilingual Natural Language Processing Tasks.
+      
+      In
+      
+          EACL 2023.
+        
+      
+      
+
+      Shima Khanehzar, Trevor Cohn, Gosia Mikolajczak and Lea Frermann
+      (2023).
+      
+Probing Power by Prompting: Harnessing Pre-trained Language Models for Power Connotation Framing.
+      
+      In
+      
+          EACL 2023.
+        
+      
+      
+
+      Fan Jiang, Tom Drummond and Trevor Cohn
+      (2023).
+      
+Don't Mess with Mister-in-Between: Improved Negative Search for Knowledge Graph Completion.
+      
+      In
+      
+          EACL 2023.
+        
+      
+      
+
+      Xudong Han, Timothy Baldwin and Trevor Cohn
+      (2023).
+      
+Fair Enough: Standardizing Evaluation and Model Selection for Fairness Research in NLP.
+      
+      In
+      
+          EACL 2023.
+        
+      
+      
+
+      Terry Zhuo, Qiongkai Xu, Xuanli He and Trevor Cohn
+      (2023).
+      
+Rethinking Round-Trip Translation for Machine Translation Evaluation.
+      
+      In
+      
+          ACL.
+        
+      
+      
+
+      Qin Zhang, Shangsi Chen, Dongkuan Xu, Qingqing Cao, Xiaojun Chen, Trevor Cohn and Meng Fang
+      (2023).
+      
+A Survey for Efficient Open Domain Question Answering.
+      
+      In
+      
+          ACL 2023.
+        
+      
+      
+
+      Zheng Lim, Trevor Cohn, Charles Kemp and Ekaterina Vylomova
+      (2023).
+      
+Predicting Human Translation Difficulty Using Automatic Word Alignment.
+      
+      In
+      
+          ACL.
+        
+      
+      
+
+      Sayantan Dasgupta, Trevor Cohn and Timothy Baldwin
+      (2023).
+      
+Cost-effective Distillation of Large Language Models.
+      
+      In
+      
+          ACL.
+        
+      
+      
+
+
+
+
+====================================================================================================
+

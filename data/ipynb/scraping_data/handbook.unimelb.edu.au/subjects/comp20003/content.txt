@@ -1,0 +1,329 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp20003/
+Algorithms and Data Structures (COMP20003) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithms and Data StructuresSubjectsHandbook
+HandbookSubjectsAlgorithms and Data Structures
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Algorithms and Data Structures (COMP20003)Undergraduate level 2Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Nir Lipovetzkynir.lipovetzky@unimelb.edu.auLars Kuliklkulik@unimelb.edu.au
+ OverviewAvailabilitySemester 2FeesLook up feesAIMS
+Programmers can choose between several representations of data. These will have different strengths and weaknesses, and each will require its own set of algorithms. Students will be introduced to the most frequently used data structures and their associated algorithms. The emphasis will be on justification of algorithm correctness, on analysis of algorithm performance, and on choosing the right data structure for the problem at hand. Leading up to an exam with a programming component, quality implementation of algorithms and data structures is emphasized.
+This subject, or its cognate COMP20007 Design of Algorithms, is a prerequisite for many 300-level subjects in the Computing and Software Systems major.
+ 
+INDICATIVE CONTENT
+Topics include: justification of algorithm correctness; asymptotic and empirical analysis of algorithm performance; algorithms for sorting and searching, including fundamental data structures such as trees and hash tables; and graph algorithms.
+Please view this video for further information: Algorithms and Data StructuresIntended learning outcomesOn completion of this subject the student is expected to:Present arguments for the correctness or incorrectness of a given algorithmReason about and evaluate the efficiency behaviour of a given algorithmChoose appropriate data structures and algorithms for a given problemImplement the chosen data structures and algorithms.Generic skillsOn completion of this subject, students should have developed the following skills:
+Application of knowledge of basic science and engineering fundamentals
+Effective communication about computational efficiency
+Capacity to reason and solve problems
+Ability to undertake problem identification, formulation and solution
+Programming competency
+Capacity for creativity and innovation
+Profound respect for truth and intellectual integrity, and for the ethics of scholarship.
+  Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

@@ -1,0 +1,323 @@
+URL: https://handbook.unimelb.edu.au/subjects/geom90007
+Information Visualisation (GEOM90007) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information VisualisationSubjectsHandbook
+HandbookSubjectsInformation Visualisation
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Information Visualisation (GEOM90007)Graduate courseworkPoints: 12.5OnlineYou’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Davood Shojaei
+shojaeid@unimelb.edu.auOverviewAvailabilitySemester 2 - OnlineFeesLook up fees
+Information visualisation is about using and designing effective mechanisms for presenting and exploring the patterns embedded in large and complex data sets, and to support decision making. Information Visualisation is important in a range of domains dealing with voluminous data rich in structure, among them, prominently, data in the spatial domain or data referenced to the spatial domain. Through its focus on presentation and interaction with spatial information, this subject complements related subjects that deal with the storage and querying of data (such as GEOM90008 Spatial Data Management), and the processing of data (such as GEOM90006 Spatial Data Analytics). This subject is vital for anyone wishing to work with large datasets. It will also be of relevance to those with an interest in design, especially graphical and interaction design. 
+
+
+The subject will cover: Fundamentals of information visualisation and data graphics; visual thinking, human sensing and perception; foundations of data graphics and cartography; graphical user interface design; human computer interaction and human centred design. The lectures are also supported with several labs to develop student experience in this domain.  
+
+
+In the labs, some tools such as Tableau and R libraries will be used to create a wide range of spatial and non-spatial visualisations in order to present data and discover patterns. These tools will also be used to create interactivity on visualisations. In addition, different visualisation types will be discussed and critiqued for different purposes. These will empower you to visualise various data sets in an appropriate form based on identified communication needs. 
+Intended learning outcomesOn completion of this subject the student will be able to: ILO 1. Apply the cognitive and technical principles of information visualisation across various domains ILO 2. Critically evaluate the designs of data graphics, maps, and user interfaces for spatial and non-spatial information visualisation;ILO 3.  Develop various types of visualisation platforms in order to analyse big data sets  Generic skillsOn successful completion of this subject students should have the: 	Ability to apply knowledge of science and engineering fundamentals 	Ability to undertake problem identification, formulation, and solution 	Ability to communicate effectively, with the engineering team and with the community at large Capacity for creativity and innovation 	Understanding of professional and ethical responsibilities, and commitment to them.Next: Eligibility and requirementsLast updated: 31 January 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

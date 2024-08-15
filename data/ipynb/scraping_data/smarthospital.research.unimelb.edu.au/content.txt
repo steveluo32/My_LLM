@@ -1,0 +1,683 @@
+URL: https://smarthospital.research.unimelb.edu.au/
+
+
+
+
+
+
+
+
+Smart Hospital Living Lab | University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+
+
+
+
+
+
+Smart Hospital Living Lab
+
+
+
+
+
+
+
+
+
+
+							Home
+						
+
+ProjectsPartnersPublicationsContact 
+
+
+The Smart Hospital Living Lab is an umbrella program involving multiple technology projects at the University of Melbourne in partnership with hospitals and industry. The main purpose of the lab is to improve how hospitals run. We strive to turn ideas into practical applications through quick prototyping and iteration. The lab develops technology with two objectives:
+Improve hospital safety
+Improve the safety of hospital operations, e.g. by reducing medication errors.
+Improve hospital logistics
+Improves the logistics and operations of hospitals, e.g. through improved patient tracking.
+
+The lab is based in the School of Computing at the University of Melbourne. Our technological expertise that spans three key aspects of ubiquitous computing and human-centred design:
+
+
+Interactive Systems: Development of interactive systems through software and hardware development.
+Intelligent Sensing: Use of sensors, machine learning, and actuators, to develop systems that react intelligently to human behaviour.
+Real-world deployments: Expertise with real-world deployments in hospitals and “in-the-wild” settings.
+
+
+
+In a Living Lab, an iterative process is followed to identify and solve problems.
+A key characteristic of our work is that we adopt a “Living Lab” approach. This means that the work is closely situated in hospitals, where we are embedded with the stakeholders and ultimate users of our work. Additionally, we work with stakeholders to clearly identify the problem that we seek to solve, and following an exploration process we then prototype, deploy, and evaluate the technology in its intended environment. This cycle of activities repeats continuously, each time improving some aspect of the technology we are developing.
+
+ProjectsFind out about the range of projects taking place in our living lab.Click HerePartnersSee the partners who are members of the the Smart Hospital Living Lab.Click hereContactGet in touch with us for more information, and for research & educational opportunities.Click here
+
+
+
+
+
+Reliable Operating Theatre
+Tracking staff and patients in the operating theatres, to ensure surgeries start on time. This project uses low-engergy beacons handed out to staff and patients.
+ 
+
+
+Smart Pillbox
+Developing a pillbox that uses spectroscopy to identify which pills are placed on it. This project aims to reduce medication errors.
+ 
+
+
+Prosthesis Fitting and Fabrication
+Innovating the process of prosthesis fabrication using 3D scanning and printing technologies to reduce fabrication time and costs, and enhance patient care.
+ 
+
+
+Smart IV Line
+Development of 3D-printed clamp for IV lines. Using spectroscopy, it verifies in real-time the liquids inside the IV line. This project aims to reduce medication errors.
+ 
+
+
+Handwash Monitoring
+Developing sensing technologies that can monitor how well people wash their hands, and whether they wash their hands at the right time.
+ 
+
+
+Augmented Surgery
+Using augmented reality to improve the experience of surgeons during operations, and particularly to enhance the education of trainee surgeons.
+ 
+
+
+Predicting Emergency Admissions
+Improving our ability to predict how many people visit a hospital’s Emergency Department, based on contextual and environmental factors.
+ 
+
+
+Smartphones for Science
+Developing smartphone software to monitor patients’ behaviour and lifestyle in and out of the hospital.
+ 
+
+
+Proactive smart speakers
+Developing proactive smart speakers for chronic disease management.
+ 
+
+
+
+The partners of the Smart Hospital Living Lab include:
+
+ 
+Since 2020, the Smart Hospital Living Lab is part of the NHMRC Centre for Research Excellence in
+Digital Technology to Transform Chronic Disease Outcomes.
+
+
+
+
+
+
+
+Weiwei Jiang, Zhanna Sarsenbayeva, Niels van Berkel, Chaofan Wang, Difeng Yu, Jing Wei, Jorge Goncalves, Vassilis Kostakos. 2021. “User Trust in Assisted Decision-Making Using Miniaturized Near-Infrared Spectroscopy”, Proc. Conference on Human Factors in Computing Systems (CHI), article 153, 16 pages. [Acceptance rate: 26%][Ranking: A*]
+[pdf] [doi]
+Yunke Zhang, Fengli Xu, Tong Li, Vassilis Kostakos, Pan Hui, Yong Li. 2021. “Passive Health Monitoring Using Large Scale Mobility Data”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 5, no. 1, article 49, 23 pages. [Ranking: A*]
+[pdf] [doi]
+Gabriele Marini, Benjamin Tag, Jorge Goncalves, Eduardo Velloso, Raja Jurdak, Daniel Capurro, Clare McCarthy, William Shearer, Vassilis Kostakos. 2020. “Measuring Mobility and Room Occupancy in Clinical Settings: System Development and Implementation”, JMIR mHealth and uHealth, vol. 8, no. 10, article e19874, 17 pages. [Impact factor: 4.773]
+[pdf] [doi]
+Yitong Chen, Niels van Berkel, Chu Luo, Zhanna Sarsenbayeva, Vassilis Kostakos. 2020. “Application of miniaturized near-infrared spectroscopy in pharmaceutical identification”, Smart Health, vol. 18, pp. 100126:1-100126:16. [Impact factor: 1.4] [pdf][doi]
+J. Wei, T. Dingler, E. Gong, B. Oldenburg, V. Kostakos. 2020. “Proactive Smart Speakers for Chronic Disease Management: Challenges and Opportunities”, Proc. Conference on Human Factors in Computing Systems extended abstracts (CHI EA), pp. 1-6. [pdf] [doi]
+O. Amft, J. Favela, S. Intille, M. Musolesi, V. Kostakos. 2020. “Personalized Pervasive Health”, IEEE Pervasive Computing, vol. 19, no. 3, pp. 11-13. [Impact factor: 4.418] [Ranking: A] [pdf] [doi]
+B. Tag, T. Dingler, A. W. Vargo, V. Kostakos. 2020. “Inferring Circadian Rhythms of Cognitive Performance in Everyday Life”, IEEE Pervasive Computing, vol. 19, no. 3, pp. 14-23. [Impact factor: 4.418] [Ranking: A] [pdf] [doi]
+D. Hettiachchi, Zhanna Sarsenbayeva, Fraser Allison, N. van Berkel, Tilman Dingler, G. Marini, V. Kostakos, J. Goncalves. 2020. ““Hi! I Am the Crowd Tasker” Crowdsourcing through Digital Voice Assistants”, Proc. Conference on Human Factors in Computing Systems (CHI), pp. 1-14. [Acceptance rate: 24%] [Ranking: A*] [pdf] [doi]
+Zhanna Sarsenbayeva, G. Marini, N. van Berkel, C. Luo, W. Jiang, Kangning Yang, G. Wadley, Tilman Dingler, V. Kostakos, J. Goncalves. 2020. “Does Smartphone Use Drive Our Emotions or Vice Versa? A Causal Analysis”, Proc. Conference on Human Factors in Computing Systems (CHI), pp. 1-15. [Acceptance rate: 24%] [Ranking: A*] [pdf] [doi]
+Chaofan Wang, Zhanna Sarsenbayeva, Xiuge Chen, Tilman Dingler, J. Goncalves, V. Kostakos. 2020. “Accurate Measurement of Handwash Quality Using Sensor Armbands: Instrument Validation Study”, JMIR mHealth and uHealth, vol. 8, no. 3, pp. e17001. [Impact factor: 4.313] [pdf] [doi]
+C. Luo, J. Goncalves, E. Velloso, V. Kostakos. 2020. “A Survey of Context Simulation for Testing Mobile Context-Aware Applications”, ACM Computing Surveys, vol. 53, no. 1, pp. 21:1-21:39. [Impact factor: 7.790] [Ranking: A*] [pdf] [doi]
+Kshitij Sharma, Evangelos Niforatos, Michail Giannakos, Vassilis Kostakos. 2020. “Assessing Cognitive Performance Using Physiological and Facial Features: Generalizing across Contexts”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 4, no. 3, pp. 95:1-95:41. [Ranking: A*] [pdf] [doi]
+Michail N. Giannakos, Sofia Papavlasopoulou, V. Kostakos, Ilias Pappas, Kshitij Sharma. 2020. “Fitbit for Learning: Towards capturing the learning experience using wearable sensing”, International Journal of Human-Computer Studies. [Impact factor: 3.163] [Ranking: A] [pdf] [doi]
+W. Jiang, G. Marini, N. van Berkel, Zhanna Sarsenbayeva, Zheyu Tan, C. Luo, Xin He, Tilman Dingler, J. Goncalves, Yoshihiro Kawahara, V. Kostakos. 2019. “Probing Sucrose Contents in Everyday Drinks Using Miniaturized Near-Infrared Spectroscopy Scanners”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 3, no. 4, pp. 136:1-136:25. [Ranking: A*] [pdf] [doi]
+V. Kostakos. 2019. “Honey, I Shrunk the Spectrometer!”, AWE International. [pdf]
+G. Marini, J. Goncalves, E. Velloso, Raja Jurdak, V Kostakos. 2019. “Towards context-free Semantic Localisation”, Proc. International Joint Conference on Pervasive and Ubiquitous Computing Adjunct (UbiComp Adjunct), pp. 584-591. [pdf] [doi]
+Chaofan Wang, Z. Sarsenbayeva, C. Luo, J. Goncalves, V Kostakos. 2019. “Improving Wearable Sensor Data Quality Using Context Markers”, Proc. International Joint Conference on Pervasive and Ubiquitous Computing Adjunct (UbiComp Adjunct), pp. 598-601. [pdf] [doi]
+V. Kostakos. 2019. “What pill is that? Cheap and easy pill testing could soon be in your own hands”, The Conversation. [pdf]
+C. Luo, J. Goncalves, E. Velloso, V. Kostakos. 2019. “Using AI to make your smartphone smarter”, Pursuit. [pdf]
+Z. Sarsenbayeva, N. van Berkel, D. Hettiachchi, W. Jiang, T. Dingler, E. Velloso, V Kostakos, J. Goncalves. 2019. “Measuring the Effects of Stress on Mobile Interaction”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 3, no. 1, pp. 24:1-24:18. [Ranking: A*] [pdf] [doi]
+N. van Berkel, J. Goncalves, Peter Koval, S. Hosio, T. Dingler, D. Ferreira, V Kostakos. 2019. “Context-Informed Scheduling and Analysis: Improving Accuracy of Mobile Self-Reports”, Proc. Conference on Human Factors in Computing Systems (CHI), pp. 51:1-51:12. [Acceptance rate: 24%] [Ranking: A*] [pdf] [doi]
+N. van Berkel, J. Goncalves, L. Lovén, D. Ferreira, S. Hosio, V. Kostakos. 2019. “Effect Of Experience Sampling Schedules On Response Rate And Recall Accuracy Of Objective Self-Reports”, International Journal of Human-Computer Studies, vol. 125, pp. 118-128. [Impact factor: 3.163] [Ranking: A] [pdf] [doi]
+S. Hosio, J. Karppinen, E.-P. Takala, J. Takatalo, J. Goncalves, N. van Berkel, S. Konomi, V. Kostakos. 2018. “Crowdsourcing Treatments for Low Back Pain”, Proc. Conference on Human Factors in Computing Systems (CHI), pp. 276:1-276:12. [Acceptance rate: 26%] [Ranking: A*] [pdf] [doi]
+W. Jiang, G. Marini, N. van Berkel, Z. Sarsenbayeva, C. Luo, X. He, T. Dingler, Y. Kawahara, V. Kostakos. 2018. “A Mobile Scanner for Probing Liquid Samples in Everyday Settings”, Proc. International Joint Conference on Pervasive and Ubiquitous Computing Adjunct (UbiComp Adjunct), ACM, pp. 1172-1177. [pdf] [doi]
+A. Visuri, K. O. Asare, E. Kuosmanen, Y. Nishiyama, D. Ferreira, Z. Sarsenbayeva, J. Goncalves, N. van Berkel, G. Wadley, V. Kostakos, S. Clinch, O. Matthews, S. Harper, A. Jenkins, S. Snow, m. c. Schraefel. 2018. “Ubiquitous Mobile Sensing: Behaviour, Mood, and Environment”, Proc. International Joint Conference on Pervasive and Ubiquitous Computing Adjunct (UbiComp Adjunct), ACM, pp. 1140-1143. [pdf] [doi]
+S. Klakegg, J. Goncalves, A. Visuri, C. Luo, A. Popov, N. van Berkel, Z. Sarsenbayeva, V. Kostakos, S. Hosio, S. Savage, A. Bykov, I. Meglinski, D. Ferreira. 2018. “Assisted Medication Management in Elderly Care Using Miniaturised Near-Infrared Spectroscopy”, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 2, no. 2, pp. 69:1-69:24. [Ranking: A*. Distinguished Paper Award] [pdf] [doi]
+
+ 
+ 
+
+
+ 
+
+
+
+Faculty members
+
+
+
+Prof. Vassilis Kostakos, Computing & Information Systems
+University of Melbourne
+
+
+Dr. Jorge Goncalves, Computing & Information Systems
+University of Melbourne
+
+
+Dr. Eduardo Velloso, Computing & Information Systems
+University of Melbourne
+
+
+Dr. Tilman Dingler, Computing & Information Systems
+University of Melbourne
+
+
+Dr. Simon D’Alfonso, Computing & Information Systems
+University of Melbourne
+
+
+Prof. Peter Brooks, Director of Research
+Northern Health
+
+
+Dr. Bill Shearer, Executive Director of Quality Safety and Transformation
+Northern Health
+
+
+A/Prof Craig Aboltins, Director or Infectious Diseases
+Northern Health
+
+
+Anthony Gust, Director of Knowledge Management
+Northern Health
+
+
+Prof. Fiona Newall, Director of Nursing Research
+Royal Children’s Hospital
+
+
+Dr Amy Gray, Director of Medical Education
+Royal Children’s Hospital
+
+
+Prof. Andrew Davidson, Medical Director, MCTC
+Murdoch Children’s Research Institute
+
+
+A/Prof. Andrew Bucknill, Head of Orthopaedics
+The Royal Melbourne Hospital
+
+
+Dr. David Love, Orthopaedic Surgeon
+The Royal Melbourne Hospital
+
+
+
+
+
+
+Researchers
+
+
+
+Gabriele Marini, Computing & Information Systems
+University of Melbourne
+
+
+Jing Wei, Computing & Information Systems
+University of Melbourne
+
+
+Zhanna Sarsenbayeva, Computing & Information Systems
+University of Melbourne
+
+
+Danula Hettiachchi, Computing & Information Systems
+University of Melbourne
+
+
+Senuri Wijenayake, Computing & Information Systems
+University of Melbourne
+
+
+Weiwei Jiang, Computing & Information Systems
+University of Melbourne
+
+
+
+ 
+
+
+Main Contact
+Professor Vassilis Kostakos
+Email
+vassilis.kostakos@unimelb.edu.au
+Phone
+ +61 3903 58966 
+Address
+Room 9.03, Doug McDonell Building 168
+School of Computing & Information Systems
+University of Melbourne
+VIC-3010 Parkville, Australia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University Search
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+Current students
+
+Staff
+Alumni
+
+
+
+
+
+
+
+Faculty
+
+Faculties & graduate schools
+
+
+
+
+Location
+
+Maps
+
+
+
+
+Library
+
+Library
+
+
+
+
+Campaign
+
+Support the campaign
+
+
+
+
+Phone
+
+Contact us
+
+
+
+
+Jobs
+
+Jobs
+
+
+
+
+Follow us on:
+
+
+
+
+Facebook
+
+Facebook
+
+
+
+
+Twitter
+
+Twitter
+
+
+
+
+Linkedin
+
+LinkedIn
+
+
+
+Phone:
+13 MELB
+              
+                (13 6352)
+              
+
+International:
+
++61 3 9035 5511
+
+ABN:
+84 002 705 224
+CRICOS Provider Code:
+
+              00116K
+              
+                (visa information)
+              
+
+
+
+
+
+Emergency information
+|
+Disclaimer and copyright
+|
+Accessibility
+|
+Privacy
+
+
+
+
+
+
+
+
+
+Site Map
+
+
+
+
+Study at Melbourne
+
+
+Find a course
+
+
+Admissions, fees & applications
+
+
+International students
+
+
+Campus tour
+
+
+Connect with us
+
+
+Accommodation
+
+
+
+
+About us
+
+
+Strategy and governance
+
+
+Tradition of excellence
+
+
+International connections
+
+
+Campuses and facilities
+
+
+Structure and governance
+
+
+Policy and publications
+
+
+Careers at Melbourne
+
+
+Supplying to the University
+
+
+
+
+Contact & Maps
+
+
+Enquiries
+
+
+Media
+
+
+Find an expert
+
+
+Campus maps
+
+
+Traffic, parking & bicycles
+
+
+Find a staff member
+
+
+
+
+Alumni & friends
+
+
+Benefits & services
+
+
+Give
+
+
+Volunteer
+
+
+3010: alumni magazine
+
+
+
+
+Research
+
+
+Research institutes
+
+
+Find an expert or supervisor
+
+
+Graduate researchers
+
+
+Pursuit: our research showcase
+
+
+
+
+Engagement
+
+
+Events
+
+
+Sports facilities
+
+
+Shop
+
+
+
+
+Close panel
+
+
+
+
+We acknowledge and pay respect to the Traditional Owners of the
+            lands upon which our campuses are situated.
+
+
+
+
+
+
+
+
+CloseSmart Hospital Living Lab
+Projects
+Partners
+Publications
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

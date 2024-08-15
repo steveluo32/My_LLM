@@ -1,0 +1,318 @@
+URL: https://handbook.unimelb.edu.au/subjects/mast30034
+Applied Data Science (MAST30034) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applied Data ScienceSubjectsHandbook
+HandbookSubjectsApplied Data Science
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Applied Data Science (MAST30034)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 mingming.gong@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+This capstone subject for the Data Science major combines statistical reasoning and practical computing skills to solve challenging problems with big data.
+INDICATIVE CONTENT
+Students will learn about communication of quantitative information and insights; presentation skills; report writing; project management; problem formulation using case studies; data collection and measurement protocols; data from surveys and experiments; issues in capturing and dealing with “big data”; dimension reduction; data visualisation; fitting formulated models to data to infer insightful information about populations; ethics in quantitative research; working effectively in teams.Intended learning outcomesOn completion of this subject students should be able to extract useful information from large data sets. In particular they should be able to:Display data in a manner that highlights its principal structuresFormulate problems presented to them according to data science principlesOrganise and structure data for the purposes of analysis, particularly "big data"Fit and refine modelsUnderstand the dynamics of working in a teamCommunicate effectively with team members and non-technical subject matter expertsHarness the collective skills in a team to achieve an efficient outcomeApply sound ethical principles to ethical issues that arise in data scienceInterpret the results of analysis and communicate insights effectively
+ Generic skillsIn addition to learning specific statistical and computational skills, in this subject you will have the opportunity to develop generic skills that will assist you in your future career. You will develop communication, co-operation and problem solving skills (especially through the group assignment), such as how to come up with relevant strategies to solve unfamiliar problems. You will develop skills in working as a team, and you will develop analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms.Next: Eligibility and requirementsLast updated: 31 January 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

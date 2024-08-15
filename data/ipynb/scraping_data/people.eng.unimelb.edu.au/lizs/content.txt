@@ -1,0 +1,2537 @@
+URL: https://people.eng.unimelb.edu.au/lizs/
+
+
+
+
+
+
+
+
+Liz Sonenberg
+
+
+
+
+
+
+
+
+
+ 
+Liz Sonenberg
+
+ 
+
+Contact
+·        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Postal address:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+Professor Liz Sonenberg 
+School of Computing
+            and Information Systems
+The University of
+            Melbourne 
+          Parkville 3010, Australia 
+
+          Note: news about the University can be found at https://about.unimelb.edu.au/newsroom;
+          research stories are highlighted at https://pursuit.unimelb.edu.au/
+          ; and items of broad interest from the university sector are
+          at http://theconversation.edu.au
+
+
+
+Roles: 
+
+I have a full-time Chancellery role as Pro
+                Vice Chancellor (Systems Innovation), held across
+                Chancellery Research and Enterprise and the Chancellery
+                Chief Operating Officer Portfolio.
+My current research and supervision
+              activities are outlined below. For general enquiries re IT
+              programs, including graduate study, see the School of
+              Computing and Information Systems www.cis.unimelb.edu.au
+
+
+
+Phone:
+            
+
++61 3 9035 8619 
+
+Email: l.sonenberg
+            "at" unimelb "dot" edu "dot" au 
+Physical Location
+            Maps of the Parkville campus of the University of Melbourne
+            are here
+            and a Google Maps link is here
+
+
+My PVC office is room 6.03, Level 6, Raymond
+              Priestley Building (Building 152)
+My School of Computing and Information
+              Systems home is on Level 3 of the Melbourne Connect
+              building (Building 290)
+
+
+
+Research interests
+My research interests include the design of reasoning machinery
+        for systems that exhibit complex collaborative behaviours. For
+        some years my major research efforts have been in the
+        foundations and applications of systems within the BDI (Belief,
+        Desire, Intention) agent paradigm,
+        with a particular focus on teamwork, but I have also studied
+        various elements of non-monotonic reasoning.  I have
+        collaborated on applied problems with industry colleagues and
+        worked with collaborators in Psychology and Education on studies
+        involving human reasoning processes. I am a participant in the Human Computer
+          Interaction Lab and the AI & Autonomy Lab . 
+My particular interests are in: 
+
+Multi-agent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            systems - especially collaboration and teamwork 
+Explanation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            in Artificial Intelligence
+Human-machine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            interaction in support of decision making
+
+The integrating theme of my research is the
+          conceptualisation and construction of more adaptive,
+          distributed, and intelligent information systems. Much of the
+          work focuses on agent technology, which views a distributed
+          system in terms of interacting autonomous software entities.
+          Using the agent metaphor can allow system developers to adopt
+          a level of abstraction in design that is useful for modelling
+          complex tasks and environments, and in building software
+          systems that are robust in the face of change and unexpected
+          events. An important aspect of the research is the requirement
+          of the human-machine interface and consequent implications for
+          the development of computational mechanisms to support
+          decision-making in complex settings. 
+Current and recent projects include:
+
+Explanation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              in artificial intelligence: a human-centred approach
+          - Funded 2019-2021 Australian Research Council - with Frank
+          Vetere, Tim Miller, Eduardo Velloso, Piers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Howe, Paul Dourish
+          (UC Irvine). This project contributes to a broad XAI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          agenda in the School.
+
+Post-doctoral
+            fellow supporting this project was Ronal
+              Singh, now at CSIRO
+
+
+Explanatory
+            AI for Maritime Domain Awareness - Funded 2019-2022 DST
+          Group - with Tim Miller, Ronal Singh, Michelle Blom, Kerry
+          Trentelman (DST Group), Adam Saulwick (DST Group) 
+
+
+
+A
+              Computational Theory of Strategic Deception -
+          Funded 2018-2021 Australian Research Council - with Wally
+          Smith, Michael Kirley, Gustav
+            Kuhn (University of London), Frank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Dignum (Umea
+                University, Sweden) 
+
+
+Post-doctoral fellow supporting this project
+              was Peta
+                Masters, now at Kings College, London 
+
+
+Collaborative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Human-Agent Planning - Microsoft Research, 2018. With
+            Ronal Singh, Tim Miller, Frank Vetere.
+
+"Why?":
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Causal Explanation in Trusted Autonomous Systems -
+            CERA Next Generation Technologies Fund grant. 2017-2018.
+            With Tim Miller, Piers Howe (Melbourne School of
+            Psychological Sciences), Glennn Moy, Luke Marsh, Darren
+            Williams (DST Group). 
+
+Post-doctoral fellow supporting this project
+              was Mor
+                Vered, now at Monash University  
+
+Foundations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              of human-agent collaboration: situation-relevant
+              information sharing- Funded 2013-2015 Australian
+            Research Council - with Adrian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pearce Tim Miller and Frank Dignum (then at Universiteit Utrecht) 
+
+Post-doctoral fellows supporting this project
+              were Paolo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Felli (now at University
+              of Bologna) and Christian
+                Muise (now at Queens University, Canada) 
+
+Implicit Transmission of Embodied Culture - Funded
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            2010-2012 Australian Research Council - with Yoshi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Kashima, Simon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Laham, Nick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Haslam, Frank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Dignum (Universiteit
+            Utrecht)
+Cross-Community Information Systems:
+              Understanding Technology-Practice Fit in Healthcare
+            - Funded 2008-2010 Australian Research Council - with Steve
+            Howard, Rens Scheepers 
+Dynamic personalisation for assisted
+              navigation of information rich, physical environments
+            - the Kubadji project - Funded
+            2007-2009 Australian Research Council - with Tim Baldwin and
+            Stephen Bird,  Ingrid Zukerman (Monash University),
+            Lawrence Cavedon (RMIT and NICTA) and Carolyn Meehan (Melbourne
+              Museum) 
+Interest based Negotiation: Theory and
+              Practice
+            - Funded 2004-2007 Australian Research Council. 
+
+
+Post-doctoral fellow who supported this
+              project was Philippe Pasquier,
+              now at Simon Fraser University, Canada
+
+
+
+Publications
+Information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          variously available from Google
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Scholar, DBLP
+          (these harvest differently, so have different coverage)
+
+Research students
+Important information for prospective research students is here
+        (read this before making contact re possible supervision):
+I currently co-supervise the following PhD
+        student(s): 
+
+Thao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Le - primary supervisor Tim
+              Miller, co-supervisor Ronal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Singh
+
+
+Useful resources for research students include:
+
+a
+            collection of pointers
+            to Advice on Doing a PhD by Robert Dale, Macquarie
+            University 
+a
+            selection of links
+            on Research and Writing in Computer Science, Mark
+            Leone, CMU 
+Videos
+
+
+
+
+
+            by Simon Peyton-Jones
+              on `How to write a great research paper,' and `How to give
+              a great research talk'
+Common
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Errors In English by Paul Brians,
+            Washington State University 
+
+My PhD graduates:  
+
+Prashan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Madumal
+            PhD 2021. Explainable Reinforcement Learning Through a
+              Causal Lens. Primary supervisor Tim
+              Miller, co-supervisor Frank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Vetere
+Kathleen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Keogh PhD 2020. Improvised coordination in agent
+            organisations. Cosupervised with Wally Smith
+
+Ronal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Singh PhD 2018. Designing for
+                Multi-Agent Collaboration: A Shared Mental Model
+                Perspective. Cosupervised with Tim
+              Miller
+
+Abhi Butchibabu PhD 2016, MIT. Anticipatory
+              Communication Strategies for Human-Robot Team Coordination.
+            Primary Supervisor was Julie
+              Shah (MIT) 
+Beth Cardier,
+            PhD, 2013. Unputdownable:
+              how the agencies of compelling story assembly can be modeled using formalisable methods from
+              Knowledge Representation, and in a fictional tale about
+              seduction.- primary supervisor Kevin Brophy
+            (Faculty of Arts) 
+Jens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Pfau PhD 2013. Towards Computational Models of
+              Cultural Dynamics Based on the Grounding Model of Cultural
+              Transmission, primary supervisor Michael Kirley, co-supervisor Yoshi Kashima
+            (Psychological Sciences) 
+Emma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Norling PhD, 2012. Modelling Human Behaviour with
+              BDI Agents
+Karl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Grieser, PhD, 2012. Computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Relationships and Relatedness Between Contextually Diverse
+              Entities.- co-supervised
+            with Tim Baldwin
+Fabian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Bohnert, PhD 2010, Monash
+            University. Adaptive User Modelling and Recommendation
+                in Constrained Physical Environments. Primary
+            supervisor was Ingrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Zukerman  (Monash University)
+Yen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Ting Kuo, PhD, 2010. Mining
+Surprising Patterns - cosupervised
+            with Andrew Lonie and Adrian Pearce 
+
+Daghan
+Acay, PhD 2009. Extrospection: Software
+              Agents Reason about the Tools in Their Environment, co-supervised
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            with Gil Tidhar
+Fernando Koch PhD
+            2009, Utrecht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              University. An Agent-Based Model for the
+              Development of Intelligent Mobile Services 
+            primary supervisors John-Jules Meyer
+            and Frank
+              Dignum 
+Samin Karim PhD 2009. Acquiring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              plans within situated resource-bounded agents: a hybrid
+              BDI-based approach (cosupervised
+            with Phillipe Pasquier and Clint Heinze)
+            
+Raymond
+              So, PhD 2008. Situation awareness in software
+              agents: Theory and practice 
+Budhitama Subagdja, PhD 2007. Intentional
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              learning in bounded-rational agents (cosupervised with Iyad Rahwan) 
+Iyad Rahwan PhD, 2005. On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              interest-based negotiation 
+Clinton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Heinze, PhD 2003. Modelling
+              Intention Recognition for Intelligent Agent Systems (cosupervised by Leon Sterling) 
+Anne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Rouse, PhD 2002. IT outsourcing revisited 
+David
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Kinny, PhD 2001. Fundamentals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              of Agent Computation Theory: Semantics 
+David
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Morley, PhD 1999. Semantics of Actions, Agents, and
+              Environments 
+Gil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Tidhar, PhD 1999. Organisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Oriented Systems: Theory and Practice 
+Todd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Mansell, PhD 1995. (cosupervisor
+            with G Smith, AAII), Planning under Uncertainty
+Wilson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Wen, PhD 1991. Information Theory and Probabilistic
+              Reasoning
+
+Past students: 
+
+Research/masters students 
+
+
+
+
+Other
+My current and past research community and related
+          activities include: 
+
+Keynote
+          presenter, 23rd International Conference on Autonomous Agents
+          and Multi-Agent Systems (AAMAS
+            2024), ``Humans
+            and Agents: Trajectories and Perspectives,'' selected
+          references here
+
+Co-organiser, Agents-Vic
+            Autumn Symposium, May 2024
+Panel Judge,
+          2024 Eureka Prize for Excellence
+
+            in Research Software
+Invited
+          presenter, Rebellion
+            and Disobedience in AI (RaD-AI), AAMAS 2023 Workshop,
+          London; reference list here
+
+Panel Judge,
+          2023 Eureka Prize for Excellence
+
+            in Research Software
+
+Presenter,
+          Monash International
+
+
+            School in Artificial Intelligence and its Applications in
+            Computer Science (ISAAC) 2022, extract of presentation
+          slides here
+
+Keynote
+          presenter, Bristol
+
+
+
+            Interactive AI Summer School (BIAS) 2022, "Imperfectly rational, rationally
+              imperfect, or perfectly irrational: challenges for
+              human-centred AI." References here
+
+Speaker, Crossley Festschrift Logic Colloquium,
+          June 2022, ("Logics and Collaboration")
+
+
+
+
+
+
+          YouTube recording (44mins) here.
+          References here
+
+Panellist,
+          Webinar on Explainable AI, hosted by APRU and Heinrich
+
+
+
+
+
+
+
+
+            Böll Stiftung, May 2022, recording here
+Presenter, CAIDE Explainer
+          series, May 2022 "AI in our everyday lives" (Part 1 video [1
+
+
+
+
+          min], Part 2 video [3
+
+
+
+
+          mins], and related article
+          in The Conversation) 
+Keynote
+          speaker, 34th Australasian Joint Conference on Artificial
+          Intelligence (AJCAI), Feb
+          2022 "Expectation, Surprise and
+              Explanation" References here
+Presenter, Data61
+
+
+
+            DSS Group Seminar, November 2021, "Possible roles of explanation in the
+              design of automated decision aids" 
+
+Member, Expert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Working Group, 2021 National Research Infrastructure
+          Roadmap
+
+Awardee -
+          Australasian AI Awards: 2020 Distinguished Research
+          Contribution - https://australasian.ai/awards
+Member,
+          Advisory Board, AAAI AI Magazine, December 2020-  AI Magazine
+
+Presenter, CSIRAC 70th
+            Anniversary Celebration, hosted by the Pearcey
+          Foundation, November 2019 ("Computing
+              the Unexpected" slides here
+          and video here)
+
+Member of the
+          Standing Committee of the  One Hundred Year Study on
+            Artificial Intelligence (AI100) from April 2019
+Member,
+          Advisory Board Australian Research Data Commons (ARDC), 2018-2019
+
+Area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Chair, International Joint Conference on Artificial
+            Intelligence IJCAI 2017,
+            August 2017, Melbourne Australia
+Chair,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            IFAAMAS Influential
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Paper Award Panel, 2017 
+
+Invited
+
+
+
+
+            presenter, "Intelligent
+
+
+
+
+              systems for supporting distributed human teamwork,"
+            AAAI 2016 Spring Symposium, March 21-23, Stanford,
+            California. References here
+
+Member,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Committee supporting the U.S. National Academies of Science
+            Project Integrating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Humans, Machines and Networks: A Global Review of
+              Data-to-Decision Technologies Report available (2014):
+            Complex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Operational Decision Making in Networked Systems of Humans
+              and Machines: A Multidisciplinary Approach
+Member, Advisory Board,
+                Research Data Storage Infrastructure, then Research Data
+                Services (RDSI, then RDS), 2013-2018
+Director, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Synchrotron Light Source Australia Pty Ltd, 2013-2017
+Co-organiser,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "Formal Methods for the Informal World," a research
+            workshop - March 4th-8th, 2013 at the Lorentz Center, Leiden, The Netherlands -
+            details here
+
+Invited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Participant, Intelligent Human-Machine Collaboration
+              Workshop, Washington June 2012 - summary available -
+            National
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Academies Press - ISBN-10: 0-309-26264-X 
+Invited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            speaker, 14th International Conference on Principles and
+            Practice of Multi-Agent Systems (PRIMA-2011),
+            Wollongong. November 2011 
+General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Co-Chair, together with Peter Stone
+            (University of Texas at Austin) Tenth International Joint
+            Conference on Autonomous Agents and Multi Agent Systems,
+            held in Taiwan in May, 2011 
+
+Member,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Advisory Board, Australian Urban Research Infrastructure
+            Network (AURIN), 2010-2021
+Member, Advisory Board, National eResearch
+              Collaboration Tools and Resources (NeCTAR), 2010-2019
+Director,  Orygen
+                Youth Mental Health Pty Ltd, 2009-2015
+Editorial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Board Member, Knowledge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Engineering Review published by Cambridge University
+            Press 
+Past
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Co-convenor of the Victorian eHealth Network  
+Past
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Member of the Board of the International
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Foundation for Autonomous Agents and Multiagent
+              Systems a non-profit organisation whose purpose is to
+            promote science and technology in the area of artificial
+            intelligence and multiagent
+            systems (2002-2008) 
+Senior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Program Committee member at numerous AAMAS
+            conferences 
+Past coordinating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            editor of the Journal
+              of Autonomous Agents and Multiagent
+              Systems published by Springer (2003-2018)
+Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Co-chair for the Third
+              International Joint Conference on Agents and Multi Agent
+              Systems hosted in New York in July 2004 
+one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            of the local organisers of the Second
+              International Joint Conference on Agents and Multi Agent
+              Systems hosted in Melbourne, July 14-18, 2003, and
+            also helping to organise the associated Melbourne
+              Agent Systems School and Doctoral Consortium. 
+Occasional
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            reviewer, Computing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Reviews 
+
+
+
+Selected PVC Systems
+          Innovation activities
+
+
+Steering
+            Committee ERP
+
+
+
+
+
+
+
+
+
+
+              Replacement Program
+
+
+
+ 
+
+
+ Liz Sonenberg 
+        Updated May 2024 
+
+
+====================================================================================================
+

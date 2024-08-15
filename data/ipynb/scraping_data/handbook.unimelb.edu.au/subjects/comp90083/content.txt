@@ -1,0 +1,334 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90083/
+Computational Modelling and Simulation (COMP90083) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computational Modelling and SimulationSubjectsHandbook
+HandbookSubjectsComputational Modelling and Simulation
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Computational Modelling and Simulation (COMP90083)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 munoz.m@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesComputers are invaluable tools for modelling and simulating complex systems in a range of real word domains. The complex behaviours exhibited by many biological, social and technological systems - such as epidemics, urban systems and robotics - challenge our ability to predict, analyse and design such systems. Building computational models of these systems can help us better understand their structure and behaviour, and make better decisions about their design and control. 
+The aim of this subject is to provide students with a solid foundation in the conceptual and technical skills required to design, implement and evaluate computational models of complex systems. 
+INDICATIVE CONTENT
+Topics covered will be selected from:
+
+the use of models for science, engineering and policy
+dynamical systems analysis
+complexity and emergent behaviour
+agent-based models
+design, communication and evaluation of models
+analysis and visualisation of model behaviour
+case study exemplars of specific types of models, such as:
+
+
+
+spatial models (eg, transportation)
+network models (eg, epidemics)
+adaptive models (eg, robotics)
+
+Intended learning outcomesOn completion of this project, the student is expected to be able to:
+Identify and abstract the key features of complex systems from a variety of domainsUnderstand the theoretical basis underpinning the analysis of complex systemsEvaluate and select, amongst different modelling techniques, the most appropriate for analysing specific systemsCreate computational models to analyse the behaviour of complex systems.Generic skillsAbility to undertake problem identification, formulation and solutionCapacity for independent critical analysis and problem-solving, including engaging with unfamiliar problems and identifying relevant strategiesAbility to analyse models, and self-directed research for modelling approachesIntellectual curiosity and creativity, including the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency a model-based analysis.Openness to new ideas and unconventional critiques of received wisdomNext: Eligibility and requirementsLast updated: 30 May 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

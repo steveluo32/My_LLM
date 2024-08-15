@@ -1,0 +1,328 @@
+URL: https://handbook.unimelb.edu.au/subjects/COMP20008
+Elements of Data Processing (COMP20008) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elements of Data ProcessingSubjectsHandbook
+HandbookSubjectsElements of Data Processing
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Elements of Data Processing (COMP20008)Undergraduate level 2Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 James Baileybaileyj@unimelb.edu.auSemester 2 Chris Ewincewin@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+Data processing is fundamental to computing and data science. This subject gives an introduction to various aspects of data processing including database management, representation and analysis of data, information retrieval, visualisation and reporting, and cloud computing. This subject introduces students to the area, with an emphasis on both tools and underlying foundations.
+ 
+INDICATIVE CONTENT
+The subject's focus is on the data pipeline, and activities known colloquially as 'data wrangling'. Indicative topics covered include:
+
+Capturing data (data ingress)
+Data representation and storage
+Cleaning, normalisation and filling in missing data (imputation)
+Combing multiple sources of data (data integration)
+Query languages and processing
+Scripting to support the data pipeline
+Distributing a database over multiple nodes (sharding), cloud computing file systems
+Visualisation and presentation
+Intended learning outcomesHaving completed this subject the student is expected to:ILO 1 - Be able to describe the relationship of the data pipeline to data scienceILO 2 - Be able to develop and critically evaluate alternative approaches to components of typical data pipelinesILO 3 - Apply data processing methodologies to preparing data while managing data quality, system scalability, and usability for decision makingILO 4 - Communicate effectively about data processing methodologies in oral formGeneric skillsOn completion of this subject, students should have developed the following generic skills:An ability to apply fundamental knowledge in reasoning and problem solvingAn ability to undertake problem identification, formulation and solutionThe capacity to solve problems, including the collection and evaluation of informationThe capacity for critical and independent thought and reflectionProfound respect for truth and intellectual integrity, and for the ethics of scholarshipAn expectation of the need to undertake lifelong learning, and the capacity to do so.Next: Eligibility and requirementsLast updated: 11 June 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

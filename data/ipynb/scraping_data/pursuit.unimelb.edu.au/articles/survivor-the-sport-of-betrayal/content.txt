@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/survivor-the-sport-of-betrayal
+
+Survivor: The sport of betrayal  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Arts & Culture
+            
+
+
+Survivor: The sport of betrayal
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+The reality TV show Survivor is a phenomenon where betrayal and social skills are central to what is more a sport than a game showBy Dr Marcus Carter, Microsoft Research Centre for Social Natural User Interfaces, University of MelbournePublished 13 October 2016
+5 min read
+There are few television brands as powerful as Survivor, the ruthless island-survival show that just launched its 33rd season in the US, and a third reboot in Australia by Channel 10.But if you want to understand the persistent appeal of Survivor to its tens of millions of fans, you can’t think of it as a reality television series. Survivor is a sport.The US Survivor first aired in 2000 with enormous cultural impact; the season one finale had over 51 million viewers. There are now over 40 regional versions of Survivor, and the US series maintains 10 million plus viewers for each season. The original Survivor was the Swedish show, Expedition Robinson that first aired on Swedish television in 1997.Survivor has grown from a Swedish TV show into a global phenomenon including an Australian version. Picture: Courtesy Network TenThe Lord of the Flies-esque competition puts 16-20 players, referred to as ‘castaways’, into two teams, or ‘tribes’, on a remote, typically tropical, location and given little food, water or supplies. A season is approximately 40 days of isolation, with each episode covering about three days of play.Each episode has at least one ‘challenge’ – an elaborate physical and intellectual test of the castaway’s strength, agility, teamwork and puzzle solving abilities. The tribe that loses is sent to Tribal Council, where host Jeff Probst questions contestants on the events of the past three days and players vote privately on who should be eliminated from the game. All players must vote, and cannot vote for themselves. The eliminated castaway immediately leaves the game with Probst’s catch-phrase, “the tribe has spoken... it’s time for you to go.”When typically twelve contestants remain, the two tribes merge and continue to complete challenges for individual immunity. The final two-to-three survivors then have to explain to the ‘jury’ (the nine most recently voted out players) why their efforts have been the most deserving of the million dollar prize. Jury members question the losers, and the votes are read out at a live reunion show.The appeal of Survivor doesn’t come from the over-exaggerated shenanigans of the contestants or the manufactured drama, but from seeing how the game will play out with roughly the same set of rules each season.Watching Survivor is akin to watching sport in that it combines strategy with drama. Picture: Courtesy Network TenSurvivor fans love to talk about Survivor the way we talk about sport; critiquing strategies and betting on who will come out on top.Sure, unlike sport Survivor is produced. The show takes three days of conversations and game-play and condenses it down into a neat 60 minute episode with adverts, and some players clearly get ignored. But if you trust the producers – and after 33 seasons they’ve earnt my trust – it really does feel like you’re watching a live sport.One of the best and most unusual things about Survivor is the Jury. Nearly all games and competitions formalise what it is to win. In soccer, if you score a goal you get a point. If you have the most points at the end of the game, you win. Simple.In Survivor, the players who have lost choose who wins. They don’t get told what criteria to draw on (the show’s tagline Outwit, Outlast, Outplay gets drawn on a lot), and the final players have to argue why their strategy of getting to the end makes them worth of the million dollar prize.Betrayal remains a rare mechanic in games, and in Survivor while betrayal is at the heart of the show, gratuitous betrayal doesn’t work. Picture: Courtesy Network TenIn these arguments, we can start to see how Survivor isn’t just a sport of physical skills, but social skills too. Winning is about a player’s abilities to deceive, manipulate and manoeuvre their opponents using various social strategies.But even though betrayal is fundamental to winning Survivor, gratuitous betrayal (being a ‘flip-flopper’) is almost never a winning strategy.In my PhD research I studied the appeal and practice of treacherous play in EVE Online, an Icelandic sci-fi Massively Multiplayer Online Game where players are allowed to exploit trust to get ahead in the game; lie, steal, scam and spy on opposing teams.My research sought to understand why it is that for example first-person-shooter games can simulate in gruesome visual detail the dismemberment of game-opponents, but betrayal remains a rare mechanic in games.Arts & CultureGaming more than a Space Oddity People it seems just don’t like being betrayed. This has been backed up in research by Harvard behavioural economists Iris Bohnet and Richard Zeckhauser who showed in a series of experiments that participants preferred to gamble on a random outcome rather than risk being betrayed by someone.For EVE Online players, treachery is a form of social player versus player combat; my ability to deceive you, and your ability to detect my deception. The demand to really trust other players in EVE enriches the social experience, and contributes to its reputation as one of the harshest, hardest multiplayer games.This supports us in understanding the appeal and longevity of Survivor as a spectator sport. Social skills can be part of the competition of multiplayer games, and Survivor is the only example of a mainstream spectator sport where social skills are the core of the competition. We don’t just enjoy the physical strategy of the game, but the social strategy too.When most people watch physical sports, they know for sure they couldn’t ever be competitive. But Survivor is different. Social skills are something we all exercise everyday. Heck, even I sometimes think I could strategise my way to the final tribal council.Banner Image: Courtesy Network 10
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyHuman-Computer InteractionComputer GamingPsychologySurvivorPopular Culture Share Link copied 
+
+
+
+Featured individualDr Marcus CarterResearch Fellow, Microsoft Research Centre for Social Natural User Interfaces, Melbourne School of Engineering, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+Content Card SliderPrevious slideNext slideView more Arts & Culture storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

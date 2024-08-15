@@ -1,0 +1,118 @@
+URL: https://pursuit.unimelb.edu.au/articles/it-s-time-to-retire-lena-from-computer-science
+
+It’s time to retire Lena from computer science   | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Sciences & Technology
+            
+
+
+It’s time to retire Lena from computer science 
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+Why has a pornographic image been widely used to train computer scientists and their algorithms? And what sort of message does it send to women?By Dr Chris Culnane and Kobi Leins, University of MelbournePublished 13 December 2019
+5 min read
+In 1972, a Swedish woman named Lena posed for a centrefold image in Playboy Magazine as ‘Miss November.’ It would be the one and only time she posed for Playboy.But in the male-dominated world of computer sciences her photo, cut off from below the shoulder, was widely disseminated, becoming the default photo for use in testing image-processing research, eventually being used to develop the .jpeg format.Lena as she appears in the documentary ‘Losing Lena’. Picture: SuppliedHow did the face and shoulders of a playboy model become the ‘go to’ picture for computer image-processing, and why is it still being used across computer science departments?The story has been well told in the Atlantic Magazine, but in summary, in 1973 some computer scientists at the Signal and Image Processing Institute of the University of Southern California, were looking for a new image on which to train their computer to process images. One of them had a copy of Lena’s Playboy photo, so they used it.Politics & SocietyWhat is the law when AI makes the ‘decisions’? From then on it became a popular image for computer scientists to use, despite its poor quality – it was a scan of a photo that included a scanning error. The image was also used despite it being protected by copyright. Permission was never sought from Playboy, and of course, Lena herself, unaware of her popularity among computer scientists, never gave her consent either.Lena’s image would be one of the very first pictures uploaded to ARPANET, an early example of the internet we use today.A new documentary, Losing Lena, is now helping to galvanise efforts to end the use of Lena’s image in technology research. It makes clear that the use of her image is emblematic of the sector’s often unwelcoming culture for women, entrenching female under-representation.Retiring Lena as an image used in coding goes beyond copyright, consent or ethics. It is a required step to help women feel more welcome in tech.The widespread use of “Lena” reinforces the under-representation of women in computer sciences and engineering. Picture: Getty ImagesAt a time when we seem to be rushing headlong into the use of artificial intelligence and machine learning, removing Lena from our visual vocabulary and training sets is one small step in the direction of making it clear that we won’t accept the unintended biases of the past. Instead we need to actively ensure diversity and equality in all of our computing and information systems research and teaching.This is particularly important given technology’s power to shape the future.Every technology has a history and a context. Langdon Winner in his book The Whale and the Reactor, recounts a prominent example of biases being embedded in technologies involving early traffic overpasses in and around New York, many of which were built low. This ended up blocking public buses from using the road.Sciences & TechnologyTwo data points enough to spot you in open transport records As a result, low-income people who depended entirely on public transport were effectively excluded from using these roads, and these same low-income people were disproportionally made up of racial minorities.Winner argues that politics is built into everything we make, and that historical moral questions asked throughout history, including by Plato and Hannah Arendt, are questions relevant to technology – our experience of being free or unfree, the social arrangements that either foster equality or inequality, the kinds of institutions that hold and use power and authority.The capabilities of AI, and the way that it is being used by corporations and governments, continue to raise these questions today. Current systems using facial recognition, or policing tools that reinforce prejudice, are examples of technology that builds on politics.The difference is that, in non-physical systems, the embedded politics isn’t as easy to identify as an overpass built too low, although the technology may be similarly challenging to rectify once it’s built.The growing influence of technology on our lives makes it even more critical that diverse people are at the forefront of developing and regulating technologies. Picture: Getty ImagesInterestingly, many of the contemporary warnings about how we develop and use technology are coming from women – Jeannie Paterson, Virginia Dignum, Ellen Goodman, Julia Powles, Kate Crawford, Genevieve Bell, Mireille Hildebrandt, the list goes on.It is crucial that there is a diversity of voices imagining and building the world that technology is creating. Numerous writers like Meredith Broussard, Ellen Broad and Cathy O’Neill write about how those who built the internet, embedded values and assumptions that persist to this day.Sciences & TechnologyDon’t ask women leaders to act like men Code Like a Girl, an Australian organisation that encourages and supports women and girls to code, is supporting the documentary. They note that:“There are so many reasons why having women in tech is beneficial and vital: it will future-proof our workforce, it addresses sexism within the sector, provides role models for girls and young women and secures long-term profitability for businesses and organisations.“But to us, the most important reason to grow the number of women building tech is so that the world we live in can be equally enjoyed by everyone. We need diversity of experiences, perspectives and stories to build a world that is more empathetic, innovative and equal.”Given the power that now resides in technology, not enough women are seated at the table. Nor more generally is there enough diversity.It is time to retire a pornographic image, and to ensure that more real-life women are participating in these fields, and that they all feel welcome.The University of Melbourne is the first university to sign up to a moratorium on the use of the Lena image, and on 19 December is hosting a special screening of Losing Lena and a panel discussion.Banner: Supplied
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyComputer ScienceWomenArtificial IntelligenceSexismTechnologyShare Link copied 
+
+
+
+Featured individualsDr Chris CulnaneHonorary Fellow, School of Computing and Information Systems, Melbourne School of Engineering, University Melbourne; Visiting Lecturer, Department of Computing, University of SurreyDr Kobi LeinsSenior Research Fellow in Digital Ethics, Computing and Information Systems, Faculty of Engineering and Information Technology, University of Melbourne
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Sciences & TechnologyPrevious slideNext slideSciences & TechnologyClimate change is supercharging the world’s wildfiresA new annual global assessment of wildfires warns that climate change has increased the risk of extreme fire weather by about 20 times in some parts of the worldSciences & TechnologyThe vaccine improving the health of Australia's chickensA new vaccine is protecting one-day-old chicks from a pneumonia-like illness that costs the poultry industry millions of dollars each yearSciences & TechnologyWe now know what causes the Buruli ulcer, so what are we doing about it?Knowing that mosquitoes are involved in the transmission of the Buruli ulcer in Victoria is a breakthrough, but we need to work out what happens next to tackle the diseaseView more Sciences & Technology storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

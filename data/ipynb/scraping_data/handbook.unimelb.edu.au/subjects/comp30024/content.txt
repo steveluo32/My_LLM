@@ -1,0 +1,329 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp30024
+Artificial Intelligence (COMP30024) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial IntelligenceSubjectsHandbook
+HandbookSubjectsArtificial Intelligence
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Artificial Intelligence (COMP30024)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 Email: caleckie@unimelb.edu.au OverviewAvailabilitySemester 1FeesLook up feesAIMS
+Artificial intelligence is the quest to create intelligent agents that can complete complex tasks which are at present only achievable by humans. This broad field covers logic, probability, perception, reasoning, learning and action; and everything from Mars Rover robotic explorers to the Watson Jeopardy playing program. You will explore some of the vast area of artificial intelligence. Topics covered include: searching, problem solving, reasoning, knowledge representation and machine learning. Topics may also include some of the following: game playing, expert systems, pattern recognition, machine vision, natural language, robotics and agent-based systems.
+ 
+INDICATIVE CONTENT
+
+Agents and search
+Probabilistic reasoning
+Reinforcement Learning
+Pattern recognition for robotics.
+Intended learning outcomesOn completion of this subject the student is expected to:Identify problems that can be solved by search, and create search-based solution algorithmsDesign intelligent agentsChoose the best search-based solving methods for a particular problemMake use of formal approaches for representing and reasoning about knowledgeBuild systems that use simple learning approaches to improve their performanceGeneric skillsOn completion of this subject students should have developed the following generic skills:
+The ability to analyse and solve problems involving complex reasoning
+The ability to synthesise information and communicate results effectively
+The capacity for critical and independent thought and reflection
+The ability to apply knowledge of basic science and engineering fundamentals
+The ability to undertake problem identification, formulation and solution.
+Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

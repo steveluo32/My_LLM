@@ -1,0 +1,327 @@
+URL: https://handbook.unimelb.edu.au/subjects/ISYS90049
+Digital Business Analysis (ISYS90049) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Business AnalysisSubjectsHandbook
+HandbookSubjectsDigital Business Analysis
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Digital Business Analysis (ISYS90049)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 1 j.marx@unimelb.edu.auSemester 2 sherahk@unimelb.edu.auOverviewAvailabilitySemester 1Semester 2FeesLook up feesAIMS
+This subject focuses on business analysis from the context of digital technologies. It introduces modern business analysis techniques, including a selection of those in the Business Analysis Body of Knowledge (BABOK) by the International Institute of Business Analysis (IIBA), and exemplifies them by means of digital technologies applied to solve problems or exploit new business opportunities. It also includes in-depth case studies in which business problems and opportunities, drawn from real-world scenarios, are mapped to digital solutions. The work is summarised in seven guiding principles that should be followed by every business analyst.
+INDICATIVE CONTENT
+Topics include methods, techniques and tools for requirements elicitation, business analysis planning and monitoring, stakeholders engagement planning, business needs identification, business process identification and modelling, change strategy definition, and the design, delivery and evaluation of information systems solutions to business problems.
+Examples of projects that students complete are:
+
+A report focussing on the information gathering and modelling of a business problem.
+A comprehensive report covering all aspects related to the analysis of a business problem and the design, delivery and evaluation of an information systems solution to this problem.
+Intended learning outcomesOn completion of this subject the student is expected to:Describe and apply requirements gathering techniquesUse appropriate modelling techniques to best understand a business context and need for an information systemAcquire conceptual, abstraction and analytical skills to design and analyse business problemsDemonstrate how to effectively document information systems solutions to business problemsGeneric skillsOn completion of this subject, students should have developed the following generic skills:
+Analytical thinking
+Abstraction and conceptualisation skills
+Report writing skills
+Enhanced ability to work in a team
+Next: Eligibility and requirementsLast updated: 20 June 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

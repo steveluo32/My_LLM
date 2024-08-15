@@ -1,0 +1,331 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp90086/
+Computer Vision (COMP90086) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer VisionSubjectsHandbook
+HandbookSubjectsComputer Vision
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Computer Vision (COMP90086)Graduate courseworkPoints: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 
+Krista A. Ehingerkris.ehinger@unimelb.edu.au 
+OverviewAvailabilitySemester 2FeesLook up feesAIMS 
+From self-driving cars to automatic processing of medical scans, vision is a key sensory modality for a variety of artificial intelligence tasks. However, extracting meaning from images poses various computational challenges. In this subject, students will learn the basic principles of image formation and computational methods for interpreting images. Students will develop an understanding of the standard frameworks used in computer vision algorithms and their applications in tasks such as object recognition, target detection, and three-dimensional reconstruction. The programming language used is Python.
+INDICATIVE CONTENT 
+Topics covered may include:
+
+Basics of image formation
+Illumination and reflectance models
+Colour spaces
+Feature detectors and descriptors
+Stereo correspondence
+Methods for recovering three-dimensional shape
+Image segmentation
+Categorical and instance-level recognition
+Intended learning outcomes
+On completion of this subject, students should be able to: 
+Identify basic challenges involved in interpreting image data Understand and articulate the mathematical and/or algorithmic basis of common techniques used in computer vision Analyse, design, and implement relevant techniques in computer vision to given problems Undertake end-to-end research experiments, including evaluation with image datasets, including reporting resultsCommunicate technical solutions to computer vision problemsGeneric skillsAbility to undertake problem identification, formulation, and solutionAbility to utilise a systems approach to complex problems and to design and operational performance ability to manage information and documentationCapacity for creativity and innovationAbility to communicate effectively with both technical experts and the community at largeNext: Eligibility and requirementsLast updated: 30 May 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

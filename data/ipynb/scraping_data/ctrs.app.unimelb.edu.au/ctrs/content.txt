@@ -1,0 +1,112 @@
+URL: https://ctrs.app.unimelb.edu.au/ctrs/
+
+	CTRS - Casual Tutor Recruitment System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        The Casual Tutor Recruitment System (CTRS) is used to recruit tutors by Faculty of Business and Economics (FBE), 
+        Faculty of Architecture, Building and Planning (ABP),
+         Faculty of Arts (Arts), 
+		School of Chemistry (Chemistry),
+        School of Mathematics and Statistics (Math and Stats),
+        Melbourne Graduate School of Education (MGSE),
+		School of Physics (Physics),
+        School of Computing and Information Systems (CIS),
+		and School of BioSciences (BioSciences).         
+        It also allows you to access your timetable and class lists once you are employed.            
+    
+To log into this system, you need to have a CTRS user account.  If you do not have one, 
+         please click here to register .
+    
+
+New tutors: Do not use your university staff email to create another CTRS account; 
+        you will have the option to link your staff account with the CTRS when you login with your CTRS account credentials.  
+        If you have forgotten your password, click here to reset it.
+
+
+Please note: If you have not linked the CTRS to your staff account, please use CTRS username to login.
+If you are a subject coordinator and need to process applications and/or allocate tutorials to tutors, 
+        please click here to go to the CTRS Administrator interface.
+
+Login type:
+
+
+[Please select]
+CTRS Account
+UNIMELB Staff Account
+
+ Please select account type in order to login.
+
+
+
+Username:
+
+
+ Please enter your username.
+
+
+
+Password:
+
+
+ Please enter your password. (case-sensitive)
+        
+
+
+
+
+
+
+ 
+
+ Do not have a CTRS account yet? Click here to register
+ Forgot your password? Reset Password
+ Forgot your CTRS username? CTRS Username Reminder
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2024 © The University of Melbourne (Release v20.7.2)
+
+
+
+
+====================================================================================================
+

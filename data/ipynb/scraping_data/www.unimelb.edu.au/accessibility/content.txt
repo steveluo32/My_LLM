@@ -1,0 +1,349 @@
+URL: http://www.unimelb.edu.au/accessibility
+
+
+
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+Accessibility
+
+
+Accessibility
+
+
+
+
+
+Search
+
+Menu
+
+
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Web Accessibility
+All websites and applications which form part of the University web presence are expected to comply with the W3C's Web Accessibility Guidelines (WCAG) 2.2 AA
+
+
+
+
+
+
+
+Featured content
+
+
+Guides for Academics
+Tips and advice that students with disabilities want teachers to know.
+Academic guidelines
+
+
+
+
+Guides for Students
+Guides for accessing the Student Portal, LMS, Library catalogue and Turnitin.
+Student guidelines
+
+
+
+
+Video Captioning
+How to add captions to YouTube clips and other multimedia content.
+Captioning guidelines
+
+
+
+
+
+
+ 
+
+Web PublishingAccessibility guidelines broken down by role.Content creatorsDesignersDevelopersView web publishing guidelines
+
+
+Project ManagementRoles and responsibilities by project stage.Getting accessibility adviceProcurement questionsTender evaluation processView project management guidelines
+
+
+
+
+
+
+
+
+
+10%
+of Students
+report having a disability
+
+
+
+
+72%
+of Screen Reader Users
+use headings as their primary form of navigation
+
+
+
+
+30%
+of Users with Motor Disabiltiies
+use speech recognition
+
+
+
+
+
+
+Top Tools
+
+
+Digital tools
+
+
+
+Using TurnItIn with JAWS
+Accessibility statement regarding TurnItIn.
+
+Getting Started with Microsoft Word Dictate
+Take audio from the computer's microphone and convert it into text.
+
+Zoom Accessibility
+Instructions on how to use Zoom Meetings with NVDA and JAWS.
+
+Live Captions in Microsoft Teams
+Instructions on how to enable Live Captions in Microsoft Teams Meetings.
+
+
+
+
+
+
+Testing content
+
+
+
+Screen Reader Testing
+ChromeVox is installed as a Chrome extension.
+
+Testing Web Pages with JAWS
+JAWS has two modes of operation: browse mode and forms mode.
+
+Testing Web Pages with NVDA
+NVDA has a useful Speech Viewer that allows developers to view output as text.
+
+Testing Web Pages with VoiceOver
+The primary form of navigation using VoiceOver is by swiping Left or Right.
+
+Component testing
+As a developer, automation can be your friend.
+
+
+
+
+
+
+
+
+Related Information
+
+
+Disability Services
+
+
+
+
+Disability Information
+
+
+
+
+
+
+Need web help?
+
+All websites and applications which form part of the University web presence are expected to be compliant with the W3C's Web Accessibility Guidelines (WCAG) 2.2 AA guidelines.
+Get web accessibility help
+
+
+
+      Site footer   We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated   Read about our commitment to reconciliation        About us     Careers at Melbourne     Safety and respect     Newsroom     Contact        Phone: 13 MELB (13 6352)  International: +61 3 9035 5511   Address:  The University of Melbourne  Grattan Street, Parkville  Victoria, 3010, Australia   View all Campus locations                  Facebook 
+
+ Share on Facebook      LinkedIn 
+
+ Share on LinkedIn      Instagram 
+
+ Share on Instagram      Twitter 
+
+ Share on Twitter                 Emergency     Terms & privacy     Accessibility     Privacy       The University of Melbourne  (Australian University): PRV12150    CRICOS number: 00116K   ABN: 84 002 705 224      
+
+CloseAccessibility
+About
+Guides for StudentsGuides for Students
+Getting started with Dragon Dictate
+Getting started with MAC Dictation
+Hearing Loops Demystified
+
+Using the Student Portal with JAWS
+Using Discovery with JAWS
+Using TurnItIn with JAWS
+Using Email with Outlook
+Browser Support
+Library Catalogue
+Using the LMS with JAWS
+Grammar Checking Tools
+Courses
+Guides for AcademicsGuides for Academics
+Deaf & Hard of Hearing
+Blindness
+Mental Health
+Dyslexia
+Multiple Sclerosis
+Mobility Difficulties
+Acquired Brain Injury
+Anxiety
+Migraine
+Cerebral Palsy
+Low Vision
+Hearing Loops Demystified
+
+Newsletters
+Project Management
+Project management
+Techniques
+ToolsTools
+Screen Reader Testing
+Testing Web Pages with JAWS
+Testing Web Pages with NVDA
+Testing Web Pages with VoiceOver
+Document Accessibility Toolbar - Installation
+Saving Time with Web ShortcutsSaving Time with Web Shortcuts
+Web Shortcut Installation
+Top Tips
+Top Tips for QA Testers
+Virtual RealityVirtual Reality
+Overview
+Mobility
+Hearing
+Cognition
+Low Vision
+Blindness
+Olfactory
+Older Users
+Video CaptioningVideo Captioning
+About Captioning
+Automatic Speech Recognition
+
+Auto-generated Captions in MS Teams
+
+Automatic Transcription in Lecture Capture (Echo 360) and Kaltura
+
+Style Guide
+Video Conferencing for Hearing Impaired Staff
+
+Video Captioning Providers (staff access only)
+
+Creating Captions with MovieCaptioner
+Uploading Captions to YouTube
+Live Remote Captioning
+WCAG 2.0 Standards
+Hearing Impairment
+
+Video Conferencing for Hearing Impaired StaffVideo Conferencing for Hearing Impaired Staff
+Tips for Accessible Online Meetings
+Video Conferencing for Screen Reader Users
+WAI-ARIA TechniquesWAI-ARIA Techniques
+WAI-ARIA 1.1
+WAI-ARIA Keyboard Focus
+WAI-ARIA Landmarks
+WAI-ARIA Landmarks and Screen Readers
+Web Resources
+Current Students
+Library
+Staff
+
+
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

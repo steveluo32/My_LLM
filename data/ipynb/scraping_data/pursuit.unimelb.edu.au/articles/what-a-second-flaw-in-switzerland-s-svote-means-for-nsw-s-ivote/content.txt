@@ -1,0 +1,119 @@
+URL: https://pursuit.unimelb.edu.au/articles/what-a-second-flaw-in-switzerland-s-svote-means-for-nsw-s-ivote
+
+ What a second flaw in Switzerland’s sVote means for NSW’s iVote  | Pursuit by the University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+MenuMost PopularNational Science Week Latest Saved Stories Search Latest Saved Stories SearchArts & CultureBusiness & EconomicsDiscussion & DebateEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyAbout UsContact UsTerms of Use 
+
+
+
+
+
+                Politics & Society
+            
+
+
+ What a second flaw in Switzerland’s sVote means for NSW’s iVote
+
+
+
+
+
+
+
+ Link copied 
+
+
+
+
+ A recent investigation found a trapdoor in the SwissVote election system that also exists in New South Wales’ iVote, but further analysis has found a second problem in the verification processBy Associate Professor Vanessa Teague, University of MelbournePublished 25 March 2019
+5 min read
+Earlier this month, research by our team – based on joint work with Sarah Jamie Lewis from the Open Privacy Research Society and Professor Olivier Pereira at Université Catholique de Louvain – found a trapdoor in the Swiss Internet voting system. It’s a flaw in the proof the system uses to prevent electoral fraud.The sVote Internet voting system is designed to allow observers to verify that the votes reported by the electoral commission match those that were cast — without compromising the identity of a voter. But if the flaw is exploited, it could allow insiders who ran or implemented the election system to modify votes undetected.The researchers found a trapdoor in SwissVote election system. Picture: SwissVoteSoon after the Swiss trapdoor was revealed, the New South Wales Electoral Commission (NSWEC ) announced that the same flaw affects their iVote system. The two systems, the Swiss and the NSW e-voting software, were developed by the same company and feature the same core component.But the Commission has since said that its iVote platform is safe to use in the state’s recent election.However, we have recently discovered a second, independent method by which a proof mechanism in sVote could be subverted to prove an election outcome that has actually been manipulated.Sciences & TechnologyThe simple process of re-identifying patients in public health records SwissPost and NSWEC have both been notified, and NSWEC says that this second issue does not affect them.Verifiability and trustVerifiability is a critical part of the trustworthiness of e-voting systems.The SwissPost e-voting system, provided by Scytl, offers one form of verifiability, called “complete verifiability” – this means that any manipulation should be detectable unless all but one part of the system colludes to cheat.In the SwissPost system, encrypted electronic votes are shuffled to protect individual vote privacy. Each server shuffling votes is supposed to prove that the set of input votes it gets correspond exactly to the differently-encrypted votes it outputs.The New South Wales Electoral Commission says this second issue doesn’t affect them. Picture: iVoteThis process is intended to provide an electronic version of a ballot box.Previously, we’ve shown that this system contains a cryptographic trapdoor that could allow a cheating authority (or software provider) to add or remove votes from the shuffle, while providing an apparently-correct (but false) proof of accuracy.Both SwissPost and NSWEC say that the software provider has now patched the issue.Proving a fake decryptionThe next step after shuffling is decrypting the votes.Politics & SocietyThe key to unlocking your privacy It wouldn’t be secure to simply accept any authority’s claim of what those encrypted votes contain, because that allows for the possibility that the authority could declare different votes from the voter’s actual choice.It also wouldn’t work to ask the authority to reveal its private decryption key, because that would expose how individuals voted.So, the sVote system uses a clever cryptographic construct called a zero knowledge proof. Zero knowledge means that it doesn’t reveal anything about the decryption key, so vote privacy is protected. And proof is supposed to mean that observers can run a verification algorithm to make sure that the claimed vote really is what’s hidden within the encryption.But our research has found that this proof is not sound. It’s possible to generate a proof that passes verification, but changes the contents of the encrypted vote. It’s a little like leaving the ballot box observable all through polling day, yet somehow managing to slip different votes into the count.Verifiability is a critical part of the trustworthiness of e-voting systems. Picture: Getty ImagesIt’s a technical process – but one that can be done by anyone who has access to the right part of the voting system. You can download our cheating proof transcripts and verify them yourself if you have the sVote code.Internet voting securityBoth SwissPost and NSWEC say they have corrected the first issue – the shuffling proofs. Of course, without seeing the patched source code we have to take their word for it.Politics & SocietyIs it really a myth that our data isn’t safe? But the second issue, the unsound decryption proofs, was only noticed very recently and as far as we’re aware it has yet to be corrected. NSWEC says their decryption proofs are not affected, but without seeing the source code this can’t be checked.So, what does this mean for Internet voting security?First of all, it means that Australians should be grateful to Switzerland for passing a Federal Ordinance mandating open access to the source code of their voting system.Open, public review is important even for systems that are intended to be verifiable, because the voters and candidates need to be convinced that it will not seem to verify something that is wrong. Otherwise, the risk of undetectable electoral fraud remains, because of the risk that the verification mechanism itself might be manipulated.The second flaw is like ballot box observable all through polling day, yet somehow managing to slip in different votes. Picture: Getty ImagesIt’s lucky that a problem in iVote could be discovered by inspecting the Swiss code, because the iVote code is available only under very restrictive terms that would not have allowed us to analyse the code and publish our findings promptly.Were it not for the opportunity to examine the Swiss Post code, opportunities for undetectable electoral fraud might have gone unnoticed in the NSW election.The bottom lineWe have now found two, independent means by which a single authority could commit large-scale fraud in the sVote system, while passing verification using a false proof that everything was correct.Sciences & TechnologyiVote West Australia: Who voted for you? For iVote, we’re told that the first issue has been patched and the second doesn’t apply. If the source code were openly available, we could check; without it, we can’t.There’s no reason to think that correcting this second flaw in the proofs will be easy, or that it will produce a secure system with no further opportunities for undetectable electoral fraud.Banner: Getty Images
+
+
+ Republish this Article Terms of use  First published in Engineering & TechnologyEncryption CybersecurityElectionsElectronic VotingAustralian PoliticsShare Link copied 
+
+
+
+Featured individualsAssociate Professor Vanessa TeagueAdjunct Associate Professor, College of Engineering and Computer Science,
+Australian National University College of Engineering, Computing and CyberneticsSarah Jamie LewisExecutive Director, Open Privacy Research SocietyProfessor Olivier PereiraUCL Crypto Group, Université Catholique de Louvain
+
+
+
+
+
+Find out more about research in this faculty
+Engineering & Technology
+
+
+
+More stories from Politics & SocietyPrevious slideNext slidePolitics & SocietyCities must act quickly to challenge disinformation-fuelled violenceRiots and violent unrest in the UK following the murder of children in Southport demonstrates the need for city governments to act quickly against disinformationPolitics & Society‘Labor is a fair-weather friend of unionism’With various Australian elections on the horizon, it shouldn’t be a surprise Labor governments are distancing themselves from the CFMEU. It’s happened throughout their historyPolitics & SocietyIs this summer a moment of truth for France?As we head into the Paris Olympics, has the dream been compromised, even ruined, by other upheavals in France’s fevered summer?View more Politics & Society storiesContent Card SliderPrevious slideNext slideView more latest stories
+
+
+Subscribe for your weekly email digestPlease check your email to confirm your subscription.SubscribeBy subscribing, you agree to our  privacy policy.News, analysis, research and insights from world-leading mindsInterest areasDiscussion & DebateArts & CultureBusiness & EconomicsEducationEnvironmentHealth & Medicine Politics & SocietySciences & TechnologyFacultiesArchitecture, Building and PlanningArtsBusiness & EconomicsEducationEngineering & TechnologyFine Arts & MusicLawMedicine, Dentistry and HealthScienceStory typesBook extractGo FigureOpinionPodcastQ&AQuizUnder the MicroscopeUp CloseAbout PursuitAbout UsContact UsTerms of UseNewsroomFollow PursuitSocial mediaAcknowledgement of countryWe acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.Read about our Indigenous prioritiesEmergency InformationDisclaimer & copyrightAccessibilityPrivacyPursuit terms of usePhone: 13 MELB (13 6352) | International: +61 3 9035 5511The University of Melbourne ABN: 84 002 705 224CRICOS Provider Code: 00116K (visa information)
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

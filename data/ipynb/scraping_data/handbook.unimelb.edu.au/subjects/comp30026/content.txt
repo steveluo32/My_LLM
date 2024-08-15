@@ -1,0 +1,323 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp30026
+Models of Computation (COMP30026) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Models of ComputationSubjectsHandbook
+HandbookSubjectsModels of Computation
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Models of Computation (COMP30026)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Mak Nazecic-Andrlon
+mak.andrlon@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+Formal logic and discrete mathematics provide the theoretical foundations for computer science. This subject uses logic and discrete mathematics to model the science of computing. It provides a grounding in the theories of logic, sets, relations, functions, automata, formal languages, and computability, providing concepts that underpin virtually all the practical tools contributed by the discipline, for automated storage, retrieval, manipulation and communication of data.INDICATIVE CONTENT
+
+Logic: Propositional and predicate logic, resolution proofs, mathematical proof
+Discrete mathematics: Sets, functions, relations, order, well-foundedness, induction and recursion
+Automata: Regular languages, finite-state automata, context-free grammars and languages, parsing
+Computability briefly: Turing machines, computability, decidability
+
+A functional programming language will be used to implement and illustrate concepts.Intended learning outcomesOn completion of this subject students are expected to be able to:Use propositional and predicate logic as tools to reason about non-trivial computational problemsExplain basic principles of mechanised reasoning, including resolution proof, and apply these to reason about computional problemsReason about properties of mathematical objects such as functions and relations, and apply them to computational problems Apply discrete mathematical techniques to problems in computer scienceSynthesise context-free grammars from less formal language specificationsDesign abstract computational devices, such as finite-state automata and pushdown automataAnalyse and reason about computational models, including finite-state automata, pushdown automata and Turing machinesGeneric skillsOn completion of this subject students should have developed the following skills:Analytical skillsReasoning and problem-solving skillsAbility to communicate with precision, rigour and efficacyAbility to apply knowledge of science and engineering fundamentalsCapacity for creativity and innovationAbility to undertake problem identification, formulation and solutionNext: Eligibility and requirementsLast updated: 9 July 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

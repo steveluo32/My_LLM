@@ -1,0 +1,332 @@
+URL: https://handbook.unimelb.edu.au/subjects/info20004/
+Usability Evaluation Methods (INFO20004) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Usability Evaluation MethodsSubjectsHandbook
+HandbookSubjectsUsability Evaluation Methods
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Usability Evaluation Methods (INFO20004)Undergraduate level 2Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 Sarah Webbers.webber@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+How do we know if our digital designs will be usable and useful when people take them up in their work or social lives? Poor designs lead to errors and frustration and result in a substantial waste of money and resources. It is crucial that digital designers carefully evaluate and iterate their designs throughout a well-structured process. In this subject, students will build on the foundational material from the prerequisite subject Fundamentals of Interaction Design to learn the key industry methods and tools used to conduct usability evaluations and develop understanding about when these methods should be applied and how to interpret their findings.
+INDICATIVE CONTENT
+
+Theoretical foundations of usability evaluation
+Usability and user experience
+Lab-based evaluation methods (e.g., observation, eye-tracking, think aloud)
+Field studies / “in the wild” evaluations
+Expert- and user-based evaluations
+Analysis of usability evaluation data
+Intended learning outcomesOn completion of this subject, students are expected to be able to:Conduct a broad range of evaluation methods for digital technologies, and to select appropriate methods in terms of their strengths and limits; including ethnographic field study, user surveys, field experiments, laboratory experiments, and user experience trialsInterpret and communicate different types of usability data, including field observations, interviews, online use-logs, measurements of errors and efficacyApply contemporary knowledge of the tools and resources of an industry-standard usability-testing laboratoryEvaluate usability findings to inform the re-design and further development of digital technologiesGeneric skillsOn completion of this subject, students should have developed the following generic skills:
+An ability to undertake problem identification, formulation and solution
+The capacity to solve problems, including the collection and evaluation of information
+The ability to communicate designs and design thinking
+The ability to analyse and report different forms of data
+The capacity for critical and independent thought and reflection
+Profound respect for truth and intellectual integrity, and for the ethics of scholarship
+An expectation of the need to undertake lifelong learning, and the capacity to do so
+Next: Eligibility and requirementsLast updated: 11 July 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+

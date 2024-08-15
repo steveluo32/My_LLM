@@ -1,0 +1,344 @@
+URL: https://handbook.unimelb.edu.au/subjects/comp30020
+Declarative Programming (COMP30020) — The University of Melbourne Handbook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declarative ProgrammingSubjectsHandbook
+HandbookSubjectsDeclarative Programming
+ Search Menu
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+ Close
+
+Declarative Programming (COMP30020)Undergraduate level 3Points: 12.5On Campus (Parkville)You’re viewing the 2024 Handbook: 20242023202220212020201920182017Or view archived HandbooksView full page About this subject OverviewEligibility and requirementsAssessmentDates and timesFurther informationTimetable (login required)(opens in new window)Contact informationSemester 2 schachte@unimelb.edu.auOverviewAvailabilitySemester 2FeesLook up feesAIMS
+Declarative programming languages provide elegant and powerful programming paradigms and techniques that every programmer should know. This subject presents declarative programming languages and techniques.
+ 
+INDICATIVE CONTENT
+
+The dangers of destructive update
+Functional programming
+Recursion
+Strong type systems
+Parametric polymorphism
+Algebraic types
+Type classes
+Defensive programming practice
+Higher order programming
+Currying and partial application
+Lazy evaluation
+Monads
+Logic programming
+Unification and resolution
+Nondeterminism, search, and backtracking.
+Intended learning outcomesINTENDED LEARNING OUTCOMES (ILO) 
+ 
+On completion of this subject the student is expected to:
+
+ Apply declarative programming techniquesWrite medium size programs in a declarative languageWrite programs in which different components use different languagesSelect appropriate languages for each component task in a projectGeneric skillsOn completion of this subject students should have developed the following skills:
+Ability to undertake problem identification, formulation and solution
+Ability to utilise a systems approach to design and operational performance
+Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity
+Openess to new ideas and unconventional critiques of received wisdom
+Capacity for independent critical thought, rational inquiry and self-directed learning.
+  Next: Eligibility and requirementsLast updated: 8 August 2024
+
+
+
+
+              Site footer
+           
+
+
+                 We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+              
+
+
+                    Read about our commitment to reconciliation
+                    
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+                             About us
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Careers at Melbourne
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Safety and respect
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Newsroom
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+                             Contact
+                             
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+                       Phone: 13 MELB (13 6352)International: +61 3 9035 5511
+                    
+
+                       Address:The University of Melbourne Grattan Street, Parkville, Victoria, 3010, Australia
+                    
+
+
+                          View all Campus locations
+                          
+
+Chevron-right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Facebook
+                       
+
+
+
+
+
+
+
+
+                       Twitter
+                       
+
+
+
+
+
+
+
+
+                       LinkedIn
+                       
+
+
+
+
+
+
+
+
+                       Instagram
+                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Emergency
+           
+
+
+            Terms & privacy
+           
+
+
+           Accessibility
+           
+
+
+           Privacy
+           
+
+
+
+
+CRICOS number:
+00116K
+
+
+ABN:
+84 002 705 224
+
+
+
+CloseHandbook homeSearch the HandbookCoursesCoursesUndergraduate coursesGraduate coursesResearch coursesSubjectsSubjectsUndergraduate subjectsGraduate subjectsResearch subjectsBreadth TracksCAPS Login - Staff only
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    This site uses and shares cookies and similar technologies to personalise your experience, advertise to you and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our Privacy Statement  for further information.
+           Accept cookies       Cookie preferences              
+====================================================================================================
+
